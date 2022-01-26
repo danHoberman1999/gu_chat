@@ -9,11 +9,14 @@
 
 A chatbot to help provide information from the Gonzaga website
 
-### Usage
+### How to run
 
-1. Start the server
-2. Go to http://127.0.0.1:8000/my_app/
-3. The chatbot will provide instructions on how to interact
+1. git clone
+2. open my_project folder as main folder
+3. (if Django is not installed) pip install django
+4. navigate to directory where manage.py folder exists
+5. python manage.py runserver
+7. Go to http://127.0.0.1:8000/my_app/
 
 ### Credits
 
