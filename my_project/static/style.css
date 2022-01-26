@@ -18,16 +18,15 @@ a {
   color: #eee;
 }
 
+body {
+  background: #ffffff;
+}
+
 header {
   width: 100%;
   padding-bottom: 10px;
   padding-top: 10px;
-  background: rgb(0, 32, 62);
-  background: linear-gradient(
-    135deg,
-    rgba(0, 32, 62, 1) 29%,
-    rgba(0, 48, 85, 1) 35%
-  );
+  background: #242582;
   background-size: cover;
   position: relative;
   overflow: hidden;
@@ -60,10 +59,17 @@ nav {
 
 .brand {
   display: inline-block;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 300;
   transform: translateX(-100rem);
   animation: slideIn 0.5s forwards;
+}
+
+.brand:hover .chatbot-logo {
+  animation-name: nod-animation; /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s; /* Change to speed up or slow down */
+  animation-iteration-count: infinite; /* Never stop waving :) */
+  transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
 }
 
 .chatbot-logo {
@@ -71,8 +77,36 @@ nav {
   height: 65px;
 }
 
+@keyframes nod-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(14deg);
+  } /* The following five values can be played with to make the waving more or less extreme */
+  20% {
+    transform: rotate(-8deg);
+  }
+  30% {
+    transform: rotate(14deg);
+  }
+  40% {
+    transform: rotate(-4deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+  60% {
+    transform: rotate(0deg);
+  } /* Reset for the last half to pause */
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
 .brand span {
-  color: #c8102e;
+  color: #0096f6;
+  font-weight: 600;
 }
 
 nav ul {
@@ -100,6 +134,9 @@ nav ul li:nth-child(3) {
 nav ul li:nth-child(4) {
   animation-delay: 1.5s;
 }
+nav ul li:nth-child(5) {
+  animation-delay: 2s;
+}
 
 nav ul li a {
   padding: 1rem 0;
@@ -118,7 +155,7 @@ nav ul li a::after {
   position: absolute;
   width: 100%;
   height: 2px;
-  background-color: crimson;
+  background-color: #0096f6;
   left: 0;
   transform: scaleX(0);
   transition: all 0.5s;
@@ -207,23 +244,18 @@ CHATBOT CSS SECTION
 .chat-container {
   margin-top: 70px;
   margin-bottom: 70px;
+  background-color: #ffffff;
 }
 
 .chatroom {
   border-radius: 14px !important;
-  width: 85%;
+  width: 60%;
   margin: 0 auto;
   display: block;
-  height: 640px;
+  height: 700px;
   color: #153e85;
   max-height: 90vh;
-  background: rgb(0, 48, 85);
-  background: linear-gradient(
-    135deg,
-    rgba(0, 48, 85, 1) 28%,
-    rgba(37, 39, 77, 1) 80%
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background: #eaedf2; /* original: rgb(0, 48, 85)*/
   border-radius: 3px;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
@@ -240,11 +272,12 @@ CHATBOT CSS SECTION
 }
 
 .chatroom h3 {
+  background-color: #0096f6;
   color: #fafafa;
   margin: 0;
-  height: 30px;
-  font-weight: 600;
-  font-size: 18px;
+  height: 50px;
+  font-weight: 700;
+  font-size: 24px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -263,7 +296,7 @@ CHATBOT CSS SECTION
   background: hsla(0, 0%, 100%, 0.993);
   position: relative;
   padding: 5px 13px;
-  font-size: 14px;
+  font-size: 23px;
   border-radius: 10px;
   list-style: none;
   float: left;
@@ -277,11 +310,19 @@ CHATBOT CSS SECTION
 }
 .chatroom .chats .chat.left {
   border-bottom-left-radius: 0;
+  background-color: #ffffff;
+}
+.chatroom .chats .chat.left div.text {
+  color: #2a2a2b !important;
 }
 .chatroom .chats .chat.right {
   float: right;
   clear: both;
   border-bottom-right-radius: 0;
+  background-color: #0295f6;
+}
+.chatroom .chats .chat.right div.text {
+  color: #fefefe !important;
 }
 .chatroom .chats .chat .text {
   word-wrap: break-word;
@@ -342,12 +383,12 @@ CHATBOT CSS SECTION
 }
 .chatroom .chats .time.left {
   float: left;
-  color: #fafafa;
+  color: #000000;
 }
 
 .chatroom .chats .time.right {
   float: right;
-  color: #fafafa;
+  color: #000000;
 }
 .chatroom .chats .chat-buttons {
   position: relative;
@@ -390,143 +431,54 @@ CHATBOT CSS SECTION
   align-items: center;
 }
 .chatroom .input input[type="text"] {
-  background-color: hsla(0, 0%, 100%, 0.8);
+  background-color: #fff;
   outline: 0;
-  border: 1px solid #fff;
-  border-right: none;
+  border: 1px solid #e5e4eb;
+  border-radius: 12px;
   color: #343d4e;
   padding: 0 5px;
-  border-top-left-radius: 3px;
-  border-bottom-left-radius: 3px;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
-  height: 30px;
+  height: 60px;
   flex: 4;
   box-sizing: border-box;
-  font-size: 14px;
+  font-size: 24px;
   transition: background-color 0.2s ease;
 }
+input {
+  margin-bottom: 80px;
+}
+
+.input {
+  margin-bottom: 80px;
+}
+
 .chatroom .input input[type="text"]:focus {
   box-shadow: none;
   background-color: #fff;
 }
 .chatroom .input input[type="submit"] {
-  display: inline-block;
-  background: rgb(1, 59, 104);
-  border: 1px solid #fff;
-  color: #fff;
-  height: 30px;
-  min-width: 70px;
-  line-height: 1;
-  text-align: center;
-  padding: 0;
-  font-size: 12px;
-  flex: 1;
-  box-shadow: none;
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  outline: none;
-  font-weight: 600;
-  text-transform: uppercase;
+  visibility: hidden;
+  display: none;
 }
 .chatroom .input input[type="submit"]:hover {
-  background: rgb(46, 108, 155);
+  visibility: hidden;
 }
 .chatroom #speech-input {
-  height: 30px;
-  width: 30px;
+  height: 60px;
+  width: 60px;
   margin-left: 5px;
-  background: rgb(1, 59, 104);
-  border: 1px solid #fff;
-  color: #fff;
-  border-radius: 3px;
+  background: #fff;
+  border: 1px solid #e5e4eb;
+  color: #0295f6;
+  border-radius: 7px;
   cursor: pointer;
   transition: all 0.3s ease;
+  margin-bottom: 78px;
 }
 .chatroom #speech-input:hover {
-  background: rgb(46, 108, 155);
+  background: rgb(226, 226, 226);
 }
 .chatroom .vertical-center {
   vertical-align: middle;
-}
-
-/* ################################
-FOOTER CSS SECTION
-################################ */
-footer ul {
-  display: inline-grid;
-  grid-auto-flow: row;
-  grid-gap: 24px;
-  justify-items: center;
-  margin: auto;
-}
-
-@media (min-width: 500px) {
-  footer ul {
-    grid-auto-flow: column;
-  }
-}
-
-footer a {
-  color: white;
-  text-decoration: none;
-  box-shadow: inset 0 -1px 0 hsla(0, 0%, 100%, 0.4);
-}
-
-footer a:hover {
-  box-shadow: inset 0 -1.2em 0 hsla(0, 0%, 100%, 0.4);
-}
-
-footer li:last-child {
-  grid-column: 1 / 2;
-  grid-row: 1 / 2;
-}
-
-footer li:hover ~ li p {
-  animation: wave-animation 0.3s infinite;
-}
-
-footer li {
-  width: 125px;
-  font-size: 15px;
-}
-
-footer p {
-  font-size: 25px;
-}
-
-/* below is just for demo styling */
-
-footer div {
-  display: flex;
-  height: 12vh;
-  width: 100%;
-  background: rgb(0, 32, 62);
-  background: linear-gradient(
-    135deg,
-    rgba(0, 32, 62, 1) 29%,
-    rgba(0, 48, 85, 1) 35%
-  );
-  line-height: 1.3;
-  font-family: Menlo, monospace;
-}
-
-@keyframes wave-animation {
-  0%,
-  100% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(20deg);
-  }
-  75% {
-    transform: rotate(-15deg);
-  }
+  height: 1.7em;
+  width: 1.7em;
 }
