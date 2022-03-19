@@ -8,3 +8,16 @@ stories:
   - action: utter_greet
   - intent: mood_great
   - action: utter_happy
+
+- story: math path
+  steps:
+  - intent: math_department_info
+  - action: utter_math_department_info
+  - intent: math_credits_info
+  - action: utter_math_credits_info
+  - intent: math_courses_info
+  - action: utter_math_courses_info
+  - intent: math_faculty_info
+  - action: utter_math_faculty_info
+  - intent: math_chairperson_info
+  - action: utter_math_chairperson_info
