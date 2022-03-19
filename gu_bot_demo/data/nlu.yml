@@ -1,0 +1,236 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: math_department_info
+  examples: |
+    - I want to learn more about the math department
+    - Tell me about the Math department
+    - I’d like to know more about the math department
+    - I want to know about the math department at Gonzaga
+    - Info about math department
+    - Math info
+    - How many majors are there in the math department
+    - Math department
+    - Math degree
+    - Math at gonzaga
+    - Can i take math at gonzaga
+    - Math gonzaga
+    - Tell me about math at gonzaga
+    - Gonzaga math department
+    - Gonzaga mathematics department
+    - Undergraduate math gonzaga
+    - Undergraduate math
+    - math
+    - Possible math majors
+    - Gonzaga math
+    - Can I get a minor in math
+    - Can I get a major in math
+    - Can I get a BA in math
+    - Can I get a BS in math
+    - Applied mathematics vs mathematics
+    - Does Gonzaga offer a math major
+    - mathematics
+    - What are the three math degrees
+    - Mathematics info
+    - Information about math
+    - Math info
+
+- intent: math_credits_info
+  examples: |
+    - How many credits for a math major?
+    - Math major info
+    - Math major information
+    - Math major requirements
+    - Credits in math
+    - Credits in mathematics
+    - How many credits for a math degree
+    - Math majors info
+    - Is a math major hard
+    - How to get a math major
+    - How to get a math degree
+    - How to major in math
+    - How to major in mathematics
+    - Requirements for a math major
+    - Math requirements
+    - How do I get a math major
+    - How do I get an applied math major
+    - Math requirements
+    - What do I need to do to earn a math major
+    - How many credits do math majors take
+    - How many credits do applied math majors take
+    - Math major credits
+    - Applied math major credits
+    - BA in math information
+    - BS in math information
+    - Math BA info
+    - Math BA information
+    - Math BS info
+    - Math BS information
+
+
+- intent: math_chairperson_info
+  examples: |
+    - Who is the chairperson of the math department?
+    - Vesta Coufal
+    - Dr. Coufal
+    - Dr coufal
+    - Professor coufal
+    - Math department chair
+    - Chair of math department
+    - Department chair of mathematics
+    - Who is the department chair of math
+    - Who is the department chair of math at Gonzaga
+    - Gonzaga’s math department chair
+    - Math department chair
+    - Chair person of math
+    - Chairperson of math
+    - Mathematics department chair
+    - Math chair
+    - Mathematics chair
+    - Coufal
+    - Vesta
+    - Who is the chair of the math department
+    - Who’s the chair of the math department
+
+
+- intent: math_faculty_info
+  examples: |
+    - What is the math department faculty like
+    - Tell me about the faculty of the math department
+    - Who are some professors in the math department
+    - Who works in the math department
+    - Math department faculty
+    - Who teaches in the math department
+    - Professors in the math department
+    - Faculty of the math department
+    - Faculty members of the math department
+    - I want to know about the math department faculty
+    - Math faculty
+    - Math professors
+    - Shannon Overbay
+    - Thomas Mckenzie
+    - Math professor
+    - Math teacher
+    - Math teachers
+    - Who teaches math
+    - Who teaches math at gonzaga
+    - Who teaches math at GU
+    - List of math professors
+
+- intent: math_courses_info
+  examples: |
+    - Math courses
+    - What are some of the math courses
+    - What classes are in the math department
+    - What is taught in the math department
+    - Math classes
+    - Courses in the math department
+    - What can I take in the math department
+    - What do math majors take 
+    - What do applied math majors take
+    - Offered math classes
+    - All math classes
+    - List math classes
+    - What are all the math classes offered at gonzaga
+    - Mathematics courses
+    - Mathematics classes
+    - What math class are there
+    - What math classes are offered at gonzaga
+    - What math classes are offered at gu
+    - Linear algebra
+    - Does gonzaga offer calculus
+    - Can I take trigonometry
+    - Can I take trig
+    - Can I take geometry
+
+

@@ -1,0 +1,38 @@
+version: "2.0"
+
+rules:
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- rule: Give Info about math department
+  steps:
+  - intent: math_department_info
+  - action: utter_math_department_info
+
+- rule: Give info about math degree credits 
+  steps:
+  - intent: math_credits_info
+  - action: utter_math_credits_info
+
+- rule: Give info about mathematics chairperson
+  steps:
+  - intent: math_chairperson_info
+  - action: utter_math_chairperson_info
+
+- rule: Give info about fauilty in math
+  steps:
+  - intent: math_faculty_info
+  - action: utter_math_faculty_info
+
+- rule: Give info about math courses
+  steps:
+  - intent: math_courses_info
+  - action: utter_math_courses_info

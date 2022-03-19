@@ -1,0 +1,54 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - math_department_info
+  - math_credits_info
+  - math_chairperson_info
+  - math_faculty_info
+  - math_courses_info
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_math_department_info:
+  - text: The Department of Mathematics offers three different degrees; Bachelors of Arts in Mathematics, Bachelor of Science in Mathematics, and a Bachelor of Science Applied Mathematics. As well as minors in both Mathematics and Applied Mathematics.
+
+  utter_math_credits_info:
+  - text: For a BS in Mathematics, it takes 40 credits with 88 other credits needed. For a BA in Mathematics, it takes 31 credits with 97 ther credits needed. A BS in Applied Mathematics requires 57-69 credits, with 59-71 other credits fulfilled through a concentration.
+  
+  utter_math_chairperson_info:
+  - text: The chairperson of the math department is Vesta Coufal.
+
+  utter_math_courses_info:
+  - text: Here are some of the major courses in Math; Lower Devision, MATH 157 Calculus and Analytic Geometry I. MATH 258 Calculus and Analytic Geometry II. MATH 259 Calculus and Analytic Geometry III. Upper Devision, MATH 301 Fundamentals of Mathematics. MATH 339 Linear Algebra. MATH 413 Real Analysis I. MATH 437 Abstract Algebra I. MATH 499 Comprehensive.
+
+  utter_math_faculty_info:
+  - text: Here are the faculty in the math department; Melody Alsaker (Ph.D), Associate Professor of Mathematics. Logan Axon (Ph.D), Associate Professor of Mathematics. Richard Cangelosi (Ph.D),  Associate Professor of Mathematics. Vesta Coufal (Ph.D), Professor and Chair of Mathematics. Bonni Dichone (Ph.D), Associate Professor of Mathematics. Michelle Ghrist (Ph.D), Associate Professor of Mathematics. Colleen Goodwin, Senior Lecturer. Tomás Guardia (Ph.D), Lecturer of Mathematics. Eric Hogle (Ph.D), Associate Professor of Mathematics. 
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
