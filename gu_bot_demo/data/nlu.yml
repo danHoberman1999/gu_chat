@@ -233,4 +233,633 @@ nlu:
     - Can I take trig
     - Can I take geometry
 
+- intent: philosophy_department_info
+  examples: |
+    - Tell me about the philosophy department
+    - I’d like to know more about the philosophy department
+    - I want to know about the philosophy department at Gonzaga
+    - Info about philosophy department
+    - philosophy info
+    - How many majors are there in the philosophy department
+    - Philosophy department
+    - Philosophy degree
+    - Philosophy at gonzaga
+    - Can i take philosophy at gonzaga
+    - Philosophy gonzaga
+    - Tell me about philosophy at gonzaga
+    - Gonzaga philosophy department
+    - Gonzaga philosophy department
+    - Undergraduate philosophy gonzaga
+    - Undergraduate philosophy
+    - philosophy
+    - Possible philosophy majors
+    - Gonzaga philosophy
+    - Can I get a minor in philosophy
+    - Can I get a major in philosophy
+    - Can I get a BA in philosophy
+    - Does Gonzaga offer a philosophy major
+    - What are the philosophy  degrees
+    - philosophy info
+    - Information about philosophy
+
+- intent: philosophy_credits_info
+  examples: |
+    - Philosophy major information
+    - Philosophy major info
+    - Philosophy major requirements
+    - Credits in philosophy
+    - Credits in philosophy
+    - How many credits for a philosophy degree
+    - How many credits for a philosophy major
+    - Philosophy majors info
+    - Is a philosophy major hard
+    - How to get a philosophy major
+    - How to get a philosophy degree
+    - How to major in philosophy
+    - How to major in philosophy
+    - Requirements for a philosophy major
+    - Philosophy requirements
+    - How do I get a philosophy major
+    - How do I get an applied philosophy major
+    - Philosophy requirements
+    - What do I need to do to earn a philosophy major
+    - How many credits do philosophy majors take
+    - How many credits do applied philosophy majors take
+    - Philosophy major credits
+    - Applied philosophy major credits
+    - BA in philosophy information
+    - BS in philosophy information
+    - Philosophy BA info
+    - Philosophy BA information
+
+- intent: philosophy_chairperson_info
+  examples: |
+    - Erik Schmidt
+    - Dr. Schmidt
+    - Dr schmidt
+    - Professor schmidt
+    - Philosophy department chair
+    - Chair of philosophy department
+    - Department chair of philosophy
+    - Who is the department chair of philosophy
+    - Who is the department chair of philosophy at Gonzaga
+    - Gonzaga’s philosophy department chair
+    - Philosophy department chair
+    - Chairperson of philosophy
+    - Chairperson of philosophy
+    - Philosophy department chair
+    - Philosophy chair
+    - Philosophy chair
+    - Schmidt
+    - Ciaffa
+    - Who is the chair of the philosophy department
+    - Who’s the chair of the philosophy department
+    - Are there 2 people as the chair for the philosophy department
+
+- intent: philosophy_faculty_info
+  examples: |
+    - Tell me about the faculty of the philosophy department
+    - Who are some professors in the philosophy department
+    - Philosophy department faculty
+    - Who teaches in the philosophy department
+    - Professors in the philosophy department
+    - Faculty of the philosophy department
+    - Faculty members of the philosophy department
+    - I want to know about the philosophy department faculty
+    - Philosophy faculty
+    - Philosophy professors
+    - Erik Schmidt
+    - Dan Bradley
+    - Ted Di Maria
+    - Jacob Tuddle
+    - Philosophy teachers
+    - Who teaches philosophy
+    - Who teaches philosophy at gonzaga
+    - Who teaches philosophy at GU
+    - List of philosophy professors
+
+- intent: philosophy_courses_info
+  examples: |
+    - Philosophy courses
+    - What are some of the philosophy courses
+    - What classes are in the philosophy department
+    - What is taught in the philosophy department
+    - Philosophy classes
+    - Courses in the philosophy department
+    - What can I take in the philosophy department
+    - What do philosophy majors take 
+    - Offered philosophy classes
+    - All philosophy classes
+    - List philosophy classes
+    - What are all the philosophy classes offered at gonzaga
+    - Philosophy courses
+    - Philosophy classes
+    - What philosophy class are there
+    - What philosophy classes are offered at gonzaga
+    - What philosophy classes are offered at gu
+    - Ethics
+    - Does gonzaga offer reasoning
+    - Can I take human nature
+    - Can I take ethics
+
+- intent: scholarship_info
+  examples: |
+    - Gonzaga scholarships
+    - scholarships
+    - Does Gonzaga offer scholarships?
+    - What kind of scholarships does Gonzaga offer?
+    - Does Gonzaga offer academic scholarships?
+    - Academic scholarships
+    - What scholarships can I apply for?
+    - Financial aid scholarships
+    - Athletic scholarships
+    - Arts scholarships
+
+- intent: financial_aid_apply_info
+  examples: |
+    - Does Gonzaga accept FAFSA?
+    - FAFSA
+    - How to apply for financial aid
+    - Where do I apply for financial aid?
+    - Financial aid gonzaga
+    - Can I apply for financial aid?
+    - How do students get financial aid?
+    - How to get financial aid
+    - Where do I apply for financial aid?
+    - Financial aid application
+    - Is there a form I have to fill out for financial aid?
+
+- intent: financial_aid_stats_info
+  examples: |
+    - Do many students qualify for financial aid?
+    - How many students receive financial aid?
+    - Is it likely I’ll receive financial aid?
+    - Are there a lot of students receiving financial aid?
+    - How many GU students get financial aid?
+    - How common is financial aid?
+    - Financial aid statistics
+    - Does Gonzaga give a lot of financial aid?
+    - Do a lot of students get financial aid?
+    - What are the chances I get financial aid?
+
+- intent: gonzaga_billing_info
+  examples: |
+    - How do I get to my  billing statement?
+    - Where can I see my billing statement?
+    - Where do I access my billing statement?
+    - Where can I pay my tuition bill?
+    - How do I view my billing statement?
+    - How to pay bill
+    - How to check billing statement
+    - CASHNET
+    - How do I access CASHNET?
+    - How do I get to CASHNET?
+
+- intent: gonzaga_cost_of_attendance
+  examples: |
+    - How much is Gonzaga tuition?
+    - How much will I need to attend Gonzaga?
+    - Gonzaga tuition cost
+    - tuition cost
+    - How much does it cost to attend Gonzaga?
+    - How much is Gonzaga?
+    - Does Gonzaga cost a lot?
+    - Is Gonzaga expensive?
+    - Gonzaga tuition
+    - How much will I need to pay to attend Gonzaga?
+
+- intent: gonzaga_president_info
+  examples: |
+    - Who is the Gonzaga University president?
+    - Who is the GU president?
+    - Does Gonzaga have a president?
+    - Gonzaga president
+    - Gonzaga University president
+    - President of Gonzaga University
+    - Thayne
+    - Thayne McCullough
+    - Who is the university president?
+    - Who is the president?
+
+- intent: gonzaga_president_office_info
+  examples: |
+    - Where can I find the office of the president?
+    - Where is the office of the president?
+    - How do I get to the office of the president?
+    - In what building is the office of the president?
+    - Where on campus is the office of the president?
+    - Where is Thayne’s office?
+    - Where does Thayne work?
+    - President’s office
+    - Thayne’s office
+    - Where can I find the university president?
+
+- intent: gonzaga_president_responsibilities
+  examples: |
+    - What does the president do?
+    - What does the university president do?
+    - What does Thayne do?
+    - What is Thayne’s job?
+    - What are Thayne’s duties?
+    - What does Thayne’s office do?
+    - What is the job of the office of the president?
+    - What does the office of the president do?
+    - What can the university president do?
+    - Role of the university president
+
+- intent: compsci_department_info
+  examples: |
+    - Tell me about the computer science department
+    - I’d like to know more about the computer science department
+    - I want to know about the computer science department at Gonzaga
+    - Info about computer science department
+    - computer science info
+    - How many majors are there in the computer science department
+    - computer science department
+    - computer science degree
+    - computer science at gonzaga
+    - Can i take computer science at gonzaga
+    - computer science gonzaga
+    - Tell me about computer science at gonzaga
+    - Gonzaga computer science department
+    - Gonzaga computer science department
+    - Undergraduate computer science gonzaga
+    - Undergraduate computer science
+    - computer science
+    - Possible computer science majors
+    - Gonzaga computer science
+    - Can I get a minor in computer science
+    - Can I get a major in computer science
+    - Can I get a BA in computer science
+    - Can I get a BS in computer science
+    - Does Gonzaga offer a computer science major
+    - computer science
+    - What are the computer science degrees
+    - computer science info
+    - Information about computer science
+
+- intent: compsci_credits_info
+  examples: |
+    - computer science major info
+    - computer science major information
+    - computer science major requirements
+    - Credits in computer science
+    - Credits in computer science
+    - How many credits for a computer science degree
+    - How many credits for a computer science major
+    - computer science majors info
+    - Is a computer science major hard
+    - How to get a computer science major
+    - How to get a computer science degree
+    - How to major in computer science
+    - How to major in computer science
+    - Requirements for a computer science major
+    - computer science requirements
+    - How do I get a computer science major
+    - How do I get an computer science major
+    - computer science requirements
+    - What do I need to do to earn a computer science major
+    - How many credits do computer science majors take
+    - How many credits do computer science majors take
+    - computer science major credits
+    - computer science major credits
+    - BA in computer science information
+    - BS in computer science information
+    - computer science BA info
+    - computer science BA information
+    - computer science BS info
+    - computer science BS information
+
+- intent: compsci_chairperson_info
+  examples: |
+    - Paul DePalma
+    - Dr. DePalma
+    - Dr depalma
+    - Professor DePalma
+    - computer science department chair
+    - Chair of computer science department
+    - Department chair of computer science
+    - Who is the department chair of computer science
+    - Who is the department chair of computer science at Gonzaga
+    - Gonzaga's computer science department chair
+    - computer science department chair
+    - Chair person of computer science
+    - Chairperson of computer science
+    - computer science department chair
+    - computer science chair
+    - computer science chair
+    - Depalma
+    - Who is the chair of the computer science department
+    - Who's the chair of the computer science department
+
+- intent: compsci_faculty_info
+  examples: |
+    - Tell me about the faculty of the computer science department
+    - What is the computer science department faculty like
+    - Who are some professors in the computer science department
+    - computer science department faculty
+    - Who teaches in the computer science department
+    - Professors in the computer science department
+    - Faculty of the computer science department
+    - Faculty members of the computer science department
+    - I want to know about the computer science department faculty
+    - computer science faculty
+    - computer science professors
+    - Shawn Bowers
+    - Gina Sprint
+    - Dan Eshner
+    - Aaron Crandell
+    - computer science teachers
+    - Who teaches computer science
+    - Who teaches computer science at gonzaga
+    - Who teaches computer science at GU
+    - List of computer science professors
+
+- intent: compsci_courses_info
+  examples: |
+    - computer science courses
+    - What are some of the computer science courses
+    - What classes are in the computer science department
+    - What is taught in the computer science department
+    - computer science classes
+    - Courses in the computer science department
+    - What can I take in the computer science department
+    - What do computer science majors take 
+    - Offered computer science classes
+    - All computer science classes
+    - List computer science classes
+    - What are all the computer science classes offered at gonzaga
+    - computer science courses
+    - computer science classes
+    - What computer science class are there
+    - What computer science classes are offered at gonzaga
+    - What computer science classes are offered at gu
+    - Data structures
+    - Does gonzaga offer app development
+    - Can I take web development
+    - Can I take data science
+
+- intent: jundt_museum_art_info
+  examples: |
+    - What art does Jundt display?
+    - What type of art is in Jundt?
+    - What type of art museum is Jundt?
+    - What sorts of art can I find in Jundt?
+    - What kind of art can I find in Jundt?
+    - What art is in Jundt?
+    - Does Jundt have any Picasso?
+    - Does Jundt have any Warhol?
+    - What art is on display in Jundt?
+    - Does Jundt showcase any famous painters?
+
+- intent: jundt_museum_hours
+  examples: |
+    - When is the Jundt Art Museum open?
+    - What are the Jundt Art Museum’s hours?
+    - When can I visit the Jundt Art Museum?
+    - When is the Jundt Art Museum open?
+    - When can I go to the Jundt Art Museum?
+    - Jundt museum hours
+    - Is the Jundt Art Museum open on weekends?
+    - Is the Jundt Art Museum open today?
+    - When does the Jundt Art Museum open?
+    - When does the Jundt Art Museum close?
+
+- intent: jundt_museum_location
+  examples: |
+    - What is the location of the Jundt Art Museum?
+    - What is the address of the Jundt Art Museum?
+    - Jundt address
+    - Where can I find the Jundt Art Museum?
+    - Where on campus is the Jundt Art Museum?
+    - Address of Jundt Art Museum?
+    - What is Jundt’s address?
+    - What is the Jundt Art Museum’s address?
+    - Can you give me the Jundt Art Museum’s address?
+    - Do you know the Jundt Art Museum’s address?
+
+- intent: jundt_museum_name
+  examples: |
+    - Why is it called the Jundt Art Museum?
+    - Who is the Jundt Art Museum named after?
+    - Who is Jundt named after?
+    - Do you know why it is called Jundt?
+    - Why Jundt?
+    - Can you tell me why it is called Jundt?
+    - Jundt meaning
+    - Why is the art museum named Jundt?
+    - Tell me about the name of the art museum
+    - Why name the art museum Jundt?
+
+- intent: jundt_museum_art_submission
+  examples: |
+    - How can I display my art in Jundt?
+    - Can I display my art in Jundt?
+    - How can I submit my work for display in Jundt?
+    - Can I arrange a solo exhibition in Jundt?
+    - Can I get an exhibition in Jundt?
+    - Will Jundt let me display my work?
+    - Will Jundt let me submit work for display?
+    - Does Jundt allow for solo exhibits?
+    - Can I display paintings in Jundt?
+    - Will Jundt accept my artwork?
+
+- intent: campus_security_contact
+  examples: |
+    - What is campus security’s phone number?
+    - Is campus security available 24/7?
+    - What is campo’s number?
+    - How available is campus security?
+    - How can I reach campus security?
+    - How can I call campus security?
+    - Can you tell me the campus security’s phone number?
+    - Can I contact campus security?
+    - Can I call campus security?
+    - When is campus security available?
+
+- intent: campus_security_existance
+  examples: |
+    - Is there security at Gonzaga?
+    - Does Gonzaga have police?
+    - Does Gonzaga have on-campus security?
+    - Does Gonzaga’s campus have security?
+    - Does Gonzaga have its own security?
+    - Is there on-campus security at Gonzaga?
+    - Do we have campus security?
+    - Is there security here?
+    - Is there campus police?
+    - Will there be campus security at Gonzaga?
+
+- intent: gonzaga_campus_safety
+  examples: |
+    - How safe is Gonzaga?
+    - Will I feel safe on Gonzaga’s campus?
+    - Is Gonzaga in a safe location?
+    - Is Gonzaga safe?
+    - Is there crime around Gonzaga?
+    - Is Gonzaga sketchy?
+    - What sorts of crime happens at Gonzaga?
+    - Does Gonzaga have a safe campus?
+    - How does Gonzaga feel about safety?
+    - Am I safe on campus?
+
+- intent: campus_security_office_location
+  examples: |
+    - Does campus security have an office?
+    - Where can I see campus security?
+    - What is the location of campus security?
+    - Where is the office of campus security?
+    - Where can I find campus security?
+    - Where on campus is campo?
+    - Does campus security have a building?
+    - Where is campo?
+    - Can you tell me where the campo office is?
+    - Where is the campo office?
+
+- intent: mechengi_department_info
+  examples: |
+    - Tell me about the mechanical engineering department
+    - I’d like to know more about the mechanical engineering department
+    - I want to know about the mechanical engineering department at Gonzaga
+    - Info about mechanical engineering department
+    - mechanical engineering info
+    - How many majors are there in the mechanical engineering department
+    - mechanical engineering department
+    - mechanical engineering degree
+    - mechanical engineering at gonzaga
+    - Can i take mechanical engineering at gonzaga
+    - mechanical engineering gonzaga
+    - Tell me about mechanical engineering at gonzaga
+    - Gonzaga mechanical engineering department
+    - Gonzaga Mechanical engineering department
+    - Undergraduate mechanical engineering gonzaga
+    - Undergraduate mechanical engineering
+    - mechanical engineering
+    - Possible mechanical engineering majors
+    - Gonzaga mechanical engineering
+    - Can I get a minor in mechanical engineering
+    - Can I get a major in mechanical engineering
+    - Can I get a BA in mechanical engineering
+    - Does Gonzaga offer a mechanical engineering major
+    - Mechanical engineering
+    - What are the mechanical engineering degrees
+    - Mechanical engineering info
+    - Information about mechanical engineering
+
+- intent: mechengi_credits_info
+  examples: |
+    - mechanical engineering major info
+    - mechanical engineering major information
+    - mechanical engineering major requirements
+    - Credits in mechanical engineering
+    - How many credits for a mechanical engineering degree
+    - How many credits for a mechanical engineering major
+    - mechanical engineering majors info
+    - Is a mechanical engineering major hard
+    - How to get a mechanical engineering major
+    - How to get a mechanical engineering degree
+    - How to major in mechanical engineering
+    - Requirements for a mechanical engineering major
+    - mechanical engineering requirements
+    - How do I get a mechanical engineering major
+    - mechanical engineering requirements
+    - What do I need to do to earn a mechanical engineering major
+    - How many credits do mechanical engineering majors take
+    - mechanical engineering major credits
+    - BS in mechanical engineering information
+    - mechanical engineering BS info
+    - mechanical engineering BS information
+
+- intent: mechengi_chairperson_info
+  examples: |
+    - Akbar Ansari
+    - Dr. Ansari
+    - Dr ansari
+    - Professor ansari
+    - mechanical engineering department chair
+    - Chair of mechanical engineering department
+    - Department chair of mechanical engineering
+    - Who is the department chair of mechanical engineering
+    - Who is the department chair of mechanical engineering at Gonzaga
+    - Gonzaga’s mechanical engineering department chair
+    - mechanical engineering department chair
+    - Chair person of mechanical engineering
+    - Chairperson of mechanical engineering
+    - mechanical engineering department chair
+    - mechanical engineering chair
+    - mechanical engineering chair
+    - Ansari
+    - Who is the chair of the mechanical engineering department
+    - Who’s the chair of the mechanical engineering department
+  
+- intent: mechengi_faculty_info
+  examples: |
+    - Tell me about the faculty of the mechanical engineering department
+    - What is the mechanical engineering department faculty like
+    - Who are some professors in the mechanical engineering department
+    - mechanical engineering department faculty
+    - Who teaches in the mechanical engineering department
+    - Professors in the mechanical engineering department
+    - Faculty of the mechanical engineering department
+    - Faculty members of the mechanical engineering department
+    - I want to know about the mechanical engineering department faculty
+    - mechanical engineering faculty
+    - mechanical engineering professors
+    - Tim Fitzgerald
+    - Patrick Ferro
+    - Tailan Chen
+    - Mark Baumgardner
+    - mechanical engineering teachers
+    - Who teaches mechanical engineering
+    - Who teaches mechanical engineering at gonzaga
+    - Who teaches mechanical engineering at GU
+    - List of mechanical engineering professors
+
+- intent: mechengi_courses_info
+  examples: |
+    - mechanical engineering courses
+    - What are some of the mechanical engineering courses
+    - What classes are in the mechanical engineering department
+    - What is taught in the mechanical engineering department
+    - mechanical engineering classes
+    - Courses in the mechanical engineering department
+    - What can I take in the mechanical engineering department
+    - What do mechanical engineering majors take 
+    - Offered mechanical engineering classes
+    - All mechanical engineering classes
+    - List mechanical engineering classes
+    - What are all the mechanical engineering classes offered at gonzaga
+    - mechanical engineering courses
+    - mechanical engineering classes
+    - What mechanical engineering class are there
+    - What mechanical engineering classes are offered at gonzaga
+    - What mechanical engineering classes are offered at gu
+    - Thermodynamics
+    - Does gonzaga offer statics
+    - Can I take dynamics
+    - Can I take materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

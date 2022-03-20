@@ -17,22 +17,37 @@ rules:
   - intent: math_department_info
   - action: utter_math_department_info
 
-- rule: Give info about math degree credits 
+- rule: Give Info about Computer Science department
   steps:
-  - intent: math_credits_info
-  - action: utter_math_credits_info
+  - intent: compsci_department_info
+  - action: utter_compsci_department_info
 
-- rule: Give info about mathematics chairperson
+- rule: Give Info about philosophy department
   steps:
-  - intent: math_chairperson_info
-  - action: utter_math_chairperson_info
+  - intent: philosophy_department_info
+  - action: utter_philosophy_department_info
 
-- rule: Give info about fauilty in math
+- rule: Give Info about Mech Engi department
   steps:
-  - intent: math_faculty_info
-  - action: utter_math_faculty_info
+  - intent: mechengi_department_info
+  - action: utter_mechengi_department_info
 
-- rule: Give info about math courses
+- rule: Give Info about Cost of attendance
   steps:
-  - intent: math_courses_info
-  - action: utter_math_courses_info
+  - intent: gonzaga_cost_of_attendance
+  - action: utter_gonzaga_cost_of_attendance
+
+- rule: Give Info about Thane name
+  steps:
+  - intent: gonzaga_president_info
+  - action: utter_gonzaga_president_info
+
+- rule: Give Info about campus safety
+  steps:
+  - intent: gonzaga_campus_safety
+  - action: utter_gonzaga_campus_safety
+
+- rule: Give Info about jundt art
+  steps:
+  - intent: jundt_museum_art_info
+  - action: utter_jundt_museum_art_info
