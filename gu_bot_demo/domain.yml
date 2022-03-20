@@ -15,19 +15,85 @@ intents:
     use_entities: true
 - greet:
     use_entities: true
-- math_chairperson_info:
-    use_entities: true
-- math_courses_info:
-    use_entities: true
-- math_credits_info:
-    use_entities: true
-- math_department_info:
-    use_entities: true
-- math_faculty_info:
-    use_entities: true
 - mood_great:
     use_entities: true
 - mood_unhappy:
+    use_entities: true
+- bot_challenge:
+    use_entities: true
+- math_department_info:
+    use_entities: true
+- math_credits_info:
+    use_entities: true
+- math_chairperson_info:
+    use_entities: true
+- math_faculty_info:
+    use_entities: true
+- math_courses_info:
+    use_entities: true
+- philosophy_department_info:
+    use_entities: true
+- philosophy_credits_info:
+    use_entities: true
+- philosophy_chairperson_info:
+    use_entities: true
+- philosophy_faculty_info:
+    use_entities: true
+- philosophy_courses_info:
+    use_entities: true
+- scholarship_info:
+    use_entities: true
+- financial_aid_apply_info:
+    use_entities: true
+- financial_aid_stats_info:
+    use_entities: true
+- gonzaga_billing_info:
+    use_entities: true
+- gonzaga_cost_of_attendance:
+    use_entities: true
+- gonzaga_president_info:
+    use_entities: true
+- gonzaga_president_office_info:
+    use_entities: true
+- gonzaga_president_responsibilities:
+    use_entities: true
+- compsci_department_info:
+    use_entities: true
+- compsci_credits_info:
+    use_entities: true
+- compsci_chairperson_info:
+    use_entities: true
+- compsci_faculty_info:
+    use_entities: true
+- compsci_courses_info:
+    use_entities: true
+- jundt_museum_art_info:
+    use_entities: true
+- jundt_museum_hours:
+    use_entities: true
+- jundt_museum_location:
+    use_entities: true
+- jundt_museum_name:
+    use_entities: true
+- jundt_museum_art_submission:
+    use_entities: true
+- campus_security_contact:
+    use_entities: true
+- campus_security_existance:
+    use_entities: true
+- gonzaga_campus_safety:
+    use_entities: true
+- campus_security_office_location:
+    use_entities: true
+- mechengi_department_info:
+    use_entities: true
+- mechengi_credits_info:
+    use_entities: true
+- mechengi_chairperson_info:
+    use_entities: true
+- mechengi_faculty_info:
+    use_entities: true
+- mechengi_courses_info:
     use_entities: true
 entities: []
 slots: {}
@@ -47,14 +113,116 @@ responses:
   - text: I am a bot, powered by Rasa.
   utter_math_department_info:
   - text: The Department of Mathematics offers three different degrees; Bachelors of Arts in Mathematics, Bachelor of Science in Mathematics, and a Bachelor of Science Applied Mathematics. As well as minors in both Mathematics and Applied Mathematics.
+
   utter_math_credits_info:
   - text: For a BS in Mathematics, it takes 40 credits with 88 other credits needed. For a BA in Mathematics, it takes 31 credits with 97 ther credits needed. A BS in Applied Mathematics requires 57-69 credits, with 59-71 other credits fulfilled through a concentration.
+  
   utter_math_chairperson_info:
   - text: The chairperson of the math department is Vesta Coufal.
+
   utter_math_courses_info:
   - text: Here are some of the major courses in Math; Lower Devision, MATH 157 Calculus and Analytic Geometry I. MATH 258 Calculus and Analytic Geometry II. MATH 259 Calculus and Analytic Geometry III. Upper Devision, MATH 301 Fundamentals of Mathematics. MATH 339 Linear Algebra. MATH 413 Real Analysis I. MATH 437 Abstract Algebra I. MATH 499 Comprehensive.
+
   utter_math_faculty_info:
-  - text: Here are the faculty in the math department; Melody Alsaker (Ph.D), Associate Professor of Mathematics. Logan Axon (Ph.D), Associate Professor of Mathematics. Richard Cangelosi (Ph.D),  Associate Professor of Mathematics. Vesta Coufal (Ph.D), Professor and Chair of Mathematics. Bonni Dichone (Ph.D), Associate Professor of Mathematics. Michelle Ghrist (Ph.D), Associate Professor of Mathematics. Colleen Goodwin, Senior Lecturer. Tomás Guardia (Ph.D), Lecturer of Mathematics. Eric Hogle (Ph.D), Associate Professor of Mathematics.
+  - text: Here are the faculty in the math department; Melody Alsaker (Ph.D), Associate Professor of Mathematics. Logan Axon (Ph.D), Associate Professor of Mathematics. Richard Cangelosi (Ph.D),  Associate Professor of Mathematics. Vesta Coufal (Ph.D), Professor and Chair of Mathematics. Bonni Dichone (Ph.D), Associate Professor of Mathematics. Michelle Ghrist (Ph.D), Associate Professor of Mathematics. Colleen Goodwin, Senior Lecturer. Tomás Guardia (Ph.D), Lecturer of Mathematics. Eric Hogle (Ph.D), Associate Professor of Mathematics. 
+
+  utter_philosophy_department_info:
+  - text: The Philosophy Department offers a Bachelor of Arts major in philosophy and a minor in philosophy, which aim to deepen students' love of wisdom through the study of the intellectual and moral traditions of civilization.
+
+  utter_philosophy_credits_info:
+  - text: For a BA in Philosophy, it takes 36 credits wtih 92 credits fulfilled through Core classes and/or electives. For a BA in Philosophy with a Kossel Concentration, it takes 44 credits with 84 credits fulfilled through core classes and/or electives. For a minor in Philosophy, it requires 21 credits.
+
+  utter_philosophy_chairperson_info:
+  - text: The co-chairs of the philosophy department are Erik Schmidt and Jay Ciaffa.
+
+  utter_philosophy_faculty_info:
+  - text: Here is a list of some of the faculty; Mark Alfino (Ph.D), Professor of Philosophy. Alejandro Arango (Ph.D), Lecturer of Philosophy. Kirk Besmer (Ph.D), Professor of Philosophy. Dab Bradley (Ph.D), Professor of Philosophy. Joan Braune (Ph.D), Lecturer of Philosophy. Patrick Burke (Ph.D), Professor of Philosophy. David H. Calhoun (Ph.D), Professor of Philosophy. Jay Ciaffa, (Ph.D), Associate Professor & Department Co-chair of Philosophy. Erik W. Schmidt (Ph.D), Professor of Philosophy & Department Co-chair of Philosophy.
+
+  utter_philosophy_courses_info:
+  - text: Here are some of the major courses in philosophy; Lower Division; PHIL 101 Reasoning, PHIL 201 Philosophy of Human Nature. Upper Division; PHIL 301 Ethics, PHIL 305 History of Ancient Philosophy, PHIL 310 History of Medieval Philosophy, PHIL 320 History of Modern Philosophy, PHIL 400-430 Philosophy Seminar, PHIL 400-level elective courses, PHIL 432 Core Integration Seminar, PHIL 499 Senior Exit Requirement
+
+  utter_scholarship_info:
+  - text: Gonzaga offers many scholarships of varying amounts such as; Alumni, Daniel G. Brajcich, Charlotte Y. Martin, Dauna Leigh Bauer, Gonzaga in Florence, Gonzaga Leaders, Honors Program, Joseph M. Cataldo S.J., Charlotte Y. Martin Native American, Christopher M. West, Act six, Army Reserve Officer Training Corps (ROTC), and Music scholarships.
+
+  utter_financial_aid_apply_info:
+  - text: To apply for financial aid, Gonzaga requires students to complete a FAFSA. Gonzaga University uses the FAFSA to determine aid eligibility.
+
+  utter_financial_aid_stats_info:
+  - text: Around 98% of admitted students receive scholarships and/or grants but for financial aid, it will depend on the FAFSA you submitted. 
+
+  utter_gonzaga_billing_info:
+  - text: Billing statements are posted through the CASHNet billing portal. Students access CASHNet through their Zagweb account and then click on the "Student" tile followed by the "Electronic Billing, Payment, Deposits and eRefund" tile, followed by the "Enter CASHNet" link
+
+  utter_gonzaga_cost_of_attendance:
+  - text: The cost of attendance is $69,795. What makes up that cost is; Tuition - $49,800. Required Fees - $935. Room - $7,234. Meals - $6,560. Books and Supplies - $1,278. Loan Fees - $88. Personal Expenses - $2,180. Transportation - $1,720.
+
+  utter_gonzaga_president_info:
+  - text: The President of Gonzaga University is Thayne M. McCulloh, D.Phil.
+
+  utter_gonzaga_president_office_info:
+  - text: The office of the president is located on the second floor of college hall, towards the middle of the building.
+
+  utter_gonzaga_president_responsibilities:
+  - text: Some of the Presidents responsibilities are; oversight of the quality of the academic and support programs of the University and all of its component entities, Supervision of the relationship between students and the administration, Management of the University's finances, and Administration of the personnel system
+
+  utter_compsci_department_info:
+  - text: The Department of Computer Science offers two degrees, a B.S. in Computer Science (BSCS) and a B.A. in Computer Science and Computational Thinking (BACSCT).  The department also offers minors and concentrations in Data Science, Software Application Development, and Software Security.
+
+  utter_compsci_credits_info:
+  - text: For a BS in Computer Science, it requires 128 credits with 89 credits in computer science, mathematics, and science. For a BA in Computer Science , it requires 59 credits with the other 69 credits being fullfilled through a concentration and Core classes. For a minor in Computer Science, it requires 24 credits. 
+
+  utter_compsci_chairperson_info:
+  - text: The chairperson of the computer science department is Paul DePalma
+
+  utter_compsci_faculty_info:
+  - text: Here is a list of the faculty; Shawn Bowers (Ph.D), Professor of Computer Science. Aaron Crandall (Ph.D), Assistant Professor of Computer Science. Johannah Crandall (M.S), Lecturer of Computer Science. Paul De Palma (Ph.D), Chair & Professor of Computer Science. Dan Eshner (M.S), Lecturer in Computer Science. Daniel Olivares (Ph.D), Assistant Professor in Computer Science. Gina Sprint (Ph.D), Assistant Professor in Computer Science. Yanping "Angie" Zhang (Ph.D), Associate Professor in Computer Science.
+
+  utter_compsci_courses_info:
+  - text: Here are some of the courses; Lower Division; CPSC 121 Computer Science I, CPSC 122 Computer Science II, CPSC 223 Algorithms and Abstract Data Structures, CPSC 224 Software Development, CPSC 260 Computer Organization. Upper Division; CPSC 321 Database Management Systems, CPSC 326 Organization of Programming Languages, CPSC 346 Operating Systems, CPSC 348 Computer Security, CPSC 450 Design and Analysis in Computer Algorithms, CPSC 491 Software Engineering, CPSC 491L Senior Design Project Lab I , CPSC 492L Senior Design Project Lab II, and CPSC 499 Computers and Society.
+
+  utter_jundt_museum_art_info:
+  - text: Gonzaga's robust collection includes works by old masters (Dürer, Rembrandt, Goya, and Delacroix) as well as modern masters (Rodin, Picasso, Chihuly, and Warhol).
+  
+  utter_jundt_museum_hours:
+  - text: The hours of the Jundt Museum are; Monday - Saturday open from 10 AM - 4 PM and closed Sunday.
+
+  utter_jundt_museum_location:
+  - text: The judnt museum us located on the west side of our gonzaga camous near lake Arthur. Here is the Address; 502 E Boone Avenue Spokane, WA 99258
+
+  utter_jundt_museum_name:
+  - text: It is named after Jim and Joann Jundt.
+
+  utter_jundt_museum_art_submission:
+  - text: Here’s what the Jundt Art Museum has on displaying works; Artists may send exhibition announcements of their work. We’ll happily review these announcements and, in some cases, may attend the show. It is very rare that we will consider unsolicited material for future exhibitions, but that should not discourage you from sending your images. However, we will not respond to unsolicited material, and we will not mail your materials back to you.
+
+  utter_campus_security_contact:
+  - text: Campus Security is reachable on their phone number, 509-313-2222 (available 24/7, 365 days a year)
+
+  utter_campus_security_existance:
+  - text: Gonzag does have Campus secuirty that patrols the campus grounds 24/7 and are always ready to help students in any situation.
+
+  utter_gonzaga_campus_safety:
+  - text:  Gonzaga University is an open campus located in an urban area that is well traveled by vehicles, cyclists, and pedestrians. As in any urban area such as ours, crime and personal safety are concerns. GU has historically enjoyed a low incidence of crime on campus, but we are not immune from crime altogether. Very few violent crimes occur on campus. 
+
+  utter_campus_security_office_location:
+  - text: They are located in the Huetter Mansion; 503 E. Sharp
+
+  utter_mechengi_department_info:
+  - text: The Mechanical Engineering Program at Gonzaga University prepares the student in the areas of mathematics, chemistry, physics, mechanics, thermodynamics, fluid mechanics, heat transfer, materials, manufacturing, design, control theory, experimentation, and economics. These fundamentals are enhanced with exposure to important engineering tools such as; mathematical techniques; computer programming; computer applications including computer aided design (CAD), computer aided manufacturing (CAM), finite element analysis (FEA), and computational fluid dynamics (CFD); and the use of equipment, instruments, and software typically found in manufacturing and laboratory situations.
+
+  utter_mechengi_credits_info:
+  - text: To earn a B.S. in Mechanical engineering, 138 total credits are needed, 79 of which are engineering focused and the rest are Core Classes
+
+  utter_mechengi_chairperson_info:
+  - text: The chairperson of the mechanical engineering department is Akbar Ansari.
+
+  utter_mechengi_faculty_info:
+  - text: K. Akbar Ansari (Ph.D., P.E), Professor in Mechanical Engineering. Marc Baumgardner (Ph.D), Associate Professor in Mechanical Engineering. Massimo "Max" Capobianchi (Ph.D., P.E), Chair & Professor of Mechanical Engineering. Tailian Chen (Ph.D), Professor in Mechanical Engineering. Patrick Ferro (Ph.D, P.E), Professor in Mechanical Engineering. Timothy Fitzgerald (Ph.D), Associate Professor in Mechanical Engineering. Harman Khare (Ph.D), Assistant Professor, Mechanical Engineering. John Marciniak (Ph.D), Associate Professor in Mechanical Engineering.
+
+  utter_mechengi_courses_info:
+  - text: Here are the courses offered by the mechanical engineering department; MENG 221 Materials Engineering, MENG 291 Intro to Mech Eng Design, MENG 291L Intro to Mech Eng Design Lab, MENG 301 Manufacturing Processes, MENG 301L Manufacturing Processes Lab, MENG 321 Thermodynamics I, MENG 322 Thermodynamics II, MENG 330 Machine Design, MENG 341 Heat Transfer, MENG 411 Instrumentation Systems, MENG 411L Instrumentation Systems Lab, MENG 412 Mechanical Measurements, MENG 412L Mechanical Measurements Lab, MENG 434 Vibration Engineering, MENG 435 Applications in Vibrations, MENG 442 Advanced Heat Transfer, MENG 443 Combustion, MENG 445 Heating Vent and Air Condition, MENG 446 Energy Auditing, MENG 447 Advanced Energy Systems, MENG 451 Computational Dynamics, MENG 456 Design for Manufacturing, MENG 461 System Dynamics and Control, MENG 465 Introduction to Finite Element, MENG 467 Design w/Polymers-Composites, MENG 468 Biomatls & Biomech Eng, MENG 477 Materials Selection for Design.
+
+
 actions: []
 forms: {}
 e2e_actions: []
