@@ -124,6 +124,17 @@ nlu:
     - Mathematics info
     - Information about math
     - Math info
+    - Math Information
+    - Information about the math department
+    - Can you tell me some info about the math department
+    - Math department information
+    - Math department info
+    - Can you tell me info about math
+    - Information about math
+    - Math info at Gonzaga
+    - Math info at gu
+    - Math department at gu
+
 
 - intent: math_credits_info
   examples: |
@@ -156,7 +167,17 @@ nlu:
     - Math BA information
     - Math BS info
     - Math BS information
-
+    - BA Math major
+    - BS math major
+    - How many credits do i need to take for a math major
+    - How many credits for a math major
+    - How many credits does a math major need
+    - How many credits does a math major need at Gonzaga
+    - Gonzaga math major credits
+    - GU math major credits
+    - Gonzaga math cred requirement
+    - GU math cred requirement
+    - Gonzaga mathematics cred requirement
 
 - intent: math_chairperson_info
   examples: |
@@ -181,6 +202,27 @@ nlu:
     - Vesta
     - Who is the chair of the math department
     - Who’s the chair of the math department
+    - Doctor coufal
+    - Dr vesta coufal
+    - Who is dr vesta coufal
+    - Dr. vesta coufal
+    - department head of the math department
+    - who is the department head of math
+    - who is the department head of mathematics
+    - who is the head of the math department
+    - who is the head of the mathematics department
+    - can you tell me who the head of the math department is
+    - Who is the chairperson of the math department
+    - math chairperson
+    - chairperson of math
+    - GU math chairperson
+    - Gonzaga math chairperson
+    - math chairperson at gonzaga
+    - math chairperson at gu
+    - gu math chair
+    - gonzaga math chair
+    - math chair at gonzaga
+
 
 
 - intent: math_faculty_info
@@ -206,6 +248,26 @@ nlu:
     - Who teaches math at gonzaga
     - Who teaches math at GU
     - List of math professors
+    - Can you list math professors
+    - can you list the math professors for
+    - tell me about the math professors
+    - tell me about the math faculty members
+    - tell me about the math faculty
+    - Who teaches mathematics
+    - who teaches in the math department at gonzaga
+    - names of professors that teach math
+    - names of professors who teach math
+    - Math department faculty
+    - Who is on the math department
+    - Logan Axon
+    - Melody Alsaker
+    - All GU math professors
+    - List of GU math professors
+    - All Gonzaga math professors
+    - List of Gonzaga math professors
+    - Eric Hogle
+    - Vesta Coufel
+
 
 - intent: math_courses_info
   examples: |
@@ -232,6 +294,24 @@ nlu:
     - Can I take trigonometry
     - Can I take trig
     - Can I take geometry
+    - what math classes can i take
+    - what math classes are available
+    - what math classes are available at gonzaga
+    - which math classes are available
+    - which math classes can i take
+    - can i take math
+    - can i take math at gonzaga
+    - which mathematics classes can you take at gonzaga
+    - which math classes can i take at gonzaga
+    - List of math courses offered at Gonzaga
+    - list of all math courses offered at Gonzaga
+    - List of all math classes available at Gonzaga
+    - All math courses at Gonzaga
+    - All math courses at Gu
+    - List of math courses offered at GU
+    - list of all math courses offered at GU
+    - List of all math classes available at GU
+
 
 - intent: philosophy_department_info
   examples: |
@@ -261,6 +341,21 @@ nlu:
     - What are the philosophy  degrees
     - philosophy info
     - Information about philosophy
+    - info on philosophy
+    - info on philosophy at GU
+    - info on philosophy at Gonzaga
+    - information on philosophy at GU
+    - information on philosophy at Gonzaga
+    - Tell us information about philosophy
+    - tell us information about philosophy at GU
+    - tell us information about philosophy at Gonzaga
+    - What is philosophy
+    - What is philosophy like
+    - What is philosophy like at GU
+    - What is philosophy like at Gonzaga
+    - What about philosophy
+    - What about philosophy information
+
 
 - intent: philosophy_credits_info
   examples: |
@@ -291,6 +386,20 @@ nlu:
     - BS in philosophy information
     - Philosophy BA info
     - Philosophy BA information
+    - GU philosophy credit requirement
+    - Gonzaga philosophy credit requirement
+    - philosophy requirement
+    - GU philosophy requirement
+    - Gonzaga philosophy requirement
+    - Gu philosophy credit requirement
+    - Gonzaga philosophy credit requirement
+    - Number of credits for philosophy major
+    - Number of required credits for philosophy graduation
+    - How many credits for philosophy major
+    - How many credits for philosophy major at Gonzaga
+    - How many credits for philosophy major at GU
+    - Necessary philosophy graduation requirement
+
 
 - intent: philosophy_chairperson_info
   examples: |
@@ -315,6 +424,25 @@ nlu:
     - Who is the chair of the philosophy department
     - Who’s the chair of the philosophy department
     - Are there 2 people as the chair for the philosophy department
+    - Dr. Erik Schmidt
+    - Dr. Schmidt philosophy
+    - Dr. Schmidt philosophy department
+    - Chair of philosophy department
+    - Is Dr. Schmidt chair of philosophy department
+    - Who is Dr. Schmidt
+    - Who is Dr. Erik Schmidt
+    - Who is Dr. Ciaffa
+    - Who is Dr. Jay Ciaffa
+    - Is Dr. Ciaffa chair of philosophy department
+    - are there two philosophy chairs
+    - Who are the chairs of the philosophy department
+    - Chairpersons of philosophy
+    - Dr Jay Ciaffa and Dr Erik Schmidt
+    - GU philosophy chairs
+    - Gonzaga philosophy chairs
+    - philosophy chairs at Gonzaga
+    - philosophy chairs at GU
+
 
 - intent: philosophy_faculty_info
   examples: |
@@ -337,6 +465,27 @@ nlu:
     - Who teaches philosophy at gonzaga
     - Who teaches philosophy at GU
     - List of philosophy professors
+    - Can you list philosophy professors
+    - can you list the philosophy professors for
+    - tell me about the philosophy professors
+    - tell me about the philosophy faculty members
+    - tell me about the philosophy faculty
+    - Who teaches philosophy
+    - who teaches in the philosophy department at gonzaga
+    - names of professors that teach philosophy
+    - names of professors who teach philosophy
+    - List of professors who tech philosophy
+    - List of GU philosophy professors
+    - list of Gonzaga philosophy professors
+    - Gonzaga philosophy department faculty
+    - GU philosophy department faculty
+    - Gonzaga philosophy department
+    - GU philosophy department
+    - Information on who is in philosophy department
+    - Who is in the philosophy department
+    - Who is in the philosophy department at Gonzaga
+    - Professors in Gonzaga philosophy department
+
 
 - intent: philosophy_courses_info
   examples: |
@@ -361,6 +510,25 @@ nlu:
     - Does gonzaga offer reasoning
     - Can I take human nature
     - Can I take ethics
+    - gonzaga philosophy courses
+    - gu philosophy courses
+    - list of all philosophy courses
+    - list of all philosophy courses at gonzaga
+    - list of all philosophy courses at GU
+    - What are the philosophy classes
+    - What are all the philosophy classes
+    - What is the list of Gonzaga philosophy classes
+    - Phil 201
+    - Phil 431
+    - List philosophy courses
+    - list philosophy courses gu
+    - list philosophy courses gonzaga
+    - gu philosophy classes
+    - gonzaga philosophy classes
+    - gonzaga philosophy courses
+    - What classes can I take for philosophy
+    - List of classes I can take for phil
+
 
 - intent: scholarship_info
   examples: |
@@ -374,6 +542,37 @@ nlu:
     - Financial aid scholarships
     - Athletic scholarships
     - Arts scholarships
+    - Music Scholarships
+    - scholarships at Gonzaga university
+    - what are some scholarships
+    - scholarships that Gonzaga gives
+    - scholarships for incoming students
+    - scholarships for incoming freshman
+    - Gonzaga University scholarships
+    - list of scholarships at gonzaga
+    - different types of scholarships at Gonzaga
+    - list of scholarships
+    - list of scholarships at Gonzaga university
+    - can you list scholarships
+    - what are the scholarships available
+    - what are the scholarships available to me
+    - can you list all of the scholarships at gonzaga
+    - gonzaga scholarships that are available
+    - gonzaga scholarships that are available to me
+    - student scholarships at gonzaga
+    - what scholarships does gonzaga offer
+    - scholarships offered
+    - scholarships offered by gonzaga
+    - student scholarships offered by gonzaga
+    - Scholarships offered at gonzaga
+    - which scholarships are available to students
+    - can you tell me what scholarships gonzaga has
+    - can you tell me about the scholarships at gonzaga
+    - list of Gonzaga scholarships
+    - list of all Gonzaga scholarships
+    - list of GU scholarships
+    - list of all GU scholarships
+
 
 - intent: financial_aid_apply_info
   examples: |
@@ -388,6 +587,36 @@ nlu:
     - Where do I apply for financial aid?
     - Financial aid application
     - Is there a form I have to fill out for financial aid?
+    - financial aid Gonzaga university 
+    - financial aid
+    - how do students apply for financial aid
+    - how do freshman apply for financial aid
+    - how do students apply for aid
+    - is there a form to apply for financial aid
+    - how do incoming students get financial aid
+    - how do I get financial aid
+    - do I have to complete a form for financial aid
+    - how do incoming freshman apply for financial aid
+    - How do incoming students apply for financial aid
+    - fin aid
+    - fin aid application
+    - student fin aid apply
+    - student fin aid application
+    - fin aid info
+    - fin aid information
+    - information about fin aid
+    - information about financial aid
+    - info about financial aid
+    - can you list info about financial aid
+    - how to apply to gonzaga financial aid
+    - do i need to complete the fafsa before applying for financial aid
+    - do i need to complete my fafsa before applying for financial aid
+    - financial aid fafsa
+    - financial aid application
+    - How to apply to financial aid
+    - How to apply for Gonzaga financial aid
+    - How to apply for GU financial aid
+
 
 - intent: financial_aid_stats_info
   examples: |
@@ -401,6 +630,36 @@ nlu:
     - Does Gonzaga give a lot of financial aid?
     - Do a lot of students get financial aid?
     - What are the chances I get financial aid?
+    - Wow many students get financial aid
+    - Do a lot of students at Gonzaga get financial aid
+    - Do a lot of students get aid
+    - How many students get aid at Gonzaga?
+    - Does a lot of the student body get financial aid?
+    - How many of the students get financial aid
+    - How many students get aid
+    - Are a lot of students under financial aid
+    - Do a lot of the students at Gonzaga receive financial aid
+    - Are a lot of students under financial aid at Gonzaga
+    - what perfect of gonzaga students get financial aid
+    - what percent of students get scholarships
+    - what percent of students receive scholarships
+    - how many students at gonzaga get scholarships
+    - how many students at gonzaga get financial aid
+    - will i qualify for financial aid
+    - will i get a scholarship
+    - will i get a scholarship if i go to gonzaga
+    - will i get a scholarship if i get admitted to gonzaga
+    - how many people get scholarships
+    - how many students get scholarships
+    - how many students get financial aid
+    - how many students get fin aid
+    - Number of students who get financial aid
+    - Number of GU students who get financial aid
+    - Number of gonzaga students who get financial aid
+    - Amount of Gu students who get aid
+    - Amount of Gonzaga students who get aid
+    - Amount of Gonzaga students who get financial aid
+
 
 - intent: gonzaga_billing_info
   examples: |
@@ -414,6 +673,37 @@ nlu:
     - CASHNET
     - How do I access CASHNET?
     - How do I get to CASHNET?
+    - how do I pay the bill
+    - How do I pay for my tuition?
+    - How do I pay for my tuition at Gonzaga?
+    - How do I pay for Gonzaga
+    - How do I pay my Gonzaga tuition
+    - How do I pay for my Gonzaga tuition?
+    - How do I pay my bill for the semester
+    - how do I pay my bill for the whole year
+    - How do I pay Gonzaga for the semester
+    - how do I pay Gonzaga?
+    - billing statement
+    - where to find my billing statement
+    - where to find my bill
+    - how do i find my bill
+    - how do i find my bill for going to gonzaga
+    - where do i find my bill
+    - where do i go to find my bill
+    - where to get my bill
+    - where to get my bill for tuition
+    - tuition bill
+    - where do i find my tuition bill
+    - tuition bill location
+    - where is my tuition bill
+    - billing statement access
+    - GU billing statement access
+    - Gonzaga billing statement access
+    - How do I access my billing statement
+    - I can’t access my billing statement
+    - GU billing statement access
+    - Gonzaga billing statement access
+
 
 - intent: gonzaga_cost_of_attendance
   examples: |
@@ -427,6 +717,38 @@ nlu:
     - Is Gonzaga expensive?
     - Gonzaga tuition
     - How much will I need to pay to attend Gonzaga?
+    - How much does Gonzaga cost?
+    - What is the cost of tuition at Gonzaga?
+    - How much does Gonzaga cost?
+    - How much money does Gonzaga cost?
+    - what is the cost breakdown for tuition
+    - cost breakdown of Gonzaga tuition
+    - tuition cost breakdown
+    - tuition cost at Gonzaga
+    - Gonzaga attendance tuition
+    - Gonzaga cost numbers
+    - Gonzaga tuition numbers
+    - undergrad tuition
+    - the cost of undergrad
+    - undergrad tuition cost
+    - how much does undergrad tuition cost?
+    - how much does gonzaga cost
+    - how much does gonzaga university cost
+    - how much money to go to gonzaga
+    - how much money to attend gonzaga
+    - is gonzaga cheap
+    - is gonzaga an expensive school
+    - is gonzaga spendy
+    - Is gonzaga a spendy school
+    - why is gonzaga so expensive
+    - how expensive is it to go to gonzaga
+    - how expensive is it to attend gonzaga
+    - gonzaga cost
+    - gonzaga price
+    - price of gonzaga 
+    - price of gonzaga university
+    - price of GU
+
 
 - intent: gonzaga_president_info
   examples: |
@@ -440,6 +762,37 @@ nlu:
     - Thayne McCullough
     - Who is the university president?
     - Who is the president?
+    - top dog at gonzaga
+    - who runs gonzaga
+    - who is the head of gonzaga
+    - who is the president of gonzaga
+    - who is the president of gonzaga university
+    - who is the president at gonzaga
+    - does gonzaga have a president
+    - principal of gonzaga
+    - who is the principal at gonzaga
+    - McCullough
+    - Mcullough
+    - Dr. McCullough
+    - who is gonzaga’s president
+    - Mr McCullough
+    - Mr. McCullough
+    - Who is Gonzaga’s president
+    - who is current president of Gonzaga
+    - Who is current president of GU
+    - GU president
+    - current GU president
+    - Gonzaga president
+    - current Gonzaga president
+    - who is the current president
+    - GU leader
+    - Gonzaga leader
+    - Who runs Gonzaga
+    - Who runs GU
+    - President at Gonzaga
+    - president at GU
+    - Is Thayne the president?
+
 
 - intent: gonzaga_president_office_info
   examples: |
@@ -453,6 +806,37 @@ nlu:
     - President’s office
     - Thayne’s office
     - Where can I find the university president?
+    - office of the president location
+    - gonzaga office of the president
+    - where is Thayne’s office
+    - where can i go to talk to the president
+    - where can i go to talk to the office of the president
+    - i want to talk to thayne
+    - i want to talk to the president of gonzaga
+    - where do I go to find the office of the president
+    - office of the president
+    - office of the president gonzaga
+    - office of the president location
+    - location of the office of the president
+    - where is thayne
+    - where is the president of gonzaga
+    - how do i find thayne
+    - directions to the office of the president
+    - what building is the office of the president
+    - which building is the office of the president
+    - which building is the president’s office
+    - president office
+    - president’s office
+    - where is the president’s office
+    - Tell me how to find the president’s office
+    - Is the president’s office in college hall
+    - Is the president on College hall second floor 
+    - Can I find the president of Gonzaga in college hall
+    - Does Thayne work in College hall
+    - Info about location of office of president
+    - Tell me where the president works
+    - Tell me where GU president works
+
 
 - intent: gonzaga_president_responsibilities
   examples: |
@@ -466,6 +850,37 @@ nlu:
     - What does the office of the president do?
     - What can the university president do?
     - Role of the university president
+    - president’s job
+    - what is the president’s job
+    - what does the office of the president do
+    - info about office of the president
+    - info about the office of the president
+    - the office of the president
+    - office of the president
+    - office of the president information
+    - office of the president info
+    - can i get info about the office of the president
+    - job of the office of the president
+    - president job
+    - gonzaga president job
+    - what does the gonzaga president do
+    - Presidents role
+    - Presidents role at Gonzaga
+    - Presidents role at GU
+    - What does the Gonzaga president do
+    - What does the GU president do
+    - What does Thayne McCullough do?
+    - What does Dr. McCullough do?
+    - What do school presidents do?
+    - What does GU’s president do?
+    - Info about GU president’s job
+    - info about Gonzaga president’s job
+    - Tell me information about presidents jobs
+    - Tell me information about GU presidents job
+    - Tell me information about Gonzaga presidents job
+    - Tell me info about GU presidents job
+    - Tell me info about Gonzaga presidents job
+
 
 - intent: compsci_department_info
   examples: |
@@ -497,6 +912,19 @@ nlu:
     - What are the computer science degrees
     - computer science info
     - Information about computer science
+    - info about the computer science major
+    - info about the computer science minor
+    - computer science department info
+    - info about the computer science degree
+    - can i get some info about the computer science major
+    - can i get some info about the computer science department
+    - can i get some info about the CS major
+    - can i get some info about the CS department
+    - information about the CS major
+    - information about the CS department
+    - CS major info
+    - CS department info
+
 
 - intent: compsci_credits_info
   examples: |
@@ -529,6 +957,18 @@ nlu:
     - computer science BA information
     - computer science BS info
     - computer science BS information
+    - CS credits
+    - CS BS credits
+    - CS BA credits
+    - CS credits info
+    - what are the amount of credits for a BA in Computer science
+    - what are the amount of credits for a BS in computer science
+    - how many credits for a BS in Computer science 
+    - How many credits for a BA in computer science
+    - how many credits for a BS in Comp Sci
+    - How many credits for a BA in Comp Sci
+    - Amount of credits for a degree in Computer science
+
 
 - intent: compsci_chairperson_info
   examples: |
@@ -550,7 +990,29 @@ nlu:
     - computer science chair
     - Depalma
     - Who is the chair of the computer science department
-    - Who's the chair of the computer science department
+    - Who’s the chair of the computer science department
+    - Who is the chair in the CS department
+    - who is in charge of the CS department
+    - who is in charge of the computer science department
+    - who is the head person in the computer science department
+    - who is the head person in the CS department
+    - person in charge of the CS department
+    - person in charge of the computer science department
+    - department chairperson of the CS department
+    - chair of computer science
+    - chairperson of the computer science department
+    - chair of the computer science department
+    - Who is CS department chair
+    - New computer science chair
+    - new cs chair
+    - new comp sci chair
+    - new comp sci chair at gu
+    - new comp sci chair at gonzaga
+    - new cs chair at gu
+    - new cs chair at gonzaga
+    - new computer science chair at gu
+    - new computer science chair at gonzaga
+
 
 - intent: compsci_faculty_info
   examples: |
@@ -574,6 +1036,27 @@ nlu:
     - Who teaches computer science at gonzaga
     - Who teaches computer science at GU
     - List of computer science professors
+    - What are some of the CS faculty
+    - what are some of the CS professors
+    - CS professors
+    - CS faculty
+    - list of the computer science faculty
+    - i want to know some of the CS faculty
+    - i want to know some of the names of the CS faculty
+    - what are some of the professors in the CS department
+    - who is on the CS faculty list
+    - who is on the CS department list
+    - Who is on the computer science faculty
+    - I want to know about the computer science faculty
+    - professors in the CS department
+    - professors in the CS faculty
+    - professors in the CS program
+    - lecturers in the computer science department
+    - lecturers on the computer science faculty
+    - lecturers in the CS department
+    - lecturers in the CS faculty
+    - who are some of the lecturers in the computer science department
+
 
 - intent: compsci_courses_info
   examples: |
@@ -598,6 +1081,26 @@ nlu:
     - Does gonzaga offer app development
     - Can I take web development
     - Can I take data science
+    - CS Courses
+    - CS major courses
+    - All CS classes
+    - CS major classes 
+    - what are some of the CS classes 
+    - what are some of the cs courses
+    - comp sci classes
+    - what are some of the compi classes taken
+    - what are some major comp sci classes
+    - what are some of the major CS classes
+    - list of all comp sci classes
+    - list of some comp sci classes
+    - what cs classes can I take
+    - What computer science classes can I take
+    - what courses does gu offer for computer science
+    - what courses does gu offer for cs
+    - what courses does gu offer for comp sci
+    - what courses does gonzaga offer for cs
+    - what courses does gonzaga offer for computer science
+
 
 - intent: jundt_museum_art_info
   examples: |
@@ -611,6 +1114,37 @@ nlu:
     - Does Jundt have any Warhol?
     - What art is on display in Jundt?
     - Does Jundt showcase any famous painters?
+    - jundt info
+    - info about jundt
+    - jundt building
+    - jundt
+    - jundt museum
+    - does Jundt have art
+    - is there art at jundt
+    - is there art at jundt museum
+    - does jundt museum have art
+    - Jundt museum art
+    - What kind of art is in the museum on campus
+    - What kind of art is in the Jundt museum
+    - what kind of art is in the campus museum
+    - What are the types of art in the campus museum
+    - Jundt museum type of art
+    - jundt art
+    - jundt museum art information
+    - jundt museum are info
+    - jundt art exhibits
+    - what kind of exhibits are at the museum
+    - Type of art at Jundt
+    - What type of art is at Jundt
+    - what kind of art is at jundt
+    - kind of art at jundt
+    - famous artists in jundt
+    - are there famous artists in jundt
+    - does Jundt have glass sculptures
+    - Jundt are type
+    - What kind of art is at jundt
+    - What type of art is on display at jundt
+
 
 - intent: jundt_museum_hours
   examples: |
@@ -624,6 +1158,37 @@ nlu:
     - Is the Jundt Art Museum open today?
     - When does the Jundt Art Museum open?
     - When does the Jundt Art Museum close?
+    - is jundt open
+    - is jundt open right now
+    - is jundt closed
+    - is jundt museum closed
+    - is jundt closed right now
+    - when will jundt be open
+    - when will jundt open
+    - when will jundt museum open
+    - jundt museum
+    - jundt museum hours
+    - what are the hours of jundt
+    - Can you tell me the hours of the jundt museum
+    - can you tell me the hours of operation of the jundt museum
+    - what are the hours of the museum on campus
+    - what are the hours of the art museum at gonzaga
+    - What are the opening and closing hours of the jundt museum
+    - Opening and closing hours of the museum
+    - Opening and closing hours of the art museum
+    - Opening and closing hours of the jundt museum
+    - Opening and closing hours of the campus museum
+    - Tell me when Jundt closes
+    - Tell me when Jundt opens
+    - What are the hours for Jundt
+    - What are the hours for GU museum
+    - When does the GU museum open
+    - When does the GU museum close
+    - Jundt hours
+    - Info on Jundt hours
+    - Tell me Jundt hours
+    - What are the Jundt hours
+
 
 - intent: jundt_museum_location
   examples: |
@@ -637,6 +1202,27 @@ nlu:
     - What is the Jundt Art Museum’s address?
     - Can you give me the Jundt Art Museum’s address?
     - Do you know the Jundt Art Museum’s address?
+    - jundt museum location
+    - where is jundt museum
+    - what is jundt’s address
+    - what is jundt museums office
+    - how to get to jundt
+    - how to get to jundt museum
+    - direction to jundt
+    - directions to jundt museum
+    - what are the directions to the museum at gonzaga
+    - gonzaga art museum
+    - art museum location
+    - Can i have directions to the museum
+    - Can I have directions to the Jundt museum
+    - can i gave directions to the museum on campus
+    - can you tell me directions to the Jundt
+    - Can you tell me directions to the museum on campus
+    - can you tell me directions to the jundt museum
+    - directions to the jundt museum on campus
+    - what side of campus is the jundt museum
+    - which side of campus is the museum
+
 
 - intent: jundt_museum_name
   examples: |
@@ -650,6 +1236,36 @@ nlu:
     - Why is the art museum named Jundt?
     - Tell me about the name of the art museum
     - Why name the art museum Jundt?
+    - jundt origin
+    - why is jundt museum named the way that it is
+    - what is jundt named after
+    - who is jundt museum named after
+    - is jundt a family
+    - did Jundt pay for the art museum
+    - did jundt pay for the museum
+    - whos jundt
+    - who’s jundt
+    - why is it called jundt museum
+    - is jundt a donator?
+    - Is the museum named jundt because they donated money to the university
+    - Significant of the name of the museum
+    - What is the significance of the name Jundt
+    - What is the correlation with the jundt museum
+    - Why is the museum named after someone
+    - Is Jundt a artist
+    - Tell me info on Jundt
+    - Tell me info on who jundt was
+    - What is the history of the name Jundt
+    - where did the name Jundt come from
+    - Why is Jundt called Jundt
+    - What is the meaning of Jundt
+    - Why is it called Jundt
+    - What is the history of GU’s art museum nae
+    - is Jundt a real person
+    - is Jundt named after a real person
+    - is Jundt based off of a real person
+    - is the name Jundt based off of a real person
+    - why Jundt
 
 - intent: jundt_museum_art_submission
   examples: |
@@ -663,6 +1279,37 @@ nlu:
     - Does Jundt allow for solo exhibits?
     - Can I display paintings in Jundt?
     - Will Jundt accept my artwork?
+    - jundt art museum solo exhibition
+    - can i submit my art to jundt art museum
+    - can i donate my art to jundt art museum
+    - how do i donate to jundt
+    - how to donate to jundt
+    - how do i donate art to jundt
+    - jundt art museum donation
+    - how to donate to the jundt are museum
+    - can i donate my art to gonzaga
+    - does gonzaga accept art donations
+    - Is it possible to send in my art to the museum
+    - Does the jundt museum allow local artists to donate their art
+    - jundt museum art submission
+    - Does the Jundt museum allow solo artists exhibits
+    - does the jundt museum allow art submissions
+    - Do i have to be famous to submit my art to the jundt museum
+    - Can i donate self made art to the jundt museum
+    - Can i donate art made by myself to the museum
+    - Jundt museum local art submission info
+    - Is it possible that the jundt museum accepts art from local artists
+    - Tell me how I can get my art displayed in Jundt
+    - Is it possible to get my art displayed in Jundt
+    - Will jundt accept local artists
+    - Will Jundt accept my art
+    - Is it possible to get my art displayed in Jundt
+    - Jundt personal art donation
+    - Can I donate my own art to Jundt
+    - Can I give my art to Jundt
+    - Has Jundt accepted local art
+    - What criteria for local artists for Jundt
+
 
 - intent: campus_security_contact
   examples: |
@@ -676,6 +1323,37 @@ nlu:
     - Can I contact campus security?
     - Can I call campus security?
     - When is campus security available?
+    - gonzaga emergency phone number
+    - gonzaga campus security number
+    - phone number for security
+    - gonzaga security phone number
+    - what is the phone number for gonzaga security
+    - when is campus security available
+    - is campus security always available
+    - will campus security answer my call
+    - will campus security answer my phone call
+    - How am i able to contact campus security
+    - What is the phone number of the campus security
+    - Gonzaga Campus security contact
+    - What is the CAMPO phone number
+    - CAMPO phone number
+    - What is the contact number of CAMPO
+    - CAMPO contact number
+    - How can i contact CAMPO
+    - how can i get in contact with CAMPO
+    - What is the phone number for CAMPO
+    - CAMPO contact info
+    - Tell me how to contact CAMPO
+    - What methods to contact CAMPO
+    - Tell me how to contact GU security
+    - What methods to contact GU security
+    - How can I contact CAMPO
+    - Can I contact CAMPO on campus
+    - Does CAMPO have a phone number
+    - Does CAMPO have phones on campus
+    - GU security phone
+    - Reach CAMPO now
+
 
 - intent: campus_security_existance
   examples: |
@@ -689,6 +1367,37 @@ nlu:
     - Is there security here?
     - Is there campus police?
     - Will there be campus security at Gonzaga?
+    - gonzaga security
+    - gonzaga campus security
+    - does gonzaga have police
+    - does gonzaga have police on campus
+    - how does gonzaga protect their students from harm
+    - how does gonzaga keep everyone safe
+    - how does gonzaga patrol campus
+    - does gonzaga have a campus police
+    - are there police at gonzaga
+    - does gonzaga have campus police
+    - Gonzaga campo
+    - Gonzaga campo info
+    - Does Gonzaga have campo
+    - Does gonzaga have campus police
+    - Does gonzaga have on campus security
+    - Are there campus police at Gonzaga
+    - Are there campus police at Gonzaga University
+    - Does Gonzaga patrol campus
+    - Does Gonzaga patrol dorms with police
+    - Does gonzaga patrol the campus
+    - Does gonzaga keep their students safe with police
+    - Does Gonzaga keep their students safe by patrolling
+    - Does Gonzaga keep their students safe by patrolling campus
+    - Are there any police that work for gonzaga
+    - Do the spokane police patrol campus
+    - Do the police patrol campus
+    - Do the police patrol Gonzaga’s campus
+    - Do the police patrol Gonzaga campus
+    - Does gonzaga hire police to patrol campus
+    - Does gonzaga hire police for the safety of students
+
 
 - intent: gonzaga_campus_safety
   examples: |
@@ -702,6 +1411,37 @@ nlu:
     - Does Gonzaga have a safe campus?
     - How does Gonzaga feel about safety?
     - Am I safe on campus?
+    - gonzaga crime rate
+    - is gonzaga a safe school
+    - will my child be safe at gonzaga
+    - will my kid be safe at gonzaga
+    - is campus safe
+    - would you say campus is safe
+    - on campus crime rate
+    - what is the on campus crime rate
+    - do gonzaga students commit crimes
+    - is GU a safe place
+    - Is the gonzaga campus safe?
+    - does gonzaga campus have a lot of crime
+    - is there a lot of crime on the gonzaga campus
+    - Will i be safe while walking on the gonzaga campus
+    - Does theft happen on gonzaga campus
+    - Does GU have a lot of crime happen in its surrounding areas
+    - gonzaga crime info
+    - gonzaga campus safety 
+    - What is the crime rate on gonzaga's campus
+    - Is the logan neighborhood that surrounds the Gonzaga campus safe?
+    - Is the neighborhood surrounding GUs campus safe?
+    - Does Gonzaga have a history of crime
+    - Gonzaga crime rate
+    - Does Gonzaga have a high crime rate
+    - What is Gonzaga’s crime rate
+    - Are there violent crimes at Gonzaga
+    - Are there violent crimes on campus
+    - Does Gonzaga ever have violent crimes
+    - Do I need to be worried about people stealing my stuff
+    - Do I need to worry about my stuff being stolen
+
 
 - intent: campus_security_office_location
   examples: |
@@ -715,6 +1455,37 @@ nlu:
     - Where is campo?
     - Can you tell me where the campo office is?
     - Where is the campo office?
+    - campo location
+    - campo office
+    - where do i go to find a lost item
+    - lost and found
+    - gonzaga lost and found
+    - where do i go if i lost something
+    - where do i go if i lost an item
+    - campus security location
+    - campus police location
+    - where is campus police located
+    - Where is the CAMPO office
+    - CAMPO office location
+    - Where on campus is the CAMPO office
+    - Gonzaga CAMPO location
+    - Where is the gonzaga campus security office located
+    - Where is the CAMPO office located
+    - Location of the CAMPO office
+    - What is the address of the CAMPO office
+    - Can i have the address to the campus security office
+    - Can i have the CAMPO address
+    - What is the address for campus security
+    - What address is the campus security building
+    - What is the address for the campus security building
+    - Where do I go to find the campus security building
+    - Where do I go to find campus security
+    - Does campus security have a building
+    - Does campus security have a central location
+    - Where is the office for campus security
+    - What is the address for the office of campus security
+    - What’s the address for the office of campus security
+
 
 - intent: mechengi_department_info
   examples: |
@@ -745,6 +1516,18 @@ nlu:
     - What are the mechanical engineering degrees
     - Mechanical engineering info
     - Information about mechanical engineering
+    - info about the Mechanical Engineering major
+    - info about the Mechanical Engi Major
+    - Mechanical Engineering department info
+    - info about the Mechanical Engineering degree
+    - can i get some info about the Mechanical Engineering major
+    - can i get some info about the Mechanical Engineering department
+    - can i get some info about the Mech Engineering major
+    - can i get some info about the Mech Engineering department
+    - information about the MENG major
+    - information about the MENG department
+    - MENG major info
+    - MENG department info
 
 - intent: mechengi_credits_info
   examples: |
@@ -814,6 +1597,27 @@ nlu:
     - Who teaches mechanical engineering at gonzaga
     - Who teaches mechanical engineering at GU
     - List of mechanical engineering professors
+    - Mechanical engineering department
+    - ME professors
+    - Who teaches ME
+    - Who teaches ME at gonzaga
+    - Who teaches ME at GU
+    - ME department
+    -  Who is on the faculty in the mechanical engineering department?
+    - Faculty for mechanical engineering
+    - professors for mechanical engineering
+    - list of faculty for mechanical engineering
+    - Tell me who the faculty is at GU for mechanical engineering
+    - tell me who the faculty is at Gonzaga for mechanical engineering
+    - tell me who the faculty is at GU for ME
+    - tell me who the faculty is at Gonzaga for ME
+    - Gonzaga ME faculty
+    - GU ME faculty
+    - Gonzaga mechanical engineering faculty
+    - GU mechanical engineering faculty
+    - ME department faculty
+    - list of ME department faculty
+
 
 - intent: mechengi_courses_info
   examples: |
@@ -838,28 +1642,2211 @@ nlu:
     - Does gonzaga offer statics
     - Can I take dynamics
     - Can I take materials
+    - ME courses
+    - What are some ME courses
+    - What are all the ME courses
+    - What ME courses does gonzaga offer
+    - what ME courses does gu offer
+    - Can I take thermodynamics
+    - Does Gonzaga offer thermodynamics
+    - Offered ME classes
+    - List of all ME classes
 
 
+- intent: study_abroad_eligibility
+  examples: |
+    - Can I study abroad
+    - Who can study abroad
+    - Who studies abroad
+    - Who can go study in Florence
+    - Can I study abroad in Florence
+    - Am I able to study abroad
+    - How to qualify for study abroad
+    - Why can’t I study abroad
+    - Am I allowed to study abroad
+    - Am I allowed to study abroad in Florence
+    - What majors can study abroad
+    - Can all majors study abroad
+    - Are there requirements for studying abroad
+    - Study abroad requirements
+    - Who is able to study abroad
+    -  Are there study abroad programs for everyone
+    - Does GU offer study abroad programs for all students
+    - Will I have the option to study abroad
+    - Can I study abroad while at Gonzaga
+    - Are most students able to study abroad
+    - Can all students study abroad
+    - can every student study abroad
+    - Are there study abroad programs for all major
+    - Are study abroad programs available for every major?
+    - Are abroad programs available for all students
+    - Which majors are able to study abroad
+    - Can all majors go study abroad
+    - Can all majors participate in the study abroad program
+    - Can every student participate in study abroad 
+    - Study abroad program eligibility
+    - Who can study overseas
+    - Who can study over seas
+    - Who can be a foreign exchange student
+    - Am I able to study overseas
+    - Am I able to study over seas
+    - Can I study overseas
+    - Can I study at a different school
+    - Can I study over seas
+    - Can I study as a gonzaga student in a different country
+    - Can I study as a gonzaga student at a different school
+
+- intent: study_abroad_locations
+  examples: |
+    - Where can I study abroad
+    - Where can I go to study abroad
+    - Where can you study abroad
+    - Where can I go and study abroad
+    - Where can one study abroad
+    - What location can I study abroad
+    - Study abroad locations
+    - Study abroad countries
+    - What countries can I study abroad in
+    - Which countries can you study abroad in
+    - Are there many study abroad locations
+    - Are there limits to where I can study abroad
+    - What are my choices for studying abroad
+    - Can I study abroad anywhere
+    - Can I study abroad in Italy
+    - Can I study abroad in France
+    - Can I study abroad in Spain
+    - Can I study abroad in the UK
+    - Can I study abroad outside of Europe
+    - Where are Gonzaga’s study abroad programs
+    - What are some of the locations that students can go abroad
+    - Is there a list of locations students can study abroad
+    - What are the locations students can study abroad
+    - What are some locations that past students studied abroad
+    - locations that past study abroad students went to
+    - what countries can students study abroad in
+    - What are some countries where students have gone abroad?
+    - Countries that students have studied abroad in
+    - List of countries that students have studied abroad in
+    - Where can students go abroad
+    - Can I study abroad in Mexico
+    - Can I study abroadin Brazil
+    - Can I study abroad in Europe
+    - Can I study abroad in Africa
+    - Can I study abroad in China
+    - Can I study abroad in Asia
+    - Locations of Gonzaga study abroad
+    - Locations where I can study abroad
+    - What locations can I study abroad
+    - Which locations can I study abroad
+
+- intent: study_abroad_application
+  examples: |
+    - How to sign up for studying abroad
+    - How to register for study abroad
+    - How to register for studying abroad
+    - How do I register for study abroad
+    - How do I register for studying abroad
+    - How can I sign up for studying abroad
+    - How would one sign up for study abroad
+    - How would one sign up for studying abroad
+    - How do I join a study abroad program
+    - How to register to study abroad
+    - Is there an application for study abroad
+    - How do I apply for study abroad
+    - How do I apply for studying abroad
+    - Can you tell me how to study abroad
+    - Study abroad registration
+    - Study abroad application
+    - What are the steps for studying abroad
+    - Where do I go to register for study abroad
+    - I don’t know how to apply for study abroad
+    - Where is the study abroad application
+    - What is the application process for study abroad
+    - How do i register for the study abroad program
+    - How do i go about applying for the study abroad program
+    - Where do i start the application process for studying abroad
+    - How does someone apply for the study abroad program
+    - How do current students apply for the study abroad program
+    - how do students apply for the study abroad program
+    - how do students apply for the study abroad
+    - How do current students apply for the study abroad
+    - how do current students register for the study abroad program
+    - Where do sign up for study abroad
+    - GU study abroad registration
+    - Gonzaga study abroad registration
+    - How to sign up for study abroad at Gonzaga
+    - How to sign up for study abroad at GU
+    - Where can I sign up for study abroad
+    - Where is the study abroad sign up
+    - did I miss study abroad registration
+    - Is study abroad registration completed
+    - Can I still register for study abroad
 
 
+- intent: study_abroad_florence
+  examples: |
+    - Gonzaga in Florence
+    - Study abroad in Florence
+    - What is study abroad in Florence
+    - Florence GU campus
+    - Studying in Florence
+    - Tell me about studying in Florence
+    - Tell me more about studying in Florence
+    - What is Gonzaga in Florence
+    - What is Gonzaga University Florence campus
+    - Info on studying abroad in Florence
+    - Why do so many students study abroad in Florence
+    - Is there a study abroad program in Florence
+    - What will I do when studying in Florence
+    - What does Gonzaga in Florence offer
+    - What can I do when studying in Florence
+    - What studies are available in Florence
+    - Can you tell me about the study abroad program in Florence
+    - Tell me about the study abroad program in Florence
+    - Tell me about GU in Florence
+    - Tell me about Gonzaga in Florence
+    - Can i have some information about Gonzaga in Florence
+    - Does Gonzaga have a campus in Florence?
+    - Gonzaga in Florence information
+    - Gonzaga in Florence study abroad info
+    - Gonzaga in Florence abroad information
+    - GU in Florence information 
+    - What is Gongzaga in Florence study abroad program
+    - What is some information on the study abroad program in Florence
+    - Can i have information about GU in Florence
+    - Information about Gonzaga in Florence 
+    - Tell me about GU in Florence
+    - Tell me about Gonzaga in Florence
+    - Tell me about Florence study abroad
+    - Tell me about Florence study abroad
+    - Tell me about Florence
+    - Info on GU Florence program
+    - Info on Gonzaga florence program
+    - What is florence program
+    - Can I do Florence study abroad
+    - Can I do GU Florence study abroad
 
 
+- intent: study_abroad_flights
+  examples: |
+    - Study abroad plane ticket
+    - When to buy a plane ticket to Florence
+    - When do I buy a plane ticket to study abroad in Florence
+    - When do you buy your plane ticket to go study in Florence
+    - When to buy ticket to Florence
+    - Should I buy a plane ticket to Florence
+    - Do I have to pay for my plane ticket if I’m studying abroad
+    - Do I need to buy my own plane ticket if I’m studying abroad
+    - Do I need to buy my own plane ticket if I am studying abroad
+    - Should I purchase flights once accepted to a study abroad program
+    - Do I pay for airfare when studying abroad
+    - Should I buy a plane ticket for study abroad now
+    - When do I need to buy my plane ticket for study abroad
+    - When should I buy my plane ticket for study abroad
+    - Do plane tickets come with study abroad programs
+    - Does airfare come with study abroad programs
+    - Can I buy a plane ticket for study abroad now
+    - How long after acceptance should I buy a plane ticket for study abroad
+    - Study abroad airfare
+    - How early can I buy my plane ticket for study abroad
+    - When is the correct time to purchase plane tickets
+    - Should we purchase flights once accepted to a study abroad program?
+    - Will I get information about when I should buy my plane tickets?
+    - When should i get my plane tickets for study abroad
+    - When is the correct time to buy plane tickets for study abroad
+    - When should i purchase my plane tickets
+    - purchasing tickets for study abroad
+    - correct time to purchase tickets for study abroad
+    - How long do i wait to purchase plane tickets after im accepted in the study abroad program
+    - How long till im able to purchase plane tickets for study abroad
+    - Purchasing plane ticket for study abroad
+    - should I purchase a plane ticket for study abroad
+    - Is it smart to purchase a plane ticket for study abroad
+    - Should we purchase flights for study abroad
+    - Is it smart to purchase flights for study abroad
+    - When is the right time to purchase flights for study abroad
+    - Info on flight purchases for study abroad
+    - Flight purchase info for study abroad
+    - flight purchase info for study abroad at gu
+    - flight purchase info for study abroad at Gonzaga
 
 
+- intent: foley_library_location
+  examples: |
+    - What is the location of the Foley library
+    - What is the address of the library
+    - Foley address
+    - Where can I find the Foley library
+    - Where on campus is the library
+    - Address of Foley library
+    - What is Foley library’s address
+    - What is the Foley library’s address
+    - Can you give me Foley library’s address
+    - Do you know Foley’s address
+    - Where on campus is the library
+    - Where on campus is Foley
+    - Where on campus is the Foley library
+    - I need to find the Foley library
+    - I need to find Foley
+    - Can you tell me where Foley is
+    - Can you tell me where to find the library
+    - Can you help me find Foley
+    - Library location
+    - GU library location
+    - Library location on campus
+    - where is the student library on campus
+    - Where is the library on campus
+    - Where is the GU library 
+    - Where is Foley library located
+    - Where is Foley library located on campus
+    - Foley library location
+    - Foley library location on campus
+    - Foley location on campus
+    - where is Foley library located on Gonzaga campus
+    - Tell me where Foley library is
+    - Tell me where Foley library is on Gonzaga
+    - Tell me where Foley library is on GU
+    - Where is Foley
+    - What is the address of Foley library
+    - Can you tell me what Foley library’s address is
+    - How can I find Foley library
+    - Best way to find Foley library
+    - Best way to find GU Foley library
+    - Best way to find Gonzaga Foley library
 
 
+- intent: foley_library_hours
+  examples: |
+    - When is Foley library open
+    - Foley library hours
+    - Library hours
+    - Hours of the library
+    - When is the library open
+    - When does the library close
+    - Is the library open
+    - Is the library open right now
+    - Is Foley open
+    - Is Foley closed
+    - When will I be kicked out of Foley
+    - How long can I be in Foley
+    - If Foley open
+    - When does Foley close
+    - Is Foley open 24 hours
+    - Is Foley library open 24 hours
+    - Can I be in Foley all day
+    - Is Foley open on weekends
+    - Is the library open on weekends
+    - Is the Foley library open on weekends
+    - What are the hours of operation for Foley library
+    - What are the opening and closing hours for the library
+    - Foley library hours of operation
+    - Library hours
+    - When does Foley open
+    - When does Foley close
+    - When does the Foley library close
+    - hours of operation for the campus library
+    - What are the hours for GU library
+    - What are the GU Library hours
+    - Tell me what Foley library hours are 
+    - What are Foley library’s hours
+    - When does Foley library close
+    - Does Foley close
+    - Is Foley open 24/7
+    - Is Foley library open 24/7
+    - When does Gonzaga’s library close
+    - When does Gonzaga’s library close
+    - Gonzaga’s library hours
+    - GU’s library hours
+
+- intent: foley_library_name
+  examples: |
+    - Purpose of the library’s name
+    - Origin of Foley library name
+    - Origin of Foley
+    - Is Foley a person
+    - Is the library named after someone
+    - Is the library named after a family
+    - Is Foley library named after anyone
+    - Foley name origin
+    - Who is Foley
+    - Foley library name
+    - Who is the library named after
+    - Who is Foley named after
+    - Who is the Foley library named after
+    - Why is the library called Foley
+    - Why is it called Foley library
+    - Can you tell me who Foley is
+    - Can you tell me why the library is called Foley
+    - Tell me more about the name of the library
+    - Why did they name the library Foley
+    - Is there a reason why the library is called Foley
+    - What is the significance of the library name
+    - significance of the library name
+    - Is Foley library named after someone
+    - What is the name significance of the library
+    - What is the history of the library at GU
+    - Is there history behind the naming of foley library
+    - Why is the library named after someone
+    - What is the history behind the name of GU library
+    - History behind the naming of the library
+    - Why is the library named like that?
+    - History behind name Foley
+    - Why is it called Foley?
+    - Who is Foley library named after?
+    - History of GU foley library
+    - History of Foley
+    - History of Gonzaga Foley library
+    - Tell me info about Foley library history
+    - History of Foley library name
+    - History of GU library name
+    - History of Gonzaga library name
 
 
+- intent: foley_library_return_policy
+  examples: |
+    - Library return policy
+    - How many books can I rent from the library
+    - How long can I rent a book from the library
+    - How long can I rent a book from Foley library
+    - How long can I rent a book from Foley
+    - Foley library return policy
+    - Does the library have a return policy
+    - What if I don’t return a book to the library
+    - My book rental is overdue, what do I do
+    - What is the library’s return policy
+    - When do I need to return a book to the library
+    - When do I need to return a rental to Foley
+    - Foley return policy
+    - When will my library rental be overdue
+    - What are the consequences of an overdue rental
+    - What are the penalties for returning a library rental late
+    - What if I return my rental book late
+    - Will I be charged if I don’t return a book to Foley
+    - Will I be charged if I return a book to the library late
+    - What should I do if I forget to return my book to the library
+    - What is Foleys library return policy
+    - What is the return policy at the GU library
+    - What is the return policy at the library 
+    - Can i have some information the return policy
+    - information about the return policy at Foley library
+    - return policy info at the library
+    - return policy at Foley library
+    - how long do i have to return a book at the library
+    - Length of time to return a book at foley library
+    - How much time do i have to return a book to foley library
+    - Tell me about the return policy at GU library
+    - Tell me about the return policy at Gonzaga library
+    - Does Foley have a return policy
+    - What is Foley’s return policy
+    - How long do I have to return books
+    - How long do I have to return books at Foley
+    - Info about Foley return policy
+    - Info about Gonzaga library return policy
+    - Is there a return policy at Foley
+    - Is there a return policy at Gonzaga’s library
 
 
+- intent: foley_library_study_rooms
+  examples: |
+    - Can I study in the library
+    - Where can I study in the library
+    - Study room in Foley
+    - Foley study room info
+    - Foley study room information
+    - Foley library private study room
+    - Private study room in the library
+    - How to study in private in the library
+    - Is there a study room in Foley
+    - Is there a study room in Foley library
+    - Can I reserve a study room in Foley
+    - Can I reserve a study room in the library
+    - Can I reserve a study room in Foley library
+    - Does the library have private study rooms
+    - Does the library have group study rooms
+    - Can you tell me about the study rooms in Foley
+    - Are there different types of study rooms in Foley
+    - Can I use the study rooms in Foley
+    - Are the study rooms open in Foley
+    - Does the library have study rooms
+    - library study room information
+    - library study room info
+    - Are there study rooms in Foley Library
+    - Can i rent out a study room in Foley Library
+    - Can i rent a study room in the library
+    - Occupying a study room in Foley
+    - Study room information in foley
+    - Can i have some information about study rooms in foley
+    - Can i have info on study room in foley library
+    - Foley library study room information
+    - How many study rooms in Foley
+    - Can I study in Foley
+    - Can I study at Gonzaga’s library
+    - Can I study at GU’s library
+    - Where is a good place to study at Gonzaga
+    - Is Foley a good place to study
+    - Is Gonzaga’s library a good place to study
+    - Is GU’s library a good place to study
+    - Do I have to reserve rooms at Foley
+    - Foley reserve rooms
 
 
+- intent: gonzaga_covid_numbers
+  examples: |
+    - Gonzaga covid stats
+    - Do people have covid at Gonzaga
+    - How many people have covid at Gonzaga
+    - Where do students that have covid go
+    - Gonzaga corona stats
+    - Gonzaga covid-19 stats
+    - Gonzaga covid cases
+    - How many cases of covid at Gonzaga
+    - How many people have covid at Gonzaga
+    - How many cases of covid-19 at Gonzaga
+    - What are the current Covid case numbers at Gonzaga
+    - Can you tell me the Covid case numbers at Gonzaga
+    - What are the current Covid-19 case numbers at Gonzaga
+    - Can you tell me the Covid-19 case numbers at Gonzaga
+    - What are the current coronavirus case numbers at Gonzaga
+    - Can you tell me the coronavirus case numbers at Gonzaga
+    - Is Covid still present on campus
+    - How rampant is covid at Gonzaga right now
+    - Is Gonzaga currently Covid safe
+    - Is there Covid at Gonzaga
+    - What are some of the covid numbers at Gonzaga
+    - Covid numbers at Gonzaga
+    - Covid statistics at GU
+    - Covid infection numbers at gonzaga
+    - Coronavirus numbers at Gonzaga
+    - Covid-19 infections at Gonzaga 
+    - Gonzaga Covid 19 statistics
+    - Gonzaga Covid 19 numbers
+    - Gonzaga covid 19 numbers
+    - What are the Covid 19 numbers at gonzaga
+    - Are people still getting Covid at Gonzaga
+    - Covid numbers at GU
+    - Am I at risk of Covid at gonzaga
+    - Info about Covid at Gonzaga
+    - Info about Covid at Gu
+    - Tell me more about Covid
+    - Tell me more about Covid at Gonzaga
+    - Tell me more about Covid at GU
+    - How many positive covid cases at Gonzaga
+    - How many positive covid cases at Gu
 
 
+- intent: gonzaga_covid_mask
+  examples: |
+    - Do students wear masks
+    - Do students have to wear masks
+    - Does Gonzaga have a mask policy
+    - Do I have to wear a mask at Gonzaga
+    - Do I need to wear a mask at Gonzaga
+    - Gonzaga and masks
+    - Gonzaga mask info
+    - Gonzaga mask information
+    - Mask policy
+    - What is the mask policy at gonzaga
+    - Do I still need to wear a mask on campus
+    - Do I need to wear a mask in class
+    - Do I need to wear a mask outside
+    - Do I need to wear a mask in my dorm
+    - Is there a mask requirement at Gonzaga
+    - Are masks still required on campus
+    - Are masks still required indoors
+    - Do professors stills wear masks
+    - Are there any campus events where I need to wear a mask
+    - Can you tell me about the current mask policy
+    - Gonzaga mask policy while on campus
+    - Gonzaga mask policy
+    - GU mask policy
+    - What is the gonzaga’s policy on masks
+    - Will gonzaga enforce mask usage while on campus
+    - Does gonzaga enforce mask while in the classrooms
+    - Gonzaga mask policy during classes
+    - What is the Gonzaga mask policy
+    - What is the Gonzaga mask policy while in classrooms
+    - What is the mask policy while in classrooms
+    - When does the mask requirement end
+    - Is Gonzaga’s mask requirement the same as Spokane’s
+    - Gonzaga mask purchase
+    - Will Gonzaga require me to wear a mask
+    - Will GU require me to wear a mask
+    - When will Gonzaga’s mask policy end
+    - When will GU’s mask policy end
+    - Will I get in trouble for not wearing a mask
+    - WIll I get in trouble for not wearing a mask at GU
+    - Will I get in trouble for not wearing a mask at Gonzaga
 
 
+- intent: gonzaga_covid_vaccines
+  examples: |
+    - Can I go to Gonzaga if i’m not vaccinated
+    - GU covid vaccine info
+    - Covid19 vaccine requirements
+    - What are the covid vaccine requirements at gonzaga
+    - Do I need to get vaccinated
+    - Do students need to get vaccinated
+    - Vaccine requirements
+    - What are the vaccine requirements
+    - Gonzaga covid vaccine policy
+    - Gonzaga covid19 vaccine policy
+    - Does Gonzaga require Covid vaccinations
+    - Does GU require Covid vaccinations
+    - Do students need to be vaccinated against Covid
+    - Do professors need to be vaccinated against Covid
+    - Do campus workers need to be vaccinated against Covid
+    - Can I got to class if I’m not vaccinated
+    - Can I be on campus if I’m not vaccinated
+    - Can I live in a dorm if I’m not vaccinated
+    - Does Gonzaga offer vaccination exemptions
+    - Will Gonzaga force me to get vaccinated if I want to attend
+    - What are the gonzaga vaccine requirements
+    - Gonzaga vaccine requirements
+    - Does Gonzaga require students to get vaccinated
+    - Does GU require incoming students to get vaccinated
+    - Does Gonzaga require incoming freshman to get vaccinated
+    - Does Gonzaga require a Covid 19 vaccination
+    - Does Gonzaga have a preference on what vaccination to get
+    - Is there a specific vaccination that students must get for Covid
+    - Covid vaccination requirements information
+    - Gonzaga covid 19 vax requirements
+
+- intent: gonzaga_covid_booster_shot
+  examples: |
+    - Do I need to get a covid booster shot
+    - Are booster shots required
+    - Are booster shots required at Gonzaga
+    - Gonzaga booster shot policy
+    - Are booster shots required at Gonzaga
+    - Are booster shots required for students
+    - Do I have to get a covid booster shot
+    - Do I need to get a booster shot
+    - Are covid booster shots required
+    - Are covid19 booster shots required
+    - Booster shot policy
+    - Booster shot policy at Gonzaga
+    - Can I go to class if I’m not boosted
+    - Do I need to be boosted to go on campus
+    - Are booster shots necessary
+    - Can I live on-campus if I’m not boosted
+    - Can I live in the dorms if I’m not boosted
+    - Do I need to be fully vaccinated to attend Gonzaga
+    - Do I need to be fully vaccinated to go to class
+    - Do I need to be fully vaccinated against Covid
+    - Does Gonzaga require every student to get a booster shot
+    - Gonzaga’s policy on booster shots
+    - What is Gonzaga’s policy on booster shots
+    - Gonzaga policy on covid 19 booster shots
+    - Gonzaga's policy on booster shots
+    - covid 19 booster shot information
+    - covid 19 booster shot policy
+    - Does Gonzaga require booster shots 
+    - What is the policy on booster shots at gonzaga
+    - What is the booster shot policy at GU
+
+- intent: gonzaga_covid_testing
+  examples: |
+    - Does gonzaga have covid tests
+    - Where do i get tested for covid
+    - Can i get tested for covid on campus
+    - Where do students get covid tests
+    - Where do students get covid19 tests
+    - Do I need to get tested for covid
+    - Campus covid tests
+    - Covid test location
+    - Covid19 test
+    - Where do I go to get tested for covid
+    - Does Gonzaga offer Covid testing
+    - Does Gonzaga still offer Covid testing
+    - Does Gonzaga offer PCR tests
+    - Does Gonzaga offer rapid tests
+    - Can I get covid tested at the health center
+    - Does Gonzaga offer free testing
+    - Can I get tested on campus
+    - Does the health center offer walk-in testing
+    - Do I need to make an appointment to get tested
+    - Can I get tested at Gonzaga
+    - Are there any opportunities to get tested on campus
+    - Am i able to get tested on campus for Covid
+    - Where can i get a covid test on gonzaga
+    - does Gonzaga provide students opportunities to get tested on campus
+    - Gonzaga covid testing locations
+    - Where on campus can i get a covid 19 test
+    - Does Gonzaga host testing sites for Covid 19
+    - What are some covid testing opportunities at Gonzaga
+    - Covid testing sites on Gonzaga Campus
+    - Where can students get test on gonzaga campus
+
+- intent: gonzaga_athletics_mens_basketball
+  examples: |
+    - Gonzaga basketball score
+    - Did the bulldogs win their basketball game
+    - gonzaga mens basketball game
+    - What is the score of the basketball game
+    - Mens basketball score
+    - Did the basketball team win their last game
+    - Gonzaga basketball game score
+    - Did the mens basketball team win their game
+    - Did mens basketball win it all
+    - Did men’s basketball win
+    - Did the Zags win
+    - Did the Zags lose
+    - Did the Zags win their last game
+    - Did the Zags lose their last game
+    - Who did the Zags last play
+    - What was the Zags last game
+    - Are the Zags still in the tournament
+    - Is the mens basketball team still in the tournament
+    - How did the Zags end their season
+    - How did the mens basketball team end their season
+    - Zags mens basketball score
+    - What is the result of the recent men's basketball game
+    - Did the Zags win the their last mens basketball game 
+    - How did Gonzaga do on their last mens basketball
+    - DId gonzaga win their last mens basketball game
+    - Did GU win their last mens basketball game
+    - What was the result of the last GU mens basketball game
+    - Did the GU bulldogs win their last mens basketball game
+    - Result of last mens basketball game
+    - recent mens basketball game
+
+- intent: gonzaga_athletics_womens_basketball
+  examples: |
+    - Gonzaga womens basketball score
+    - Did the woman bulldogs win their basketball game
+    - gonzaga womens basketball game
+    - What is the score of the womens basketball game
+    - Womens basketball score
+    - Did the womens basketball game win their last game
+    - Gonzaga womens basketball game score
+    - Did the womens basketball team win their game
+    - Did womens basketball win it all
+    - Did women’s basketball win
+    - Did the lady Zags win
+    - Did the lady Zags lose
+    - Did the lady Zags win their last game
+    - Did the lady Zags lose their last game
+    - Who did the lady Zags last play
+    - What was the lady Zags last game
+    - Are the lady Zags still in the tournament
+    - Is the womens basketball team still in the tournament
+    - How did the lady Zags end their season
+    - How did the womens basketball team end their season
+    - Zags womens basketball score
+    - What is the result of the recent womens basketball game
+    - Did the Zags win the their last womens basketball game 
+    - How did Gonzaga do on their last womens basketball
+    - DId gonzaga win their last womens basketball game
+    - Did GU win their last womens basketball game
+    - What was the result of the last GU women's basketball game
+    - Did the GU bulldogs win their last women's basketball game
+    - Result of last women's basketball game
+    - recent women's basketball game
+
+- intent: gonzaga_athletics_national_championship
+  examples: |
+    - Has gonzaga won a national championship
+    - Has the basketball team won a national championship
+    - What sports has gonzaga won it all in
+    - Which sports has gonzaga won a national championship in
+    - Gonzaga national champions
+    - National championship win
+    - Does GU have a national championship 
+    - Has gonzaga university won a national championship
+    - Gonzaga national championship win
+    - Did Gonzaga ever win a  national championship
+    - Does Gonzaga own a national championship
+    - How many national titles does Gonzaga have?
+    - Does Gonzaga have a national title in any sports
+    - Does Gonzaga have a national title in basketball
+    - Does Gonsaga have a national title in soccer
+    - Does Gonzaga have a national title in baseball
+    - Does Gonzaga have a national title in boxing
+    - Does Gonzaga have many national titles?
+    - Does Gonzaga win championships a lot?
+    - Do we have any athletic championships?
+    - Does Gonzaga have any championships
+    - Does GU have a national championship in any sport
+    - Does GU have a national title in basketball
+    - Has GU ever won a national championship
+    - Has any GU sports teams ever won a national championship
+    - Has Gonzaga athletics ever won a national championship
+    - Has GU athletics won a national championship
+    - Have Gonzaga won a national championship
+    - have gonzaga athletic department won a national championship
+    - have GU sports won a national championship
+
+- intent: gonzaga_athletics_programs
+  examples: |
+    - Gonzaga sports
+    - How many sports are at gonzaga
+    - How many sports does gonzaga have
+    - How many athletic sports does gonzaga have
+    - How many athletic programs does gonzaga have
+    - How many sports at gonzaga
+    - How many sports at gonzaga university
+    - How many sports are at gonzaga university
+    - How many sports does gonzaga support
+    - number of athletic programs at gonzaga
+    - What sports can I play at Gonzaga
+    - What can I play as a college athlete
+    - Are there many athletic programs at Gonzaga
+    - Does Gonzaga have more than just a basketball program
+    - What are the different sports Gonzaga offers
+    - Can you tell me what sports Gonzaga offers
+    - Athletic programs
+    - What athletic programs does Gonzaga have
+    - Can I run track and field at Gonzaga
+    - Can I run cross country at Gonzaga
+    - Gonzaga athletic teams
+    - Gonzaga sport teams
+    - What are the different types of sports programs Gonzaga has
+    - What sports can I play at gonzaga?
+    - What sports programs can I be part of at gonzaga?
+    - Sports programs at Gonzaga
+    - Athletic teams at gonzaga
+    - Sports teams at Gonzaga
+    - Gonzaga athletics
+    - How many athletics programs are at GU
+
+- intent: gonzaga_athletics_football
+  examples: |
+    - Gonzaga football
+    - Gonzaga football team
+    - Does gonzaga have football
+    - Did gonzaga have football
+    - Did gonzaga have a football team
+    - Football
+    - Did gonzaga ever have a football team
+    - Why doesn’t gonzaga have a football team
+    - GU football
+    - Is there a football team at gonzaga
+    - How good is the Gonzaga football team
+    - How bad is the Gonzaga football team
+    - Does Gonzaga have a history of football
+    - When did Gonzaga have a football team
+    - Does Gonzaga have football
+    - Can I play football at Gonzaga
+    - When did the Gonzaga football team last play
+    - Did Gonzaga ever play college football
+    - Gonzaga football program
+    - Is the Gonzaga football team undefeated?
+    - Tell me did Gonzaga have a football team?
+    - Tell me about Gonzaga’s football team?
+    - Tell me about football at Gonzaga?
+    - Was there a football team at Gonzaga?
+    - Is there a football team at Gonzaga
+    - Does Gonzaga have a D1 football team?
+    - Football at Gonzaga
+    - Football at GU
+    - Can you tell me about GU football?
+    - Can you tell me about Gonzaga football?
 
 
+- intent: gonzaga_admissions_transfer
+  examples: |
+    - How to transfer into gonzaga
+    - How do i transfer to gonzaga university
+    - Can i transfer to gonzaga
+    - Does gonzaga admit transfers
+    - Does gonzaga admit transfer students
+    - Can i go to gonzaga as a transfer
+    - How can a student transfer to gonzaga
+    - How do I transfer to gonzaga
+    - I need instructions on how to transfer to gonzaga
+    - I want to transfer to gonzaga but dont know how
+    - Will my credits transfer to Gonzaga
+    - Does Gonzaga accept transfer credits
+    - Where can I start the process of transferring to Gonzaga
+    - What are the steps for transferring to Gonzaga
+    - How do I become a transfer student at Gonzaga
+    - Can I attend Gonzaga starting as a sophomore
+    - Can I attend Gonzaga starting as a junior
+    - Can I attend Gonzaga starting as a senior
+    - Gonzaga transfer system
+    - Transferring to Gonzaga
+    - What is the application process to transfer to GU
+    - What is the process to transfer to gonzaga?
+    - What is the policy and rules with transferring to Gonzaga
+    - What are the steps to transfer to Gonzaga
+    - Are there requirements i must meet to transfer to gonzaga
+    - GU transfer information
+    - Transfer information
+    - Transfer student information
+    - Gonzaga transfer student
+    - Student Transferring to Gonzaga
+
+- intent: gonzaga_admissions_application
+  examples: |
+    - Early action
+    - Early action deadline
+    - Admission deadline
+    - What is the application deadline
+    - What is the application deadline for gonzaga
+    - when do i need to apply to gonzaga by
+    - early action deadline at gonzaga
+    - Application deadline for fall
+    - Application deadline
+    - Does gonzaga accept early action
+    - Does gonzaga do early action
+    - Is there an early action deadline
+    - When do I need to respond to an early action offer
+    - Can I do early action at Gonzaga
+    - How early can I accept an offer from Gonzaga
+    - How early can I apply to Gonzaga
+    - When do I need to apply for early action at Gonzaga
+    - Gonzaga early action
+    - Early action at Gonzaga
+    - Tell me about early action at Gonzaga
+    - Does Gonzaga still take early action applications
+    - Does gonzaga offer early action
+    - Gonzaga early action
+    - Gonzaga early action application
+    - Does GU offer early action application
+    - Deadline for regular decision
+    - What is the deadline for regular decision
+    - Deadline for applying
+    - What is the last day you can submit your application for Gonzaga
+    - When is the deadline for undergrad application
+
+- intent: gonzaga_admissions_acceptance_rate
+  examples: |
+    - gu acceptance rate
+    - Gonzaga acceptance rate
+    - what’s gonzaga’s acceptance rate
+    - gonzaga decline rate
+    - gonzaga application acceptance rate
+    - what is gonzaga’s application acceptance rate
+    - how hard is it to get into gonzaga
+    - is it hard to get into gonzaga
+    - what is the acceptance rate for gonzaga
+    - What is the acceptance rate at gonzaga
+    - Is it likely I’ll get into Gonzaga
+    - How likely is it that I will get into Gonzaga
+    - Will Gonzaga accept me
+    - How many applications does Gonzaga accept
+    - How many students does Gonzaga accept
+    - Is Gonzaga’s acceptance rate high
+    - Is Gonzaga’s acceptance rate low
+    - Does Gonzaga accept a lot of students
+    - How easy is it to get into Gonzaga
+    - Will I get into Gonzaga
+    - What is the gonzaga acceptance rate
+    - GU acceptance rate
+    - What is Gonzaga University acceptance rate
+    - What is GU acceptance rate
+    - Gonzaga University Acceptance rate
+    - Acceptance rate for undergrad
+    - What is the acceptance rate for undergrad at Gonzaga
+    - What is the acceptance rate for undergrad
+    - Is the acceptance rate for undergrad high for GU
+    - Undergraduate acceptance rate
+
+- intent: gonzaga_admissions_common_app
+  examples: |
+    - can i get into gonzaga with the common app
+    - can i get into gonzaga with the common application
+    - can i apply to gonzaga with the common app
+    - can i apply to gonzaga with the common application
+    - can i apply to gonzaga through common application
+    - can i apply to gonzaga through common app
+    - common app
+    - common application
+    - does gonzaga accept the common app
+    - applying to gonzaga with common application
+    - Does Gonzaga do the common application
+    - Does Gonzaga do the common app
+    - How can I apply to Gonzaga with the common application
+    - How can I apply to Gonzaga with the common app
+    - Does Gonzaga take the common app
+    - Does Gonzaga take the common application
+    - Is Gonzaga a part of the common app
+    - Is Gonzaha a part of the common application
+    - Can I send my common application to Gonzaga
+    - Can I send my common app to Gonzaga
+    - How do i submit my application for Gonzaga
+    - Where do i submit my application for Gonzaga
+    - What is the application process for undergrad at gonzaga
+    - What is the application process for Gonzaga
+    - How do i submit my application for GU
+    - Gonzaga application process
+    - GU applying process
+    - application process for Gonzaga
+    - Do undergrads apply with the common application
+    - Do incoming freshman apply with the common app
+
+- intent: gonzaga_admissions_applying
+  examples: |
+    - how to apply to gonzaga
+    - applying to gonzaga
+    - applying to gonzaga university
+    - how can i apply to gonzaga
+    - gonzaga application
+    - gonzaga undergraduate application
+    - how does one apply to gonzaga
+    - apply to gonzaga
+    - how to apply to gonzaga online
+    - can i apply to gonzaga in person
+    - Can you tell me how to apply to Gonzaga
+    - Can you tell me some information on applying to Gonzaga
+    - Tell me some information on applying
+    - What is the application process like
+    - What are the steps for applying to Gonzaga
+    - Is it complicated to apply to Gonzaga
+    - How do I apply to Gonzaga as an undergraduate
+    - How do I apply to Gonzaga as a graduate student
+    - How do I apply to a school at Gonzaga
+    - How do I apply to grad school at Gonzaga
+    - How do i submit my application for Gonzaga
+    - Where do i submit my application for Gonzaga
+    - What is the application process for undergrad at gonzaga
+    - What is the application process for Gonzaga
+    - How do i submit my application for GU
+    - Gonzaga application process
+    - GU applying process
+    - application process for Gonzaga
+    - Do undergrads apply with the common application
+    - Do incoming freshman apply with the common app
+
+- intent: psych_department_info
+  examples: |
+    - Tell me about the psychology department
+    - I’d like to know more about the psychology department
+    - I want to know about the psychology department at Gonzaga
+    - Info about psychology department
+    - psychology info
+    - How many majors are there in the psychology department
+    - psychology department
+    - psychology degree
+    - psychology at gonzaga
+    - Can i take psychology at gonzaga
+    - psychology gonzaga
+    - Tell me about psychology at gonzaga
+    - Gonzaga psychology department
+    - Gonzaga psychology department
+    - Undergraduate psychology gonzaga
+    - Undergraduate psychology
+    - psychology
+    - Possible psychology majors
+    - Gonzaga psychology
+    - Can I get a minor in psychology
+    - Can I get a major in psychology
+    - Can I get a BA in psychology
+    - Does Gonzaga offer a psychology major
+    - What are the psychology  degrees
+    - psychology info
+    - Information about psychology
+    - info about the psychology  minor
+    - psychology  department info
+    - info about the psychology degree
+    - can i get some info about the psychology major
+    - can i get some info about the psychology department
+    - can i get some info about the Psych major
+    - can i get some info about the Psych department
+    - information about the Psych major
+    - information about the Psych department
+    - Psych major info
+    - Psych department info
+
+- intent: psych_credits_info
+  examples: |
+    - psychology major information
+    - psychology major info
+    - psychology major requirements
+    - Credits in psychology
+    - Credits in psychology
+    - How many credits for a psychology degree
+    - How many credits for a psychology major
+    - psychology majors info
+    - Is a psychology major hard
+    - How to get a psychology major
+    - How to get a psychology degree
+    - How to major in psychology
+    - Requirements for a psychology major
+    - psychology requirements
+    - How do I get a psychology major
+    - psychology requirements
+    - What do I need to do to earn a psychology major
+    - How many credits do psychology majors take
+    - psychology major credits
+    - BA in psychology information
+    - psychology BA info
+    - psychology BA information
+    - Psych BA credits
+    - Psych credits info
+    - what are the amount of credits for a BA in Psychology 
+    - How many credits for a BA in Psychology 
+    - How many credits for a BA in Psych 
+    - Amount of credits for a degree in Psychology 
+    - Credits for a BA in Psych
+    - Credits amount for a BA in Psychology
+
+- intent: psych_chairperson_info
+  examples: |
+    - Monica Bartlett
+    - Dr. Bartlett
+    - Dr bartlett
+    - Professor bartlett
+    - psychology department chair
+    - Chair of psychology department
+    - Department chair of psychology
+    - Who is the department chair of psychology
+    - Who is the department chair of psychology at Gonzaga
+    - Gonzaga’s psychology department chair
+    - psychology department chair
+    - Chairperson of psychology
+    - Chairperson of psychology
+    - psychology department chair
+    - psychology chair
+    - psychology chair
+    - Bartlett
+    - Who is the chair of the psychology department
+    - Who’s the chair of the psychology department
+    - Are there 2 people as the chair for the psychology department
+    - who is in charge of the Psych department
+    - who is in charge of the psychology  department
+    - who is the head person in the psychology department
+    - who is the head person in the Psych department
+    - person in charge of the Psych department
+    - person in charge of the psychology department
+    - department chairperson of the Psych department
+    - chair of psychology 
+    - chairperson of the psychology department
+    - chair of the psychology department
+
+- intent: psych_faculty_info
+  examples: |
+    - What is the psychology department faculty like
+    - Tell me about the faculty of the psychology department
+    - Who are some professors in the psychology department
+    - psychology department faculty
+    - Who teaches in the psychology department
+    - Professors in the psychology department
+    - Faculty of the psychology department
+    - Faculty members of the psychology department
+    - I want to know about the psychology department faculty
+    - psychology faculty
+    - psychology professors
+    - Laura Anaya
+    - Alexander Bies
+    - Michael Nelson
+    - Lee Wurm
+    - psychology teachers
+    - Who teaches psychology
+    - Who teaches psychology at gonzaga
+    - Who teaches psychology at GU
+    - List of psychology professors
+    - Who is on the computer science faculty
+    - I want to know about the psychology faculty
+    - professors in the Psych department
+    - professors in the Psych faculty
+    - professors in the Psych program
+    - lecturers in the psychology department
+    - lecturers on the psychology faculty
+    - lecturers in the Psych department
+    - lecturers in the Psych faculty
+    - who are some of the lecturers in the psychology department
+
+- intent: psych_courses_info
+  examples: |
+    - psychology courses
+    - What are some of the psychology courses
+    - What classes are in the psychology department
+    - What is taught in the psychology department
+    - psychology classes
+    - Courses in the psychology department
+    - What can I take in the psychology department
+    - What do psychology majors take 
+    - Offered psychology classes
+    - All psychology classes
+    - List psychology classes
+    - What are all the psychology classes offered at gonzaga
+    - psychology courses
+    - psychology classes
+    - What psychology class are there
+    - What psychology classes are offered at gonzaga
+    - What psychology classes are offered at gu
+    - Psych Courses
+    - Psych major courses
+    - All Psych classes
+    - Psych major classes 
+    - what are some of the Psych classes 
+    - what are some of the Psych courses
+    - psychology classes
+    - what are some of the Psych classes taken
+    - what are some major Psych classes
+    - what are some of the major Psych classes
+
+- intent: gonzaga_student_orientation_date
+  examples: |
+    - orientation
+    - when is orientation
+    - new student orientation
+    - undergrad orientation date
+    - orientation date
+    - when does orientation start
+    - when does new student orientation start
+    - new student orientation date
+    - what day is orientation
+    - when is orientation held
+    - When do I need to arrive for orientation
+    - When is the new student orientation
+    - How long will new student orientation last
+    - How early is new student orientation
+    - When is new student orientation this year
+    - Will new student orientation be in the summer
+    - Will new student orientation be in July
+    - Will new student orientation be in August
+    - Will new student orientation be in September
+    - When can I expect to arrive at Gonzaga as a new student
+    - Tell me when is new student orientation
+    - Tell me when is GU student orientation
+    - tell me when is Gonzaga student orientation
+    - Can you tell me when student orientation is
+    - Student orientation time
+    - new student orientation time
+    - When is new student orientation time
+    - When is undergrad orientation time
+    - Tell me when undergrad orientation time
+    - Tell me when new undergrad orientation time is
 
 
+- intent: gonzaga_student_orientation_activities
+  examples: |
+    - new student orientation info
+    - what do you do at orientation
+    - activities at orientation
+    - what do students do at orientation
+    - what do students do at new student orientation
+    - orientation information
+    - new student orientation information
+    - orientation info
+    - can you tell me about orientation
+    - can you tell me about new student orientation
+    - What can I expect at new student orientation
+    - What will parents do at new student orientation
+    - What is the point of orientation
+    - Will I have freedom at new student orientation
+    - What events are held during new student orientation
+    - What will I learn at new student orientation
+    - Will I learn a lot at new student orientation
+    - What is the schedule of new student orientation
+    - What is the weekend schedule for orientation
+    - What will be required at new student orientation
+    - What happens at student orientation
+    - Can you tell me what happens at student orientation
+    - Can you tell me what happens at GU orientation
+    - Can you tell me what happens at Gonzaga orientation
+    - Can you tell me what happens at GU student orientation
+    - Can you tell me what happens at Gonzaga student orientation
+    - Tell me what happens at GU orientation
+    - Tell me what happens at GU student orientation
+    - Tell me what happens at Gonzaga orientation
+    - Tell me what happens at Gonzaga student orientation
 
+
+- intent: gonzaga_student_orientation_attendance
+  examples: |
+    - Is orientation required
+    - is new student orientation required
+    - can i miss orientation
+    - can you miss orientation
+    - can you skip orientation
+    - can you skip new student orientation
+    - can i skip new student orientation
+    - can i skip orientation
+    - Is it okay to skip orientation weekend
+    - is it okay if i miss orientation
+    - What happens if I don’t go to orientation
+    - Will I have to attend orientation
+    - Will I have to attend all orientation activities
+    - Can I arrive after orientation
+    - Are there punishments for missing orientation
+    - Will I be penalized for skipping orientation
+    - Are there consequences for missing orientation
+    - What if I can’t go to orientation
+    - What if I can’t attend orientation
+    - Is new student orientation mandatory
+    - Why do I have to attend orientation
+    - Why do I have to attend new student orientation
+    - Is it required that I attend orientation
+    - Is it required to go to orientation
+    - Is it required that I go to orientation
+    - Is it required that i attend new student orientation
+    - Is it required to go to new student orientation
+    - Is it required that I go to new student orientation
+    - How do I know if I have to go to new student orientation
+    - I don’t want to go to orientation, do I need to
+    - I do not want to go to orientation
+    - I don’t want to go to orientation
+    - Orientation seems lame
+    - Do I need to go to orientation if I’ve already toured Gonzaga
+    - Is it alright if I miss orientation
+    - Is it alright if I miss new student orientation
+    - Is it okay if I skip orientation
+    - Is it okay if I skip new student orientation
+    - Is going to orientation mandated
+    - Is orientation required if I don’t want to go
+
+- intent: gonzaga_student_orientation_leaders
+  examples: |
+    - What is an orientation leader
+    - what is a orientation leader
+    - who are orientation leaders
+    - orientation leader
+    - orientation leaders
+    - who can be an orientation leader
+    - what’s an orientation leader
+    - what’s a orientation leader
+    - do i have an orientation leader
+    - when do i meet my orientation leader
+    - Will I have orientation leaders
+    - Will I get to know my orientation leaders
+    - What is the point of orientation leaders
+    - What will my orientation leaders do
+    - What are the responsibilities of orientation leaders
+    - Who will lead my small group
+    - Who is going to lead orientation small groups
+    - What does an orientation leader do
+    - Are orientation leaders cool
+    - Are orientation leaders students
+    - Are orientation leaders adults
+    - Who are these orientation leaders
+    - What is an orientation leader for orientation weeked
+    - What is an orientation weekend leader
+    - What’s an orientation weekend leader
+    - What is an orientation leader in respect to orientation weekend
+    - Are orientation leaders freshmen
+    - Are orientation leaders students
+    - Are orientation leaders Gonzaga students
+    - Are orientation leaders upperclassmen
+    - Are orientation leaders seniors
+    - Are orientation leaders juniors
+    - Are orientation leaders sophomores
+    - Are orientation leaders first year students
+    - Are orientation leaders first-year students
+    - Are orientation leaders nice
+    - Are orientation leaders mean
+    - Who exactly is an orientation leader
+    - Who exactly are orientation leaders
+    - Who leads orientation small groups
+
+- intent: reli_department_info
+  examples: |
+    - Tell me about the religious studies department
+    - I’d like to know more about the religious studies department
+    - I want to know about the religious studies department at Gonzaga
+    - Info about religious studies department
+    - religious studies info
+    - How many majors are there in the religious studies department
+    - religious studies department
+    - religious studies degree
+    - religious studies at gonzaga
+    - Can i take religious studies at gonzaga
+    - religious studies gonzaga
+    - Tell me about religious studies at gonzaga
+    - Gonzaga religious studies department
+    - Gonzaga religious studies department
+    - Undergraduate religious studies gonzaga
+    - Undergraduate religious studies
+    - religious studies
+    - Possible religious studies majors
+    - Gonzaga religious studies
+    - Can I get a minor in religious studies
+    - Can I get a major in religious studies
+    - Can I get a BA in religious studies
+    - Does Gonzaga offer a religious studies major
+    - What are the religious studies  degrees
+    - religious studies info
+    - Information about religious studies
+    - info about the religious studies  minor
+    - religious studies  department info
+    - info about the religious studies degree
+    - can i get some info about the religious studies major
+    - can i get some info about the religious studies department
+
+- intent: reli_credits_info
+  examples: |
+    - religious studies major information
+    - religious studies major info
+    - religious studies major requirements
+    - Credits in religious studies
+    - Credits in religious studies
+    - How many credits for a religious studies degree
+    - How many credits for a religious studies major
+    - religious studies majors info
+    - Is a religious studies major hard
+    - How to get a religious studies major
+    - How to get a religious studies degree
+    - How to major in religious studies
+    - Requirements for a religious studies major
+    - religious studies requirements
+    - How do I get a religious studies major
+    - religious studies requirements
+    - What do I need to do to earn a religious studies major
+    - How many credits do religious studies majors take
+    - religious studies major credits
+    - BA in religious studies information
+    - religious studies BA info
+    - religious studies BA information
+    - Amount of credits for a degree in religious studies 
+    - Credits amount for a BA in religious studies
+    - Tell me how many credits for a religious major
+    - Tell me how many credits needed to be a religion major
+    - How many credits do I need for religious studies major
+    - How many credits do I need for religion major
+    - How many credits for BA in religion
+    - How many credits for BS in religion
+
+- intent: reli_chairperson_info
+  examples: |
+    - Kevin McCruden
+    - Dr. McCruden
+    - Dr mccruden
+    - Professor mccruden
+    - religious studies department chair
+    - Chair of religious studies department
+    - Department chair of religious studies
+    - Who is the department chair of religious studies
+    - Who is the department chair of religious studies at Gonzaga
+    - Gonzaga’s religious studies department chair
+    - religious studies department chair
+    - Chairperson of religious studies
+    - Chairperson of religious studies
+    - religious studies department chair
+    - religious studies chair
+    - religious studies chair
+    - Bartlett
+    - Who is the chair of the religious studies department
+    - Who’s the chair of the religious studies department
+    - Are there 2 people as the chair for the religious studies department
+    - person in charge of the religious studies department
+    - chair of religious studies 
+    - chairperson of the religious studies department
+    - chair of the religious studies department
+    - Tell me who is the religious studies chairperson
+    - Can you tell me who the religious studies chair is
+    - Who is the religion chair
+    - Who is the religion chairperson
+    - Who is the religion studies chair
+    - Who is the religion studies chairperson
+
+- intent: reli_faculty_info
+  examples: |
+    - What is the religious studies department faculty like
+    - Tell me about the faculty of the religious studies department
+    - Who are some professors in the religious studies department
+    - religious studies department faculty
+    - Who teaches in the religious studies department
+    - Professors in the religious studies department
+    - Faculty of the religious studies department
+    - Faculty members of the religious studies department
+    - I want to know about the religious studies department faculty
+    - religious studies faculty
+    - religious studies professors
+    - Joe Mudd
+    - Brian Siebeking
+    - Scott Starbuck
+    - Quan Tran
+    - religious studies teachers
+    - Who teaches religious studies
+    - Who teaches religious studies at gonzaga
+    - Who teaches religious studies at GU
+    - List of religious studies professors
+    - Who is on the computer science faculty
+    - I want to know about the religious studies faculty
+    - professors in the Psych department
+    - professors in the Psych faculty
+    - professors in the Psych program
+    - lecturers in the religious studies department
+    - lecturers on the religious studies faculty
+    - Tell me who the faculty is in the religious department
+    - Who is on the faculty for religious study
+    - Tell me who is on the religious study faculty
+    - Can you tell me who is on the religious study faculty
+
+
+- intent: reli_courses_info
+  examples: |
+    - religious studies courses
+    - What are some of the religious studies courses
+    - What classes are in the religious studies department
+    - What is taught in the religious studies department
+    - religious studies classes
+    - Courses in the religious studies department
+    - What can I take in the religious studies department
+    - What do religious studies majors take 
+    - Offered religious studies classes
+    - All religious studies classes
+    - List religious studies classes
+    - What are all the religious studies classes offered at gonzaga
+    - religious studies courses
+    - religious studies classes
+    - What religious studies class are there
+    - What religious studies classes are offered at gonzaga
+    - What religious studies classes are offered at gu
+    - Tell me some courses offered in the religion department
+    - Tell me about some GU religion courses
+    - What are the Religious studies courses
+    - What are the GU religious studies courses
+    - What are the Gonzaga religious studies courses
+    - Tell me what religious studies courses I can take at Gonzaga
+    - Tell me what religious studies courses are offered at GU
+    - Tell me what religious studies courses are offered at GOnzaga
+    - Tell me what religious studies courses I can take at GU
+    - Can you tell me the religious courses offered
+    - Can you tell me the religion classes offered
+    - Can you tell me the religion courses offered
+    - Can you tell me the religious classes offered
+
+- intent: law_school_apply
+  examples: |
+    - How to apply to GU law
+    - How to transfer to GU law
+    - GU law transfer
+    - GU law application
+    - GU law apply
+    - Apply to GU law
+    - How do I apply to GU law
+    - How can I apply to GU law
+    - Can I apply to GU law
+    - What are the requirements for applying to GU law
+    - How do I get into GU law
+    - Do I need a bachelor's degree to apply to GU law
+    - Does GU law require LSAT score
+    - How to apply to GU law school
+    - How to transfer to GU law school
+    - GU law school transfer
+    - GU law school application
+    - GU law school apply
+    - Apply to GU law school
+    - How do I apply to GU law school
+    - How can I apply to GU law school
+    - Can I apply to GU law school
+    - What are the requirements for applying to GU law school
+    - How do I get into GU law school
+    - Do I need a bachelor's degree to apply to GU law school
+    - Does GU law school require LSAT score
+    - How to apply to Gonzaga law
+    - How to transfer to Gonzaga law
+    - Gonzaga law transfer
+    - Gonzaga law application
+    - Gonzaga law apply
+    - Apply to Gonzaga law
+    - How do I apply to Gonzaga law
+    - How can I apply to Gonzaga law
+    - Can I apply to Gonzaga law
+    - What are the requirements for applying to Gonzaga law
+    - How do I get into Gonzaga law
+    - Do I need a bachelor's degree to apply to Gonzaga law
+    - Does Gonzaga law require LSAT score
+    - How to apply to Gonzaga law school
+    - How to transfer to Gonzaga law school
+    - Gonzaga law school transfer
+    - Gonzaga law school application
+    - Gonzaga law school apply
+    - Apply to Gonzaga law school
+    - How do I apply to Gonzaga law school
+    - How can I apply to Gonzaga law school
+    - Can I apply to Gonzaga law school
+    - What are the requirements for applying to Gonzaga law school
+    - How do I get into Gonzaga law school
+    - Do I need a bachelor's degree to apply to Gonzaga law school
+    - Does Gonzaga law school require LSAT score
+    - How to apply to law school
+    - How to transfer to law school
+    - law school transfer
+    - law school application
+    - law school apply
+    - Apply to law school
+    - How do I apply to law school
+    - How can I apply to law school
+    - Can I apply to law school
+    - What are the requirements for applying to law school
+    - How do I get into law school
+    - Do I need a bachelor's degree to apply to law school
+    - Does law school require LSAT score
+
+- intent: law_school_curriculum
+  examples: |
+    - What is the law curriculum like
+    - What is required for a gonzaga law degree
+    - How many classes do I need to take to get a law degree
+    - How many credits to graduate with a law degree
+    - How many credits do I need to take in law school
+    - How many hours of public service work are required for law students
+    - How many course credits to graduate with a law degree
+    - law curriculum
+    - gu law curriculum
+    - gonzaga law curriculum
+    - classes at gonzaga law
+    - gonzaga law courses
+    - gonzaga law classes
+    - What are the requirements for getting my law degree
+    - What are the law degree requirements
+    - What is the curriculum in the law school
+    - What should I take in the law school
+    - What do I need to do to get a law degree
+    - What do I need to take to get a law degree
+    - What does the law school require
+    - What is the Law school curriculum like at Gonzaga?
+    - Gonzaga law school curriculum
+    - Law school curriculum
+    - Can you tell me some info about the law school curriculum
+    - Can i have some information about the law school curriculum
+    - info about the law school curriculum
+    - info about GU law school curriculum
+    - information about the Gonzaga law school curriculum
+    - What is the law school curriculum at Gonzaga
+    - graduate law school curriculum 
+
+- intent: law_school_faculty
+  examples: |
+    - gu law faculty
+    - gonzaga law faculty
+    - gonzaga university faculty
+    - law faculty
+    - gonzaga law professors
+    - gonzaga law teachers
+    - who teaches law
+    - law professors at gonzaga
+    - faculty members for gonzaga law
+    - who are the faculty members for the law school
+    - Who teaches law at gonzaga
+    - Who teaches in the law school
+    - Who is on the law school faculty
+    - Can you tell me some law professors at gonzaga
+    - Who are the professors in the law school
+    - Which professors teach in the law school
+    - Who will teach my courses in the law school
+    - Does the law school have professors
+    - Can I have a list of law professors at GU
+    - List some law professors
+    - what are some of the professors in the law school department
+    - who is on the law school faculty list
+    - who is on the law school department list
+    - Who is on the computer science faculty
+    - I want to know about the graduate law school faculty
+    - professors in the law school  
+    - professors in the law school faculty list
+    - professors in the law school program
+    - lecturers in the law school department
+    - lecturers on the law school faculty
+    - lecturers in the law department
+
+- intent: law_school_career_service
+  examples: |
+    - law school center for professional development
+    - The gonzaga university school of law center for professional development
+    - CPD
+    - Gonzaga law CPD
+    - gonzaga law employer services
+    - gonzaga law employment services
+    - school of law career services
+    - law school career services
+    - gonzaga law school career services
+    - what career services does gonzaga provide for the law school
+    - Can anyone in the law school help me with my career
+    - Who should I talk to about life after law school
+    - I need help with my law career
+    - Can you help me with my law career
+    - Who can help me with my law career
+    - How do I get a career in law
+    - Does the law school have its own career services
+    - Is there a CPD at the law school
+    - Is there a career and professional development office at the law school
+    - What career services are available in the law school
+    - Are there any career services for the school of law?
+    - are there career services for the law school
+    - What are the career services for the law school
+    - Career services for the law school
+    - is there career services for the law school
+    - Can i have information on career services for the law school
+    - School of law career services
+    - GU career services for law school
+    - Does GU provide career service for the school of law
+    - Gonzaga law school career service
+
+- intent: law_school_info
+  examples: |
+    - law
+    - law school
+    - gu law
+    - gonzaga law
+    - gonzaga university law
+    - gu law school
+    - gonzaga law school
+    - gonzaga university law school
+    - school of law
+    - gu school of law
+    - gonzaga school of law
+    - gonzaga university school of law
+    - Law school info
+    - Gonzaga law school info
+    - Can you tell me about the law school
+    - What is some info on the law school
+    - What is some information on the gonzaga law school
+    - Tell me about GU law
+    - What can you tell me about the law school
+    - What are some basic facts on the law school
+    - Can i get some information about the law school
+    - Information about Gonzaga’s school of law
+    - What can you tell me about the school of law
+    - Gonzaga school of law information
+    - info about the gonzaga school of law
+    - information about Gonzaga law school
+    - Can i get information on the Gonzaga law school
+    - information about the law program at gonzaga
+    - Law school information
+    - Gonzaga law school information
+
+- intent: gonzaga_alumni_events
+  examples: |
+    - alumni events
+    - events for alumni
+    - What are alumni events
+    - what events are available for alumni
+    - gonzaga alumni event
+    - gonzaga alumni events
+    - alumni ceremony
+    - alumni event calendar
+    - alumni events calendar
+    - alumni scholarship benefit
+    - Are there events for alumni
+    - Are there any events for alumni
+    - What can I do as an alumni
+    - What can I do as an alumnus
+    - Are there GU alumni events
+    - What are some benefits to being an alumnus
+    - What are some benefits to being an alumni
+    - Can you tell me what alumni events there are
+    - Does Gonzaga have alumni events
+    - Are there alumni events here
+    - Can i get some info about Alumni events
+    - information about alumni events
+    - info about alumni events
+    - Is there any way to be part of Gonzaga if i graduated
+    - Are there any events for students who have graduated
+    - Any way to be part of events if i graduated
+    - Alum events at Gonzaga
+    - What are some events for alums at gonzaga
+    - info about alum events
+    - Gonzaga alum events
+
+- intent: gonzaga_alumni_career_support
+  examples: |
+    - Alumni jobs
+    - Alumni support
+    - Alumni career support
+    - Does Gonzaga provide support for their alumni
+    - How does gonzaga support their alumni
+    - Alumnus support
+    - Can I get alumni career support
+    - Does gonzaga university support their alumni
+    - Does gu support alumni
+    - Can I get career support as an alumnus
+    - Who can help me with my career as an alumnus
+    - Who can help me with my career as an alumni
+    - Who do I talk to for alumni career support
+    - Does Gonzaga provide alumni career support
+    - Is there a career office for alumni
+    - Is there CPD for alumni
+    - Can I get help with my career as an alumnus
+    - Can I get help with my career as an alumni
+    - Can I come back to Gonzaga for career support as an alumnus
+    - Can I come back to Gonzaga for career support as an alumni
+    - is there any career support with alumni
+    - Alum career support
+    - Gonzaga alumni career support
+    - Does Gonzaga alumni do career support for current students
+    - Career support with alumnis
+    - Alumni support with careers
+    - Are there alumnus that do any career support
+    - Can alumni help with career searches
+    - Info about career support through alumnus
+    - Does gonzaga alumni provide sessions regarding career support
+
+- intent: gonzaga_alumni_association
+  examples: |
+    - How to become a member of the alumni association
+    - alumni association
+    - alumni association membership
+    - alumni membership
+    - how do i join the alumni association
+    - can i join the alumni association
+    - how expensive is it to join the alumni association
+    - alumni membership price
+    - alumni membership cost
+    - cost of joining the alumni association
+    - Can I join the alumni association
+    - How do I join the Gonzaga alumni associations
+    - can you tell me about joining the alumni association
+    - Do I need to apply for the alumni association
+    - Do I need to pay to join the alumni association
+    - How do I become a member of the alumni association
+    - How do I get membership to the alumni association
+    - How do I qualify for the alumni association
+    - What are the steps to joining the alumni association 
+    - Can you tell me how to join the alumni association
+    - IS there a specific way to join the alumni association
+    - info about joining the alumni association
+    - information regarding joining the alumni association
+    - Is there an application to fill out to join the alumni association
+    - Gonzaga alumni association application
+    - How am i able to be part of the alumni association
+    - steps to becoming part of the alumni association
+    - How do i become part of the alumni association
+    - Gonzaga alum association application
+    - How do i join the alumni association
+
+- intent: gonzaga_alumni_volunteering
+  examples: |
+    - Gonzaga alumni volunteer
+    - alumni volunteer
+    - alumni volunteering
+    - alumni volunteer opportunity
+    - alumni volunteering opportunity
+    - alumni volunteering opportunities
+    - alumni volunteering event
+    - alumni volunteering events
+    - how to volunteer as an alumni
+    - can alumni volunteer
+    - Can I volunteer as an alumni
+    - Can I volunteer as an alumnus
+    - How do I become an alumni volunteer
+    - How do I become a volunteer as an alumnus
+    - How do I become a volunteer as an alumni
+    - Where can I volunteer as an alumnus
+    - Where can I volunteer as an alumni
+    - Is there an alumni volunteering program
+    - How can I access alumni volunteering
+    - Can I volunteer through Gonzaga as an alumni
+    - Can I volunteer through Gonzaga as an alumnus
+    - Can i have some information on volunteering as an alumni
+    - volunteer information when i am an alumni
+    - Are there any volunteer opportunities as an alumni
+    - Volunteer opportunities as an alumni
+    - alumni volunteering options
+    - am i able to volunteer as an alumni at gonzaga
+    - Volunteering as an alumni at gonzaga
+    - Alumni volunteering opportunities at Gonzaga
+    - Is there any way I can volunteer as an alumni at gonzaga?
+
+- intent: gonzaga_alumni_vegas_trip
+  examples: |
+    - Alumni vegas
+    - alumni vegas trip
+    - wcc tournament for alumni
+    - gonzaga las vegas alumni tickets
+    - gonzaga las vegas alumni
+    - alumni las vegas trip
+    - alumni las vegas
+    - can i get a discount as an alumni for the wcc tournament
+    - gonzaga alumni las vegas trip
+    - gonzaga alumni vegas trip
+    - What is the las vegas alumni trip
+    - Is there a las vegas trip for alumni
+    - How can I watch the WCC tournament as an alumni
+    - How can I watch the WCC tournament as an alumnus
+    - Can alumni take a trip to vegas for the wcc tournament
+    - Is it easy to go to the WCC tournament for alumni
+    - Is it easy to to vegas for alumni
+    - How can I go to vegas as an alumni
+    - How can I go to vegas as an alumnus
+    - Is it possible to go to the WCC tournament as alumni
+    - Is there a las vegas trip for the alumni
+    - Can alumni also participate in the Las vegas trip
+    - WCC alumni vegas trip
+    - Can i get some info about the alumni vegas trip
+    - Is there a vegas trip for alumni
+    - Information about the gonzaga alumni trip
+    - Vegas trip for alumnis
+    - Can i have some info about the Alumni Las Vegas trip
+    - Las vegas trop for alumni
+    - Info about the alumni vegas trip
+
+- intent: gonzaga_cce_info
+  examples: |
+    - Center for community engagement
+    - community engagement
+    - gonzaga center for community engagement
+    - what is the center for community engagement
+    - what is the CCE
+    - what is the purpose of CCE
+    - what is the point of CCE
+    - what is gonzaga CCE
+    - community engagement at gonzaga
+    - community engagement for gonzaga students
+    - CCE
+    - What is the community service office at Gonzaga?
+    - What should I know about CCE?
+    - What is some basic info about CCE?
+    - What can you tell me about CCE?
+    - What should I know about the community service office?
+    - What is some basic info about the community service office?
+    - What can you tell me about the community service office?
+    - What does CCE stand for?
+    - What is the community service office on campus?
+    - Tell me about CCE
+    - Can you tell me about CCE
+    - Tell me what CCE is
+    - Can you tell me what CCE is
+    - What is CCE
+    - What is CCE at Gonzaga
+    - What is CCE at GU
+    - What is the purpose of CCE
+    - More info about CCE
+    - More information about CCE
+    - What is CCE and what does it stand for
+    - What is the CCE
+    - Can i get some information about CCE
+    - What is some information on CCE
+    - information about the center for community engagement
+    - Info about the center for community engagement
+    - Center for community engagement information
+    - info about the center for community engagement 
+    - Am i able to volunteer through the center for community engagement
+    - Gonzaga Center for community engagement 
+
+- intent: gonzaga_on_campus_volunteering
+  examples: |
+    - on campus volunteer
+    - on campus volunteer opportunities
+    - on campus volunteer opportunity
+    - gonzaga campus volunteer
+    - volunteering on campus
+    - how do i volunteer on campus
+    - how does one volunteer on campus
+    - does gonzaga have volunteering on campus
+    - can i volunteer on campus
+    - can i volunteer at gonzaga
+    - What can you tell me about on-campus volunteering
+    - Where can I volunteer on campus
+    - Are there volunteering opportunities on campus
+    - Are there on-campus volunteer opportunities
+    - Where do volunteers work on campus
+    - Are there options for volunteering on campus
+    - Is there a list of on-campus volunteering opportunities
+    - What are the available opportunities for volunteering on campus
+    - Do I have options for volunteering on campus
+    - How do I become a volunteer on campus
+    - Tell me about on-campus volunteering opportunities
+    - Can you tell me about on-campus volunteering opportunities
+    - Tell me about volunteering opportunities at GU
+    - Tell me about volunteering opportunities at Gonzaga
+    - What are some on-campus volunteering opportunities
+    - What are some volunteering opportunities at GU
+    - What are some volunteering opportunities at Gonzaga
+    - Can you tell me about some volunteering opportunities at GU
+    - Can you tell me about some volunteering opportunities at Gonzaga
+    - GU on-campus volunteering opportunities
+    - Volunteering opportunities at gonzaga
+    - What are some chances to volunteer at Gonzaga
+    - What are some ways to volunteer through the CCE on campus
+    - Volunteering opportunities through the CCE on campus
+    - Volunteering opportunities through the center for community engagement
+    - Volunteering chances through the CCE on campus
+    - CCE Volunteering opportunities on campus
+    - What are some volunteering opportunities that i can participate in
+    - Volunteering chances on campus
+    - Are there any on campus volunteering options through the CCE
+
+- intent: gonzaga_cel_courses
+  examples: |
+    - Service fair
+    - neighborhood MAPS project
+    - community engaged learning
+    - community engaged learning at gonzaga
+    - what is community engaged learning
+    - what is community engaged learning at gonzaga
+    - community engaged learning placement
+    - how do i get involved in community engaged learning
+    - CEL
+    - what is CEL
+    - Do I have to take a CEL class
+    - What does it mean if one of my classes is CEL
+    - What does it mean if a class is a CEL course
+    - Are CEL courses required
+    - What does CEL stand for
+    - What is a CEL course
+    - What is a community engaged learning course
+    - How do I pass a CEL course
+    - How do I fulfill a CEL requirement
+    - What is a CEL requirement
+    - Tell me about CEL courses
+    - Tell me about GU CEL courses
+    - Tell me about Gonzaga CEL courses
+    - Tell me about CEL courses at GU
+    - Tell me about CEL courses at Gonzaga
+    - Can you tell me about CEL
+    - Tell me about CEL
+    - What are CEL courses
+    - GU Cel courses
+    - Gonzaga CEL courses
+    - Can i have some information about the CEL Courses
+    - CEL courses offered at Gonzaga
+    - What are some of the CEL Courses at Gonzaga
+    - What can you tell me about the CEL courses
+    - Can you tell me some information about the CEL courses at Gonzaga
+    - CEL classes at Gonzaga
+    - Community engaged learning classes offered at GU
+    - CEL classes information
+    - CEL courses information
+    - info about the CEL courses at Gonzaga
+
+- intent: gonzaga_cce_service_opportunities
+  examples: |
+    - opportunities to serve my community
+    - mentor students
+    - how to mentor students
+    - can i mentor students through CCE
+    - CCE service opportunity
+    - what service opportunities are available
+    - what service opportunities are available through CCE
+    - CCE fellowships
+    - center for community engagement opportunities
+    - what service opportunities does the center for community engagement offer
+    - Connections
+    - Sparks
+    - What is connections
+    - What is sparks
+    - How do I volunteer with CCE
+    - What are some volunteer opportunities with CCE
+    - How do I join CCE connections
+    - How do I join CCE sparks
+    - Does CCE take all volunteers
+    - How do I apply to be a volunteer with CCE
+    - GU CCE opportunities
+    - Gonzaga CCE opportunities
+    - CCE opportunities at GU
+    - CCE opportunities at Gonzaga
+    - Tell me about CCE opportunities
+    - Tell me about CCE opportunities at GU
+    - Tell me about CCE opportunities at Gonzaga
+    - Can I join CCE
+    - Are there CCE opportunities available
+    - available CCE opportunities at GU
+    - information about the CCE volunteering opportunities
+    - Can i get some information about CCE Volunteering opportunities
+    - Info about CCE volunteering opportunities
+    - CCE service opportunities
+    - Gonzaga CCE service opportunities
+    - Can you tell me information about any service opportunities through the CCE
+    - Information about CCE service opportunities
+    - what are some CCE service opportunities that i can participate in
+    - CCE service opportunities that i can be part of
+    - Can you provide some service opportunities through the Center for community Engagement
+
+- intent: gonzaga_gusr
+  examples: |
+    - GUSR
+    - what is gusr
+    - what’s gusr
+    - GUSR info
+    - GUSR information
+    - information about GUSR
+    - information on GUSR
+    - info on GUSR
+    - info about GUSR
+    - information about GUSR
+    - What does GUSR stand for
+    - What can you tell me about GUSR
+    - What should I know about GUSR
+    - What do you know about GUSR
+    - How do I join GUSR
+    - Can you explain what GUSR is
+    - Explain GUSR
+    - I don’t know what GUSR is
+    - Can you help me understand GUSR
+    - What does GUSR mean
+    - What does GUSR stand for
+    - Tell me more about GUSR
+    -  Can you tell me more about GUSR
+    - Tell me about GUSR
+    - Can you tell me about GUSR
+    - Important info about GUSR
+    - What is important info about GUSR
+    - Important info about GUSR
+    - Tell me info about GUSR
+    - Why is GUSR important
+    - GUSR Opportunities
+    - What do we do in GUSR
+    - What are some of the activities that are done through GUSR
+    - Can i get some information about GUSR
+    - What does GUSR do at Gonzaga
+    - What does GUSR do at GU
+    - IS GUSR another service opportunity
+    - How am i able to be part of GUSR
+    - What is the story about GUSR
+    - info about GUSR
+
+- intent: gonzaga_location_info
+  examples: |
+    - Gonzaga address
+    - address of gonzaga
+    - gu address
+    - gonzaga location
+    - where is GU located
+    - where is gonzaga located
+    - location of gonzaga
+    - what is gonzaga’s address
+    - how do i get to gonzaga
+    - What is the address for gonzaga
+    - Can I get the address to Gonzaga university
+    - What is the address to Gonzaga's campus
+    - Can you tell me the address for Gonzaga
+    - Gonzaga university address
+    - GU Address
+    - Address for GU’s campus
+    - address to campus
+    - Where is Gonzaga university located
+    - Location of gonzaga campus
+    - What city is gonzaga located in
+    - Where can I find Gonzaga
+    - Where can I find Gonzaga’s campus
+    - Where in Washington is Gonzaga
+    - Can you give me the address of Gonzaga
+    - Can you give me the address of Gonzaga’s campus
+    - Can you remind me Gonzaga’s address
+    - Tell me what Gonzaga’s address is
+    - I need to know Gonzaga’s address
+    - What is Gonzaga’s actual address
+    - What is the campus address
+
+- intent: gonzaga_student_info
+  examples: |
+    - gonzaga student body
+    - gonzaga student body count
+    - how many students go to gonzaga
+    - gonzaga undergraduate student body
+    - gonzaga graduate student count
+    - number of students that go to gonzaga
+    - gonzaga enrollment
+    - gonzaga enrollment count
+    - how many students are enrolled at gonzaga
+    - what is the size of gonzaga’s student body
+    - How many total students go to Gonzaga
+    - what is the number of students that attend gonzaga
+    - Student population number
+    - What is the student population at Gonzaga
+    - What is the student body size of Gonzaga
+    - Gonzaga student number
+    - How many students attend Gonzaga University
+    - The number of students attend Gonzaga
+    - How many students go to GU
+    - How many students attend GU
+    - Are there a lot of students at Gonzaga
+    - How big is gonzaga’s student population
+    - Does Gonzaga have a lot of students
+    - How many undergraduate students are at Gonzaga
+    - How many graduate students are at Gonzaga
+    - What is the undergraduate population size
+    - What is the graduate population size
+    - Does Gonzaga have a small population
+    - Does Gonzaga have a large population
+    - How many people go to Gonzaga
+    - How many people attend Gonzaga
+
+- intent: gonzaga_major_info
+  examples: |
+    - how many majors does gonzaga provide
+    - how many majors does gonzaga offer
+    - number of majors
+    - how many majors at gonzaga
+    - how many subjects are offered at gonzaga
+    - gonzaga majors
+    - how many gonzaga majors are there
+    - does gonzaga offer majors
+    - number of gonzaga majors
+    - gonzaga majors count
+    - How many majors can students choose from
+    - How many majors can students study at Gonzaga
+    - What is the number of majors students can do at Gonzaga
+    - The number of majors students can study
+    - How many majors does Gonzaga offer to students to choose from
+    - Number of majors at Gonzaga
+    - What is the number of majors at Gonzaga
+    - How many majors does Gonzaga Offer
+    - Majors number at Gonzaga
+    - How many majors are at GU
+    - Does Gonzaga have a lot of majors
+    - Does Gonzaga offer a lot of majors
+    - Does Gonzaga offer a lot of degrees
+    - Does Gonzaga offer many degrees
+    - How many options for majors do I have
+    - Are there many major options at Gonzaga
+    - Total number of majors
+    - Can you tell me the total number of majors at Gonzaga
+    - Can you tell me how many majors Gonzaga offers
+    - Are there a lot of different majors at Gonzaga
+
+- intent: gonzaga_established_info
+  examples: |
+    - How old is gonzaga
+    - when did gonzaga become a school
+    - how many years has gonzaga been a school
+    - gonzaga opening year
+    - when did gonzaga become a college
+    - when did gonzaga become a university
+    - is gonzaga old
+    - how old is gonzaga university
+    - was gonzaga established in the 1800s
+    - what year did gonzaga become a college
+    - Year that Gonzaga was founded
+    - What year was Gonzaga established
+    - What year was gonzaga founded
+    - Gonzaga University founding year
+    - Gonzaga founding year
+    - When was Gonzaga founded
+    - When was Gonzaga Established
+    - What is the date that Gonzaga university was established
+    - What is the date that Gonzaga was established
+    - Date that Gonzaga was founded
+    - How long ago was Gonzaga founded
+    - What is Gonzaga’s birthday
+    - When did Gonzaga first open
+    - When is Gonzaga’s founding date
+    - When was Gonzaga made
+    - When did Gonzaga start existing
+    - How long has Gonzaga existed
+    - Has Gonzaga been around for a long time
+    - Is Gonzaga old
+    - How new is Gonzaga
+
+- intent: gonzaga_metrics_info
+  examples: |
+    - Gonzaga campus size
+    - gonzaga acreage
+    - how much land does gonzaga own
+    - gonzaga campus size
+    - is gonzaga a dense campus
+    - how many square miles is gonzaga
+    - how many acres is gonzaga
+    - how many acres is gonzaga’s campus
+    - gonzaga campus size
+    - how big is campus
+    - How big is Gonzaga
+    - What is the size of the campus at Gonzaga
+    - Gonzaga Campus size
+    - What is the size of the GU campus
+    - GU campus size
+    - Gonzaga University Campus size
+    - How many acres is the campus at GU
+    - How big is Gonzaga’s campus in terms of acres
+    - Gonzaga university campus length
+    - What is the size of Gonzaga university campus
+    - How large is campus
+    - How bigs is campus
+    - How large is Gonzaga’s campus
+    - Does Gonzaga have a big campus
+    - Does Gonzaga have a small campus
+    - Can you tell me the size of Gonzaga’s campus
+    - Can you tell me the acreage of Gonzaga’s campus
+    - I want to know the size of Gonzaga’s campus
+    - Is Gonzaga’s campus small
+    - Is Gonzaga’s campus big
+
+- intent: out_of_scope
+  examples: |
+    - i want to order food
+    - what is 2+2

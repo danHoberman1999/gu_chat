@@ -17,37 +17,482 @@ rules:
   - intent: math_department_info
   - action: utter_math_department_info
 
-- rule: Give Info about Computer Science department
+- rule: Give Info about math credits
   steps:
-  - intent: compsci_department_info
-  - action: utter_compsci_department_info
+  - intent: math_credits_info
+  - action: utter_math_credits_info
+
+- rule: Give Info about math chairpoerson
+  steps:
+  - intent: math_chairperson_info
+  - action: utter_math_chairperson_info
+
+- rule: Give Info about math faculty
+  steps:
+  - intent: math_faculty_info
+  - action: utter_math_faculty_info
+
+- rule: Give Info about math courses
+  steps:
+  - intent: math_courses_info
+  - action: utter_math_courses_info
 
 - rule: Give Info about philosophy department
   steps:
   - intent: philosophy_department_info
   - action: utter_philosophy_department_info
 
-- rule: Give Info about Mech Engi department
+- rule: Give Info about philosophy credits
   steps:
-  - intent: mechengi_department_info
-  - action: utter_mechengi_department_info
+  - intent: philosophy_credits_info
+  - action: utter_philosophy_credits_info
 
-- rule: Give Info about Cost of attendance
+- rule: Give Info about philosophy chairperson
+  steps:
+  - intent: philosophy_chairperson_info
+  - action: utter_philosophy_chairperson_info
+
+- rule: Give Info about philosophy faculty
+  steps:
+  - intent: philosophy_faculty_info
+  - action: utter_philosophy_faculty_info
+
+- rule: Give Info about philosophy corses
+  steps:
+  - intent: philosophy_courses_info
+  - action: utter_philosophy_courses_info
+
+- rule: Give Info about scholarships
+  steps:
+  - intent: scholarship_info
+  - action: utter_scholarship_info
+
+- rule: Give Info about applying to financial aid
+  steps:
+  - intent: financial_aid_apply_info
+  - action: utter_financial_aid_apply_info
+
+- rule: Give Info about financial aid stats
+  steps:
+  - intent: financial_aid_stats_info
+  - action: utter_financial_aid_stats_info
+
+- rule: Give Info about paying the bill
+  steps:
+  - intent: gonzaga_billing_info
+  - action: utter_gonzaga_billing_info
+
+- rule: Give Info about cost of attendance
   steps:
   - intent: gonzaga_cost_of_attendance
   - action: utter_gonzaga_cost_of_attendance
-
+   
 - rule: Give Info about Thane name
   steps:
   - intent: gonzaga_president_info
   - action: utter_gonzaga_president_info
 
-- rule: Give Info about campus safety
+- rule: Give Info about Thane office
+  steps:
+  - intent: gonzaga_president_office_info
+  - action: utter_gonzaga_president_office_info
+
+- rule: Give Info about Thane resonsibilities
+  steps:
+  - intent: gonzaga_president_responsibilities
+  - action: utter_gonzaga_president_responsibilities
+
+- rule: Give Info about Computer Science department
+  steps:
+  - intent: compsci_department_info
+  - action: utter_compsci_department_info
+
+- rule: Give Info about Computer Science credits
+  steps:
+  - intent: compsci_credits_info
+  - action: utter_compsci_credits_info
+
+- rule: Give Info about Computer Science chairperson
+  steps:
+  - intent: compsci_chairperson_info
+  - action: utter_compsci_chairperson_info
+
+- rule: Give Info about Computer Science faculty
+  steps:
+  - intent: compsci_faculty_info
+  - action: utter_compsci_faculty_info
+
+- rule: Give Info about Computer Science courses
+  steps:
+  - intent: compsci_courses_info
+  - action: utter_compsci_courses_info
+
+- rule: Give info about jundt art
+  steps:
+  - intent: jundt_museum_art_info
+  - action: utter_jundt_museum_art_info
+
+- rule: Give info about jundt hours
+  steps:
+  - intent: jundt_museum_hours
+  - action: utter_jundt_museum_hours
+
+- rule: Give info about jundt location
+  steps:
+  - intent: jundt_museum_location
+  - action: utter_jundt_museum_location
+
+- rule: Give info about jundt name
+  steps:
+  - intent: jundt_museum_name
+  - action: utter_jundt_museum_name
+
+- rule: Give info about jundt art submission
+  steps:
+  - intent: jundt_museum_art_submission
+  - action: utter_jundt_museum_art_submission
+
+- rule: Give info about campus security contact
+  steps:
+  - intent: campus_security_contact
+  - action: utter_campus_security_contact
+
+- rule: Give info about campus security existance
+  steps:
+  - intent: campus_security_existance
+  - action: utter_campus_security_existance
+
+- rule: Give info about campus safety
   steps:
   - intent: gonzaga_campus_safety
   - action: utter_gonzaga_campus_safety
 
-- rule: Give Info about jundt art
+- rule: Give info about campus security office location
   steps:
-  - intent: jundt_museum_art_info
-  - action: utter_jundt_museum_art_info
+  - intent: campus_security_office_location
+  - action: utter_campus_security_office_location
+
+- rule: Give Info about Mech Engi department
+  steps:
+  - intent: mechengi_department_info
+  - action: utter_mechengi_department_info
+
+- rule: Give Info about Mech Engi credits
+  steps:
+  - intent: mechengi_credits_info
+  - action: utter_mechengi_credits_info
+
+- rule: Give Info about Mech Engi chairperson
+  steps:
+  - intent: mechengi_chairperson_info
+  - action: utter_mechengi_chairperson_info
+
+- rule: Give Info about Mech Engi faculty
+  steps:
+  - intent: mechengi_faculty_info
+  - action: utter_mechengi_faculty_info
+
+- rule: Give Info about Mech Engi coures
+  steps:
+  - intent: mechengi_courses_info
+  - action: utter_mechengi_courses_info
+
+- rule: Give Info about Study abroad eligibility
+  steps:
+  - intent: study_abroad_eligibility
+  - action: utter_study_abroad_eligibility
+
+- rule: Give Info about Study abroad locations
+  steps:
+  - intent: study_abroad_locations
+  - action: utter_study_abroad_locations
+
+- rule: Give Info about Study abroad application
+  steps:
+  - intent: study_abroad_application
+  - action: utter_study_abroad_application
+
+- rule: Give Info about Study abroad in Florance
+  steps:
+  - intent: study_abroad_florence
+  - action: utter_study_abroad_florence
+
+- rule: Give Info about Study abroad in flights
+  steps:
+  - intent: study_abroad_flights
+  - action: utter_study_abroad_flights
+
+- rule: Give Info about foley location
+  steps:
+  - intent: foley_library_location
+  - action: utter_foley_library_location
+
+- rule: Give Info about foley hours
+  steps:
+  - intent: foley_library_hours
+  - action: utter_foley_library_hours
+
+- rule: Give Info about foley name
+  steps:
+  - intent: foley_library_name
+  - action: utter_foley_library_name
+
+- rule: Give Info about foley return policy
+  steps:
+  - intent: foley_library_return_policy
+  - action: utter_foley_library_return_policy
+
+- rule: Give Info about foley study rooms
+  steps:
+  - intent: foley_library_study_rooms
+  - action: utter_foley_library_study_rooms
+
+- rule: Give Info about Gonzaga covid numbers
+  steps:
+  - intent: gonzaga_covid_numbers
+  - action: utter_gonzaga_covid_numbers
+
+- rule: Give Info about Gonzaga covid mask policy
+  steps:
+  - intent: gonzaga_covid_mask
+  - action: utter_gonzaga_covid_mask
+
+- rule: Give Info about Gonzaga vaccines
+  steps:
+  - intent: gonzaga_covid_vaccines
+  - action: utter_gonzaga_covid_vaccines
+
+- rule: Give Info about Gonzaga booster shots
+  steps:
+  - intent: gonzaga_covid_booster_shot
+  - action: utter_gonzaga_covid_booster_shot
+
+- rule: Give Info about Gonzaga covid testing
+  steps:
+  - intent: gonzaga_covid_testing
+  - action: utter_gonzaga_covid_testing
+
+- rule: Give Info about Gonzaga mens basketball
+  steps:
+  - intent: gonzaga_athletics_mens_basketball
+  - action: utter_gonzaga_athletics_mens_basketball
+
+- rule: Give Info about Gonzaga womens basketball
+  steps:
+  - intent: gonzaga_athletics_womens_basketball
+  - action: utter_gonzaga_athletics_womens_basketball
+
+- rule: Give Info about Gonzaga national championship
+  steps:
+  - intent: gonzaga_athletics_national_championship
+  - action: utter_gonzaga_athletics_national_championship
+
+- rule: Give Info about Gonzaga athletic programs
+  steps:
+  - intent: gonzaga_athletics_programs
+  - action: utter_gonzaga_athletics_programs
+
+- rule: Give Info about Gonzaga football team
+  steps:
+  - intent: gonzaga_athletics_football
+  - action: utter_gonzaga_athletics_football
+
+- rule: Give Info about Gonzaga admissions transfer
+  steps:
+  - intent: gonzaga_admissions_transfer
+  - action: utter_gonzaga_admissions_transfer
+
+- rule: Give Info about Gonzaga admissions applicaiton
+  steps:
+  - intent: gonzaga_admissions_application
+  - action: utter_gonzaga_admissions_application
+
+- rule: Give Info about Gonzaga acceptance_rate
+  steps:
+  - intent: gonzaga_admissions_acceptance_rate
+  - action: utter_gonzaga_admissions_acceptance_rate
+
+- rule: Give Info about Gonzaga common app
+  steps:
+  - intent: gonzaga_admissions_common_app
+  - action: utter_gonzaga_admissions_common_app
+
+- rule: Give Info about applying to gonzaga
+  steps:
+  - intent: gonzaga_admissions_applying
+  - action: utter_gonzaga_admissions_applying
+
+- rule: Give Info about Physcology department
+  steps:
+  - intent: psych_department_info
+  - action: utter_psych_department_info
+
+- rule: Give Info about Physcology credits
+  steps:
+  - intent: psych_credits_info
+  - action: utter_psych_credits_info
+  
+- rule: Give Info about Physcology chairperson
+  steps:
+  - intent: psych_chairperson_info
+  - action: utter_psych_chairperson_info
+
+- rule: Give Info about Physcology faculty
+  steps:
+  - intent: psych_faculty_info
+  - action: utter_psych_faculty_info
+
+- rule: Give Info about Physcology courses
+  steps:
+  - intent: psych_courses_info
+  - action: utter_psych_courses_info
+
+- rule: Give Info about new student orientation date
+  steps:
+  - intent: gonzaga_student_orientation_date
+  - action: utter_gonzaga_student_orientation_date
+
+- rule: Give Info about new student orientation activities
+  steps:
+  - intent: gonzaga_student_orientation_activities
+  - action: utter_gonzaga_student_orientation_activities
+  
+- rule: Give Info about new student orientation attendance
+  steps:
+  - intent: gonzaga_student_orientation_attendance
+  - action: utter_gonzaga_student_orientation_attendance
+
+- rule: Give Info about new student orientation leaders
+  steps:
+  - intent: gonzaga_student_orientation_leaders
+  - action: utter_gonzaga_student_orientation_leaders
+
+- rule: Give Info about Religion department
+  steps:
+  - intent: reli_department_info
+  - action: utter_reli_department_info
+
+- rule: Give Info about Religion credits
+  steps:
+  - intent: reli_credits_info
+  - action: utter_reli_credits_info
+
+- rule: Give Info about Religion chairperson
+  steps:
+  - intent: reli_chairperson_info
+  - action: utter_reli_chairperson_info
+
+- rule: Give Info about Religion faculty
+  steps:
+  - intent: reli_faculty_info
+  - action: utter_reli_faculty_info
+
+- rule: Give Info about Religion courses
+  steps:
+  - intent: reli_courses_info
+  - action: utter_reli_courses_info
+
+- rule: Give Info about law school apply
+  steps:
+  - intent: law_school_apply
+  - action: utter_law_school_apply
+
+- rule: Give Info about law school curriculum
+  steps:
+  - intent: law_school_curriculum
+  - action: utter_law_school_curriculum
+
+- rule: Give Info about law school faculty
+  steps:
+  - intent: law_school_faculty
+  - action: utter_law_school_faculty
+
+- rule: Give Info about law school career service
+  steps:
+  - intent: law_school_career_service
+  - action: utter_law_school_career_service
+
+- rule: Give Info about law school info
+  steps:
+  - intent: law_school_info
+  - action: utter_law_school_info
+
+- rule: Give Info about alumni events
+  steps:
+  - intent: gonzaga_alumni_events
+  - action: utter_gonzaga_alumni_events
+
+- rule: Give Info about alumni support
+  steps:
+  - intent: gonzaga_alumni_career_support
+  - action: utter_gonzaga_alumni_career_support
+
+- rule: Give Info about alumni association
+  steps:
+  - intent: gonzaga_alumni_association
+  - action: utter_gonzaga_alumni_association
+
+- rule: Give Info about alumni volunteering
+  steps:
+  - intent: gonzaga_alumni_volunteering
+  - action: utter_gonzaga_alumni_volunteering
+
+- rule: Give Info about alumni vegas trip
+  steps:
+  - intent: gonzaga_alumni_vegas_trip
+  - action: utter_gonzaga_alumni_vegas_trip
+
+- rule: Give Info CCE
+  steps:
+  - intent: gonzaga_cce_info
+  - action: utter_gonzaga_cce_info
+
+- rule: Give Info campus volunteering
+  steps:
+  - intent: gonzaga_on_campus_volunteering
+  - action: utter_gonzaga_on_campus_volunteering
+
+- rule: Give Info about cel courses
+  steps:
+  - intent: gonzaga_cel_courses
+  - action: utter_gonzaga_cel_courses
+
+- rule: Give Info about cce service
+  steps:
+  - intent: gonzaga_cce_service_opportunities
+  - action: utter_gonzaga_cce_service_opportunities
+
+- rule: Give Info about gusr courses
+  steps:
+  - intent: gonzaga_gusr
+  - action: utter_gonzaga_gusr
+
+- rule: Give Info gonzaga location
+  steps:
+  - intent: gonzaga_location
+  - action: utter_gonzaga_location
+
+- rule: Give Info gonzaga student info
+  steps:
+  - intent: gonzaga_student_info
+  - action: utter_gonzaga_student_info
+
+- rule: Give Info gonzaga majors info
+  steps:
+  - intent: gonzaga_major_info
+  - action: utter_gonzaga_major_info
+
+- rule: Give Info gonzaga estblishment
+  steps:
+  - intent: gonzaga_established_info
+  - action: utter_gonzaga_established_info
+
+- rule: Give Info gonzaga metrics
+  steps:
+  - intent: gonzaga_metrics_info
+  - action: utter_gonzaga_metrics_info
+
+- rule: out of scope
+  steps: 
+    - intent: nlu_fallback
+    - action: utter_out_of_scope

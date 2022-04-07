@@ -45,6 +45,66 @@ intents:
   - mechengi_chairperson_info
   - mechengi_faculty_info
   - mechengi_courses_info
+  - study_abroad_eligibility
+  - study_abroad_locations
+  - study_abroad_application
+  - study_abroad_florence
+  - study_abroad_flights
+  - foley_library_location
+  - foley_library_hours
+  - foley_library_name
+  - foley_library_return_policy
+  - foley_library_study_rooms
+  - gonzaga_covid_numbers
+  - gonzaga_covid_mask
+  - gonzaga_covid_vaccines
+  - gonzaga_covid_booster_shot
+  - gonzaga_covid_testing
+  - gonzaga_athletics_mens_basketball
+  - gonzaga_athletics_womens_basketball
+  - gonzaga_athletics_national_championship
+  - gonzaga_athletics_programs
+  - gonzaga_athletics_football
+  - gonzaga_admissions_transfer
+  - gonzaga_admissions_application
+  - gonzaga_admissions_acceptance_rate
+  - gonzaga_admissions_common_app
+  - gonzaga_admissions_applying
+  - psych_department_info
+  - psych_credits_info
+  - psych_chairperson_info
+  - psych_faculty_info
+  - psych_courses_info
+  - gonzaga_student_orientation_date
+  - gonzaga_student_orientation_activities
+  - gonzaga_student_orientation_attendance
+  - gonzaga_student_orientation_leaders
+  - reli_department_info
+  - reli_credits_info
+  - reli_chairperson_info
+  - reli_faculty_info
+  - reli_courses_info
+  - law_school_apply
+  - law_school_curriculum
+  - law_school_faculty
+  - law_school_career_service
+  - law_school_info
+  - gonzaga_alumni_events
+  - gonzaga_alumni_career_support
+  - gonzaga_alumni_association
+  - gonzaga_alumni_volunteering
+  - gonzaga_alumni_vegas_trip
+  - gonzaga_cce_info
+  - gonzaga_on_campus_volunteering
+  - gonzaga_cel_courses
+  - gonzaga_cce_service_opportunities
+  - gonzaga_gusr
+  - gonzaga_location_info
+  - gonzaga_student_info
+  - gonzaga_major_info
+  - gonzaga_established_info
+  - gonzaga_metrics_info
+  - out_of_scope
 
 responses:
   utter_greet:
@@ -177,7 +237,186 @@ responses:
   utter_mechengi_courses_info:
   - text: Here are the courses offered by the mechanical engineering department; MENG 221 Materials Engineering, MENG 291 Intro to Mech Eng Design, MENG 291L Intro to Mech Eng Design Lab, MENG 301 Manufacturing Processes, MENG 301L Manufacturing Processes Lab, MENG 321 Thermodynamics I, MENG 322 Thermodynamics II, MENG 330 Machine Design, MENG 341 Heat Transfer, MENG 411 Instrumentation Systems, MENG 411L Instrumentation Systems Lab, MENG 412 Mechanical Measurements, MENG 412L Mechanical Measurements Lab, MENG 434 Vibration Engineering, MENG 435 Applications in Vibrations, MENG 442 Advanced Heat Transfer, MENG 443 Combustion, MENG 445 Heating Vent and Air Condition, MENG 446 Energy Auditing, MENG 447 Advanced Energy Systems, MENG 451 Computational Dynamics, MENG 456 Design for Manufacturing, MENG 461 System Dynamics and Control, MENG 465 Introduction to Finite Element, MENG 467 Design w/Polymers-Composites, MENG 468 Biomatls & Biomech Eng, MENG 477 Materials Selection for Design.
 
+  utter_study_abroad_eligibility:
+  - text: Each program has different eligibility requirements, but the minimum requirements to study abroad with us are as follows; Minimum GPA of 2.5, complete the application process(es) by the listed deadlines, and approved conduct clearance. Students are not eligible to apply for or participate on any study abroad programs if currently on conduct probation or are suspended from the university.
 
+  utter_study_abroad_locations:
+  - text: There are many course offerings by programs for studying abroad. Locations include Africa, Asia and Middle East, Central America, South America, Europe, North America, and Oceania. A full list can be found at https://www.gonzaga.edu/academics/global-engagement/study-abroad/explore-study-abroad-programs/semester-programs-abroad 
+
+  utter_study_abroad_application:
+  - text: To apply for study abroad, use the Program list here https://studyabroad.gonzaga.edu/index.cfm?FuseAction=Programs.ListAll&_gl=1*1d5vbyw*_ga*ODI0MzI0MDA1LjE2MjMxOTAwNzY.*_ga_D9YJSENXGZ*MTY0ODY3NjY4NS4xMTAuMS4xNjQ4Njc3MDEwLjI2&& to apply and read the instructions in the Application Guide for Sponsered Programs here https://studyabroad.gonzaga.edu/_customtags/ct_FileRetrieve.cfm?File_ID=24202&_gl=1*1jp3wjy*_ga*ODI0MzI0MDA1LjE2MjMxOTAwNzY.*_ga_D9YJSENXGZ*MTY0ODY3NjY4NS4xMTAuMS4xNjQ4Njc3MDUxLjQ1&& 
+
+  utter_study_abroad_florence:
+  - text: Gonzaga in Florence is our flagship study abroad program. We offer the three program length options of semester (Fall or Spring), a full academic year, or summer-only.
+  
+  utter_study_abroad_flights:
+  - text: At this time, we strongly recommend not purchasing airfare until instructed to do so by the Study Abroad Office or the host program. Program dates for some programs may be subject to change.
+
+  utter_foley_library_location:
+  - text: The Foley library is located on the Gonzaga campus behind the Foley lawn, and southwest of the John J. Hemmingson Center.
+
+  utter_foley_library_hours:
+  - text: An up-to-date and comprehensive schedule for the hours of operation for the Foley library can be found here https://researchguides.gonzaga.edu/hours?_gl=1*lho1jh*_ga*ODI0MzI0MDA1LjE2MjMxOTAwNzY.*_ga_D9YJSENXGZ*MTY0ODY3NjY4NS4xMTAuMS4xNjQ4Njc3Mjc0LjU1&& The Foley library also has 24/7 online chat for research assistance when you need it
+
+  utter_foley_library_name:
+  - text: The Foley Library is named after the Superior Court judge Ralph E. Foley who is an alumnus of Gonzaga.
+
+  utter_foley_library_return_policy:
+  - text: The loan period for books at the Foley Library is 28 days, and the item limit is 25. Borrowed material is subject to recall after two weeks.
+
+  utter_foley_library_study_rooms:
+  - text: There are 11 reservable study rooms at Foley Library. You can reserve space here https://libcal.gonzaga.edu/reserve/LibraryStudyRooms 
+
+  utter_gonzaga_covid_numbers:
+  - text: Use this link to access the Gonzaga University COVID dashboard which gives up to date information on case numbers and guidelines on campus; https://www.gonzaga.edu/zagon/covid-19-dashboard 
+
+  utter_gonzaga_covid_mask:
+  - text: Effective March 26, 2022, the indoor use of masks will no longer be required at Gonzaga University. Gonzaga students, faculty, staff and contractors are advised to carry a mask at all times on campus in case it is needed to enter a specific location or space.
+
+  utter_gonzaga_covid_vaccines:
+  - text: Gonzaga requires students, faculty, and staff to be fully vaccinated for COVID-19 with the addition of a booster dose for those who are eligible. Gonzaga does allow for the signing of an exemption form for rare circumstances.
+
+  utter_gonzaga_covid_booster_shot:
+  - text: Gonzaga is requiring all campus-based students, faculty, staff and administrators to provide proof of full COVID-19 vaccination and is additionally requiring booster doses for those who are eligible.
+
+  utter_gonzaga_covid_testing:
+  - text: At this time, Gonzaga does not have a COVID-19 testing site on campus. However, you can take an at-home test or take a free COVID-19 test at a community site.
+
+  utter_gonzaga_athletics_mens_basketball:
+  - text: The men’s basketball team lost in the sweet sixteen to Arkansas 74-68
+
+  utter_gonzaga_athletics_womens_basketball:
+  - text: The women’s basketball team lost in second round to Louisville 68-59
+
+  utter_gonzaga_athletics_national_championship:
+  - text: Gonzaga has won 1 national championship in its history. The Gonzaga boxing program shared the national title in 1950.
+
+  utter_gonzaga_athletics_programs:
+  - text: There are 8 men’s sports and 8 women’s sports at Gonzaga University. Both men and women can participate in basketball, cross country, golf, rowing, soccer, tennis, and track and field. Men can also participate in baseball, while women can participate in volleyball.
+
+  utter_gonzaga_athletics_football:
+  - text: Gonzaga did have a Football team. Their last football game occurred in 1941, technically being undefeated since. 
+
+  utter_gonzaga_admissions_transfer:
+  - text: Before a transfer application can be reviewed for an admission decision, all required materials must be submitted to the Office of Admission. Students applying with less than 30 semester / 45 quarter credits earned; Transfer Application ($50 app fee), Transfer College Report, Teacher Recommendation, Final High School Transcripts, Official College Transcripts (from all institutions attended, including college in the high school), SAT/ACT test scores (required for students under 21 years of age) *Gonzaga is test optional. Students applying with more than 30 semester / 45 quarter credits earned; Transfer Application ($50 app fee),  Transfer College Report, Teacher Recommendation, Official College Transcripts (from all institutions attended).
+
+  utter_gonzaga_admissions_application:
+  - text: The regular application deadline for Fall First-Year students is December 1. To be considered for late consideration, the deadline for Fall First-Year students is Late February. For transfer students, the priority application deadline for Fall semester is March 1, and the final application deadline for Fall is June 1. Gonzaga no longer offers an early action application. 
+
+  utter_gonzaga_admissions_acceptance_rate:
+  - text: Gonzaga University’s acceptance rate is 72.9%
+
+  utter_gonzaga_admissions_common_app:
+  - text: First-year applicants should apply using the Common Application. Transfer applicants should apply using Gonzaga’s Transfer Application.
+
+  utter_gonzaga_admissions_applying:
+  - text: There are two approaches for applying to Gonzaga University. First-year applicants should apply using the Common Application. Transfer applicants should apply using Gonzaga’s Transfer Application.
+
+  utter_psych_department_info:
+  - text: Gonzaga University Department of Psychology offers a Bachelor of Arts degree in Psychology with an optional research concentration, as well as a minor in Psychology. In our Psychology program, you will critically examine human behavior and the science behind it while gaining a deep understanding of the human experience and learning to connect that knowledge to life and the complex issues in today’s world.
+
+  utter_psych_credits_info:
+  - text: For a B.A. in Psychology, both with or without a concentration in research, students must take 96 total credits, 33 of which are psychology credits. For a minor in Psychology, students must take 21 psychology credits
+
+  utter_psych_chairperson_info:
+  - text: The co-chair of the psychology department is Monica Bartlett
+
+  utter_psych_faculty_info:
+  - text: Here are the faculty in the psychology department; Laura Anaya, Ph.D., Sarah N. Arpin, Ph.D., Monica Y. Bartlett, Ph.D, Alexander Bies, Ph.D., Molly Kretchmar-Hendricks, Ph.D., Anna Marie Medina, Ph.D., Michael D. Nelson, Ph.D., Vinai Norasakkunkit, Ph.D., Paul Romanowich, Ph.D., Adam W. Stivers, Ph.D., Gary Thorne, Ph.D., John Wolfe, Ph.D., Nancy L. Worsham, Ph.D., Lee Wurm, Ph.D. 
+
+  utter_psych_courses_info:
+  - text: PSYC 101 General Psychology, PSYC 193 FYS, PSYC 202 Statistics for Psychology, PSYC 206 Scientific Principles of Psych, PSYC 280 Nurturing Reverence for Life, PSYC 281 Special Topics, PSYC 285 Psychology of Transcendence, PSYC 290 Directed Study, PSYC 300 Biological Psychology, PSYC 305 Sensation and Perception, PSYC 310 Cognition, PSYC 315 Learning, PSYC 318 Cultural Psychology, PSYC 320 Seminar; Psychophysiology, PSYC 330 Emotion, PSYC 334 Comparative Psychology, PSYC 335 Social Psychology, PSYC 340 Personality, PSYC 345 Child Psychology, PSYC 350 Adolescent Psychology, PSYC 352 Emerging Adulthood, PSYC 355 Psychology of Aging, PSYC 357 Lifespan Development, PSYC 364 Abnormal Child Psychology, PSYC 365 Ethics in Psychology, PSYC 370 Educational Psychology.
+
+  utter_gonzaga_student_orientation_date:
+  - text: Orientation Weekend is Friday, August 26 – Monday, August 29, 2022. 
+
+  utter_gonzaga_student_orientation_activities:
+  - text: First Year Experience Programs, along with the entire Zag community, is dedicated to providing new students with a welcoming, informative and incredibly fun Orientation Weekend. During Orientation, you will be assigned to a Small Group, led by upperclass Zags who are our Orientation Leaders. They have been trained during the summer to ensure that you will have a successful transition into college life. You'll meet with your Small Group t
+
+  utter_gonzaga_student_orientation_attendance:
+  - text: New student orientation is a once in a lifetime experience, and we highly recommend all first-year students to attend!
+
+  utter_gonzaga_student_orientation_leaders:
+  - text: Orientation leaders are the best people you will ever meet! During Orientation, you will be assigned to a Small Group, led by upperclass Zags who are our Orientation Leaders. They have been trained during the summer to ensure that you will have a successful transition into college life. You'll meet with your Small Group throughout the weekend, and they're a great resource to learn the ins and outs of GU.
+
+  utter_reli_department_info:
+  - text: In the Religious Studies Department, we help you reflect and think critically about your developing faith through the study of scripture, Christian tradition, and religion and culture in today’s modern world. Our major, minor and graduate programs include courses in scripture, historical and systematic theology, church history, moral theology, spirituality, cultural studies, and world/comparative religion.
+
+  utter_reli_credits_info:
+  - text: Gonzaga’s Religious Studies major requires 36 credits, including an eight course integrated core (24 credits) and one of two concentrations (either Christian Theology or Religious Pluralism—each 9 credits). A minor in Religious Studies requires only six courses (18 credits). That means that all students at Gonzaga are on their way to a minor in Religious Studies simply by completing the University’s Core requirements.
+
+  utter_reli_chairperson_info:
+  - text:  The chair of the religious studies department is Kevin McCruden
+
+  utter_reli_faculty_info:
+  - text: Here is a list of some of the faculty; Fr. Patrick Wanakuta Baraza, Ph.D, Senior Lecturer of Religious Studies. Richard J. Callahan, Jr., Ph.D., Lecturer of Religious Studies. Gloria (I-Ling) Chien, Ph.D. Assistant Professor of Religious Studies. Emily Clark, Ph.D, Associate Professor of Religious Studies. Shannon Dunn, Ph.D, Associate Professor of Religious Studies.
+
+  utter_reli_courses_info:
+  - text: Here is a list of some of the classes; RELI 101 Hebrew Bible, RELI 102 Old and New Testament, RELI 103 New Testament, RELI 104 Narrating Jesus, RELI 107 Gospels; Life/Tch of Jesus, RELI 126 Christian Doctrine, RELI 190 Directed Reading, RELI 201 Torah, Hebrew, & History
+
+  utter_law_school_apply:
+  - text: Applications open October 1 and our priority deadline is April 15. The application requirements include a Bachelor’s Degree from an accredited college, LSAT score, CAS report through LSAC, a personal statement, a resume, and two letters of recommendation. You can apply to GU Law through LSAC.
+
+  utter_law_school_curriculum:
+  - text: Graduation requires 90 course credits, plus 30 hours of public service work. Please consult the Academic Rules in our Student Handbook here https://www.gonzaga.edu/school-of-law/academics/the-ceal-division/student-resources/student-services/student-handbook 
+
+  utter_law_school_faculty:
+  - text:  Here are the faculty in the law department; Dr. Upendra Dev Acharya, LL.B., M.C.L., LL.M., S.J.D., Megan J. Ballard, M.A., J.D., LL.M., M. Lisa Bradley, J.D., Patrick J. Charles, J.D., M.L.S., Lynn M. Daggett, J.D., Ph.D., Jason Gillmer, J.D., LL.M., Gail Hammer, J.D., Brooks R. Holland, J.D., Luis Inaraja Vera, J.D., LL.M., Jessica M. Kiser, J.D., Inga N. Laurent, J.D., Genevieve Mann, J.D., M.S.W., Agnieszka McPeak, J.D., Daniel J. Morrissey, J.D., Ann Murphy, J.D., M.A., Kim Hai Pearson, J.D., MSt, Fr. Bryan V. Pham, S.J., J.D., J.C.D., Ph.D., Jacob H. Rooksby, J.D., Ph.D., Stephen L. Sepinuck, J.D., LL.M., Kevin Shelley, J.D., Sandra Simpson, J.D., M.I.T., Drew Simshaw, J.D., LL.M., Mary Pat Treuthart, J.D., LL.M., Danielle Wingfield-Smith, Ph.D., J.D.
+  
+  utter_law_school_career_service:
+  - text: The Gonzaga University School of Law Center for Professional Development provides services for students, recent graduates, and alumni at any point in their professional careers. The CPD can provide assistance with; Job searches, including currently available positions through Symplicity, Mock interviews and resume review, Career change counseling, Developing networking contacts, Salary information, Outlining your career options, Plan job-search strategies, Targeted, effective cover letters, Prepare for interviews
+  
+  utter_law_school_info:
+  - text:  Gonzaga University School of Law is dedicated to providing students with an excellent legal education informed by our humanistic, Jesuit, and Catholic traditions and values.
+  
+  utter_gonzaga_alumni_events:
+  - text: Graduating from Gonzaga is just the beginning. Your first years at Gonzaga set the foundation, but you’re a Zag for life. Welcome to your new forever home as Gonzaga Alumni. Connect with Zags on campus, in your area and around the world by attending an alumni event near you. Have you heard? Zag Nation is home to everyone! Friends, parents and family are an important member of our Zag family as well.  Friends of our Zags are always welcome at any of our alumni events.
+
+  utter_gonzaga_alumni_career_support:
+  - text: Alumni are welcome to access our career resources.  Please email our Director, Alumni & Employer Engagement, Erin Shields at shieldse@gonzaga.edu to set up a coaching appointment or to learn more.
+  
+  utter_gonzaga_alumni_association:
+  - text: Your membership dues directly support the alumni scholarship and programs that foster connections between Gonzaga alumni. Join today, enjoy the benefits, and support future Zags! To purchase membership click here;  https://www.gonzaga.edu/alumni/membership
+  
+  utter_gonzaga_alumni_volunteering:
+  - text: Serving is part of the Gonzaga DNA, and we’re grateful to be included among the organizations you choose to give your time to. Volunteer for a variety of events – regional chapter, athletic, mission and service, networking and social events.
+  
+  utter_gonzaga_alumni_vegas_trip:
+  - text: We welcome all Zags to go to vegas for the WCC basketball tournament. Visit for more information about dates and tickets https://www.gonzaga.edu/gonzaga-basketball/wcc-tournament
+  
+  utter_gonzaga_cce_info:
+  - text: The Center for Community Engagement coordinates community and public service programs, including community engaged learning courses, community-based volunteer and outreach programs, and external volunteer projects.
+  
+  utter_gonzaga_on_campus_volunteering:
+  - text: Gonzaga Center for Community Engagement (CCE) offers many opportunities to volunteer on Gonzaga’s campus. Use link to view more information on volunteering with CCE; https://www.gonzaga.edu/student-life/community-engagement-and-service/all-service-opportunities
+  
+  utter_gonzaga_cel_courses:
+  - text: Courses with a CEL requirement offer the opportunity to engage in volunteer work with the Spokane community as a part of the learning objectives in the course. Use this link to view more information on CEL courses you are enrolled in; https://www.gonzaga.edu/student-life/community-engagement-and-service/all-service-opportunities#:~:text=our%20service%20website.
+  
+  utter_gonzaga_cce_service_opportunities:
+  - text: We offer a variety of opportunities to serve your community. To get an updated list, please go to https://serve.gonzaga.edu/need/ 
+
+  utter_gonzaga_gusr:
+  - text: GUSR pairs students with adults who have disabilities to form relationships of friendship, respect, and mutual support.
+  
+  utter_gonzaga_location:
+  - text: Gonzaga is located in Spokane, Washington. Gonzaga university’s address is 502 E Boone Ave, Spokane, WA 99258.
+  
+  utter_gonzaga_student_info:
+  - text: Gonzaga University has 7,295 total students with 4,825 undergrad students and 2,443 graduate students
+  
+  utter_gonzaga_major_info:
+  - text: Gonzaga University offers 49 majors.
+
+  utter_gonzaga_established_info:
+  - text: Gonzaga was established on September 17, 1887.
+  
+  utter_gonzaga_metrics_info:
+  - text: Gonzaga’s campus size is 152 acres.
+  
+  utter_out_of_scope:
+  - text: Sorry, I did not understand your question. Could you please rephrase the question.
+#rasa run -m models --enable-api --cors "*" --debug
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
