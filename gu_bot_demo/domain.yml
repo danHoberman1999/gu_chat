@@ -104,6 +104,18 @@ intents:
   - gonzaga_major_info
   - gonzaga_established_info
   - gonzaga_metrics_info
+  - gonzaga_mascot
+  - gonzaga_academic_buildings
+  - gonzaga_campus_dorms
+  - gonzaga_schools_info
+  - gonzaga_eateries_info
+  - bulldog_bucks_resturants
+  - cog_info
+  - gonzaga_clubs_info
+  - gonzaga_graduation_info
+  - senior_design_info
+  - chatbot_insults
+  - gonzaga_campus_map
   - out_of_scope
 
 responses:
@@ -124,19 +136,19 @@ responses:
   - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: It’s me Spike, your AI companion. Powered by Rasa
 
   utter_math_department_info:
   - text: The Department of Mathematics offers three different degrees; Bachelors of Arts in Mathematics, Bachelor of Science in Mathematics, and a Bachelor of Science Applied Mathematics. As well as minors in both Mathematics and Applied Mathematics.
 
   utter_math_credits_info:
-  - text: For a BS in Mathematics, it takes 40 credits with 88 other credits needed. For a BA in Mathematics, it takes 31 credits with 97 ther credits needed. A BS in Applied Mathematics requires 57-69 credits, with 59-71 other credits fulfilled through a concentration.
+  - text: For a BS in Mathematics, it takes 40 credits with 88 other credits needed. For a BA in Mathematics, it takes 31 credits with 97 other credits needed. A BS in Applied Mathematics requires 57-69 credits, with 59-71 other credits fulfilled through a concentration.
   
   utter_math_chairperson_info:
   - text: The chairperson of the math department is Vesta Coufal.
 
   utter_math_courses_info:
-  - text: Here are some of the major courses in Math; Lower Devision, MATH 157 Calculus and Analytic Geometry I. MATH 258 Calculus and Analytic Geometry II. MATH 259 Calculus and Analytic Geometry III. Upper Devision, MATH 301 Fundamentals of Mathematics. MATH 339 Linear Algebra. MATH 413 Real Analysis I. MATH 437 Abstract Algebra I. MATH 499 Comprehensive.
+  - text: Here are some of the major courses in Math; Lower Division, MATH 157 Calculus and Analytic Geometry I. MATH 258 Calculus and Analytic Geometry II. MATH 259 Calculus and Analytic Geometry III. Upper Division, MATH 301 Fundamentals of Mathematics. MATH 339 Linear Algebra. MATH 413 Real Analysis I. MATH 437 Abstract Algebra I. MATH 499 Comprehensive.
 
   utter_math_faculty_info:
   - text: Here are the faculty in the math department; Melody Alsaker (Ph.D), Associate Professor of Mathematics. Logan Axon (Ph.D), Associate Professor of Mathematics. Richard Cangelosi (Ph.D),  Associate Professor of Mathematics. Vesta Coufal (Ph.D), Professor and Chair of Mathematics. Bonni Dichone (Ph.D), Associate Professor of Mathematics. Michelle Ghrist (Ph.D), Associate Professor of Mathematics. Colleen Goodwin, Senior Lecturer. Tomás Guardia (Ph.D), Lecturer of Mathematics. Eric Hogle (Ph.D), Associate Professor of Mathematics. 
@@ -184,7 +196,7 @@ responses:
   - text: The Department of Computer Science offers two degrees, a B.S. in Computer Science (BSCS) and a B.A. in Computer Science and Computational Thinking (BACSCT).  The department also offers minors and concentrations in Data Science, Software Application Development, and Software Security.
 
   utter_compsci_credits_info:
-  - text: For a BS in Computer Science, it requires 128 credits with 89 credits in computer science, mathematics, and science. For a BA in Computer Science , it requires 59 credits with the other 69 credits being fullfilled through a concentration and Core classes. For a minor in Computer Science, it requires 24 credits. 
+  - text: For a BS in Computer Science, it requires 128 credits with 89 credits in computer science, mathematics, and science. For a BA in Computer Science , it requires 59 credits with the other 69 credits being fulfilled through a concentration and Core classes. For a minor in Computer Science, it requires 24 credits. 
 
   utter_compsci_chairperson_info:
   - text: The chairperson of the computer science department is Paul DePalma
@@ -202,7 +214,7 @@ responses:
   - text: The hours of the Jundt Museum are; Monday - Saturday open from 10 AM - 4 PM and closed Sunday.
 
   utter_jundt_museum_location:
-  - text: The judnt museum us located on the west side of our gonzaga camous near lake Arthur. Here is the Address; 502 E Boone Avenue Spokane, WA 99258
+  - text: The judnt museum us located on the west side of our Gonzaga campus near lake Arthur. Here is the Address; 502 E Boone Avenue Spokane, WA 99258
 
   utter_jundt_museum_name:
   - text: It is named after Jim and Joann Jundt.
@@ -244,7 +256,7 @@ responses:
   - text: There are many course offerings by programs for studying abroad. Locations include Africa, Asia and Middle East, Central America, South America, Europe, North America, and Oceania. A full list can be found at https://www.gonzaga.edu/academics/global-engagement/study-abroad/explore-study-abroad-programs/semester-programs-abroad 
 
   utter_study_abroad_application:
-  - text: To apply for study abroad, use the Program list here https://studyabroad.gonzaga.edu/index.cfm?FuseAction=Programs.ListAll&_gl=1*1d5vbyw*_ga*ODI0MzI0MDA1LjE2MjMxOTAwNzY.*_ga_D9YJSENXGZ*MTY0ODY3NjY4NS4xMTAuMS4xNjQ4Njc3MDEwLjI2&& to apply and read the instructions in the Application Guide for Sponsered Programs here https://studyabroad.gonzaga.edu/_customtags/ct_FileRetrieve.cfm?File_ID=24202&_gl=1*1jp3wjy*_ga*ODI0MzI0MDA1LjE2MjMxOTAwNzY.*_ga_D9YJSENXGZ*MTY0ODY3NjY4NS4xMTAuMS4xNjQ4Njc3MDUxLjQ1&& 
+  - text: To apply for study abroad, use the Program list here https://studyabroad.gonzaga.edu/index.cfm?FuseAction=Programs.ListAll&_gl=1*1d5vbyw*_ga*ODI0MzI0MDA1LjE2MjMxOTAwNzY.*_ga_D9YJSENXGZ*MTY0ODY3NjY4NS4xMTAuMS4xNjQ4Njc3MDEwLjI2&& to apply and read the instructions in the Application Guide for Sponsored Programs here https://studyabroad.gonzaga.edu/_customtags/ct_FileRetrieve.cfm?File_ID=24202&_gl=1*1jp3wjy*_ga*ODI0MzI0MDA1LjE2MjMxOTAwNzY.*_ga_D9YJSENXGZ*MTY0ODY3NjY4NS4xMTAuMS4xNjQ4Njc3MDUxLjQ1&& 
 
   utter_study_abroad_florence:
   - text: Gonzaga in Florence is our flagship study abroad program. We offer the three program length options of semester (Fall or Spring), a full academic year, or summer-only.
@@ -280,7 +292,7 @@ responses:
   - text: Gonzaga is requiring all campus-based students, faculty, staff and administrators to provide proof of full COVID-19 vaccination and is additionally requiring booster doses for those who are eligible.
 
   utter_gonzaga_covid_testing:
-  - text: At this time, Gonzaga does not have a COVID-19 testing site on campus. However, you can take an at-home test or take a free COVID-19 test at a community site.
+  - text: Currently, Gonzaga does not have a COVID-19 testing site on campus. However, you can take an at-home test or take a free COVID-19 test at a community site.
 
   utter_gonzaga_athletics_mens_basketball:
   - text: The men’s basketball team lost in the sweet sixteen to Arkansas 74-68
@@ -298,7 +310,7 @@ responses:
   - text: Gonzaga did have a Football team. Their last football game occurred in 1941, technically being undefeated since. 
 
   utter_gonzaga_admissions_transfer:
-  - text: Before a transfer application can be reviewed for an admission decision, all required materials must be submitted to the Office of Admission. Students applying with less than 30 semester / 45 quarter credits earned; Transfer Application ($50 app fee), Transfer College Report, Teacher Recommendation, Final High School Transcripts, Official College Transcripts (from all institutions attended, including college in the high school), SAT/ACT test scores (required for students under 21 years of age) *Gonzaga is test optional. Students applying with more than 30 semester / 45 quarter credits earned; Transfer Application ($50 app fee),  Transfer College Report, Teacher Recommendation, Official College Transcripts (from all institutions attended).
+  - text: Before a transfer application can be reviewed for an admission decision, all required materials must be submitted to the Office of Admission. Students applying with less than 30 semester / 45 quarter credits earned; Transfer Application ($50 app fee), Transfer College Report, Teacher Recommendation, Final High School Transcripts, Official College Transcripts (from all institutions attended, including college in the high school), SAT/ACT test scores (required for students under 21 years of age) *Gonzaga is test optional. Students applying with more than 30 semester / 45 quarter credits earned; Transfer Application ($50 app fee), Transfer College Report, Teacher Recommendation, Official College Transcripts (from all institutions attended).
 
   utter_gonzaga_admissions_application:
   - text: The regular application deadline for Fall First-Year students is December 1. To be considered for late consideration, the deadline for Fall First-Year students is Late February. For transfer students, the priority application deadline for Fall semester is March 1, and the final application deadline for Fall is June 1. Gonzaga no longer offers an early action application. 
@@ -331,13 +343,13 @@ responses:
   - text: Orientation Weekend is Friday, August 26 – Monday, August 29, 2022. 
 
   utter_gonzaga_student_orientation_activities:
-  - text: First Year Experience Programs, along with the entire Zag community, is dedicated to providing new students with a welcoming, informative and incredibly fun Orientation Weekend. During Orientation, you will be assigned to a Small Group, led by upperclass Zags who are our Orientation Leaders. They have been trained during the summer to ensure that you will have a successful transition into college life. You'll meet with your Small Group t
+  - text: First Year Experience Programs, along with the entire Zag community, is dedicated to providing new students with a welcoming, informative and incredibly fun Orientation Weekend. During Orientation, you will be assigned to a Small Group, led by upper-class Zags who are our Orientation Leaders. They have been trained during the summer to ensure that you will have a successful transition into college life. You'll meet with your Small Group t
 
   utter_gonzaga_student_orientation_attendance:
   - text: New student orientation is a once in a lifetime experience, and we highly recommend all first-year students to attend!
 
   utter_gonzaga_student_orientation_leaders:
-  - text: Orientation leaders are the best people you will ever meet! During Orientation, you will be assigned to a Small Group, led by upperclass Zags who are our Orientation Leaders. They have been trained during the summer to ensure that you will have a successful transition into college life. You'll meet with your Small Group throughout the weekend, and they're a great resource to learn the ins and outs of GU.
+  - text: Orientation leaders are the best people you will ever meet! During Orientation, you will be assigned to a Small Group, led by upper-class Zags who are our Orientation Leaders. They have been trained during the summer to ensure that you will have a successful transition into college life. You'll meet with your Small Group throughout the weekend, and they're a great resource to learn the ins and outs of GU.
 
   utter_reli_department_info:
   - text: In the Religious Studies Department, we help you reflect and think critically about your developing faith through the study of scripture, Christian tradition, and religion and culture in today’s modern world. Our major, minor and graduate programs include courses in scripture, historical and systematic theology, church history, moral theology, spirituality, cultural studies, and world/comparative religion.
@@ -364,7 +376,7 @@ responses:
   - text:  Here are the faculty in the law department; Dr. Upendra Dev Acharya, LL.B., M.C.L., LL.M., S.J.D., Megan J. Ballard, M.A., J.D., LL.M., M. Lisa Bradley, J.D., Patrick J. Charles, J.D., M.L.S., Lynn M. Daggett, J.D., Ph.D., Jason Gillmer, J.D., LL.M., Gail Hammer, J.D., Brooks R. Holland, J.D., Luis Inaraja Vera, J.D., LL.M., Jessica M. Kiser, J.D., Inga N. Laurent, J.D., Genevieve Mann, J.D., M.S.W., Agnieszka McPeak, J.D., Daniel J. Morrissey, J.D., Ann Murphy, J.D., M.A., Kim Hai Pearson, J.D., MSt, Fr. Bryan V. Pham, S.J., J.D., J.C.D., Ph.D., Jacob H. Rooksby, J.D., Ph.D., Stephen L. Sepinuck, J.D., LL.M., Kevin Shelley, J.D., Sandra Simpson, J.D., M.I.T., Drew Simshaw, J.D., LL.M., Mary Pat Treuthart, J.D., LL.M., Danielle Wingfield-Smith, Ph.D., J.D.
   
   utter_law_school_career_service:
-  - text: The Gonzaga University School of Law Center for Professional Development provides services for students, recent graduates, and alumni at any point in their professional careers. The CPD can provide assistance with; Job searches, including currently available positions through Symplicity, Mock interviews and resume review, Career change counseling, Developing networking contacts, Salary information, Outlining your career options, Plan job-search strategies, Targeted, effective cover letters, Prepare for interviews
+  - text: The Gonzaga University School of Law Center for Professional Development provides services for students, recent graduates, and alumni at any point in their professional careers. The CPD can provide assistance with; Job searches, including currently available positions through Simplicity, Mock interviews and resume review, Career change counseling, Developing networking contacts, Salary information, Outlining your career options, Plan job-search strategies, Targeted, effective cover letters, Prepare for interviews
   
   utter_law_school_info:
   - text:  Gonzaga University School of Law is dedicated to providing students with an excellent legal education informed by our humanistic, Jesuit, and Catholic traditions and values.
@@ -379,10 +391,10 @@ responses:
   - text: Your membership dues directly support the alumni scholarship and programs that foster connections between Gonzaga alumni. Join today, enjoy the benefits, and support future Zags! To purchase membership click here;  https://www.gonzaga.edu/alumni/membership
   
   utter_gonzaga_alumni_volunteering:
-  - text: Serving is part of the Gonzaga DNA, and we’re grateful to be included among the organizations you choose to give your time to. Volunteer for a variety of events – regional chapter, athletic, mission and service, networking and social events.
+  - text: Serving is part of the Gonzaga DNA, and we’re grateful to be included among the organizations you choose to give your time to. Volunteer for a variety of events – regional chapter, athletic, mission and service, networking, and social events.
   
   utter_gonzaga_alumni_vegas_trip:
-  - text: We welcome all Zags to go to vegas for the WCC basketball tournament. Visit for more information about dates and tickets https://www.gonzaga.edu/gonzaga-basketball/wcc-tournament
+  - text: We welcome all Zags to go to Vegas for the WCC basketball tournament. Visit for more information about dates and tickets https://www.gonzaga.edu/gonzaga-basketball/wcc-tournament
   
   utter_gonzaga_cce_info:
   - text: The Center for Community Engagement coordinates community and public service programs, including community engaged learning courses, community-based volunteer and outreach programs, and external volunteer projects.
@@ -413,10 +425,100 @@ responses:
   
   utter_gonzaga_metrics_info:
   - text: Gonzaga’s campus size is 152 acres.
+
+  utter_gonzaga_mascot:
+  - text: Gonzaga’s mascot is a bulldog named Spike
+
+  utter_gonzaga_eateries_info:
+  - text: One of the main eateries on campus is the COG which is the main dining hall. The second dining is Cataldo or 1887 and we also have Starbucks, Thomas Hammer, Hand Crafted, and the Bulldog
+
+  utter_gonzaga_academic_buildings:
+  - text: |
+          Here is a list of the academic buildings on campus:
+            - Hemmingson Center (Student Center)
+            - College Hall (Arts and Sciences)
+            - Herak Center (Engineering)
+            - Hughes Hall (Science)
+            - Jepson Center (Business)
+            - Tilford Center (Nursing)
+            - Rosauer Center (Education)
+            - PACCAR (Applied Science)
+            - Bollier Center (Integrated Science & Engineering)
+            - Music Hall
+            - Music Annex
+            - Humanities Building
+
+  utter_gonzaga_campus_dorms:
+  - text: |
+          Here is a list of some of the dorms on campus:
+            - First year only Dorms:
+                - Alliance House (Traditional, All Female)
+                - Catherine Monica Hall (Traditional, Co-ed)
+                - Coughlin Hall (Traditional, Co-ed)
+                - Gollar Hall (Suite, Co-ed)
+            - Second Year only Dorms:
+                - Burch Apartments (Co-ed)
+                - Corkery Apartments (Co-ed)
+                - Kennedy Apartments (Co-ed)
+                - Sharp Apartments (Co-ed)
+                - Dussalt Suites (Suite, Co-ed)
+            - Both First and Second Year Dorms:
+                - Crimont Hall (Traditional, Co-ed)
+                - Desmet Hall (Traditional, All Male)
+                - Lincoln House (Traditional, Co-ed)
+                - Madonna Hall (Traditional, Co-ed)
+                - Marian Hall (Traditional, Co-ed)
+                - Chardin House (Suite, Co-ed)
+                - Cushing House (Suite, Co-ed)
+                - Twohy Hall (Suite, Co-ed)
+
+  utter_gonzaga_schools_info:
+  - text: |
+          At Gonzaga, there is the: 
+            - College of Arts and Sciences
+            - School of Business
+            - School of Education
+            - School of Engineering & Applied Sciences
+            - School of Nursing and Human Physiology
+            - School of Leadership Studies
+            - School of Law
   
+  utter_bulldog_bucks_resturants:
+  - text: |
+        On Campus Restaurants: Thomas Hammer, ZagDining, Starbucks, COG, Cataldo
+        Off Campus Restaurants: Caruso's, Pizza Pipline, Qdoba, Sonic, Wendeys, Clarks fork, McDonalds, Dominos, Ultimate Bagel, Tasty Bun and many more
+        If you would like the full list here is a link: https://www.gonzaga.edu/about/offices-services/campus-card-services/bulldog-bucks/bulldog-bucks-welcomed-here
+  
+  utter_cog_info:
+  - text: |
+        The COG is a two-level facility with six restaurant-style stations located in the John J.Hemmingson Center. Gonzaga students, faculty, staff and guests are all welcome to dine, socialize and explore our expanded dining options at the COG. Menus at each station change for breakfast, lunch and dinner, as well as on a daily basis throughout the semester.
+        The hours of the cog are Mon-Thurs: 7AM - 8PM, Fri: 7AM - 7:30PM, Sat: 9AM - 7:30 PM, Sun: 9AM - 8PM
+        For more info about pricing, here is a link: https://zagdining.sodexomyway.com/dining-near-me/COG
+
+  utter_gonzaga_clubs_info:
+  - text : Gonzaga has more than 150 student initiated clubs and organizations for you to choose. Clubs range from Sports like Rugby and Baseball Club to Culture Clubs such as La Raza and FASU to Academic clubs such as Robosub and Nurses Association to Musical clubs such as Big Bing Theory and Bulldog Band. For a full list of all of the clubs, click this link; https://gonzaga.campuslabs.com/engage/organizations
+
+  utter_gonzaga_graduation_info:
+  - text: Gonzaga University’s 129th Commencement will occur on May 7-8, 2022. Undergraduate Commencement will be on May 8 from 9AM - 12PM. Law Commencement will be on May 7 from 9AM - 10:30 AM. Graduate Commencement will be on May 7 from 12PM - 2 PM.
+
+  utter_senior_design_info:
+  - text: Senior design is a year long program where seniors in the School of Engineering are sponsored by a company to create a project or product. Like this one! Here is a link to the full list of the projects; https://www.gonzaga.edu/school-of-engineering-applied-science/student-experiences/cede/senior-design-projects/cpsc
+
+  utter_chatbot_insults:
+  - text: Sorry but i am trying my best to be a good Chatbot. You do not have to be so rude.
+
+  utter_gonzaga_campus_map:
+  - text: Here is a map of the campus. https://gonzaga.azureedge.net/-/media/Website/Documents/About/Our-Campus-and-Location/Maps-Directions/GU-Campus-2021-2022.ashx?rev=e775bbe2578248348d11d3d6c7e52e45&hash=E05A950D666B7E258A4E231621D51FBB
+
   utter_out_of_scope:
   - text: Sorry, I did not understand your question. Could you please rephrase the question.
+
+actions:
+  - action_save_conversation
+
 #rasa run -m models --enable-api --cors "*" --debug
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
+
+

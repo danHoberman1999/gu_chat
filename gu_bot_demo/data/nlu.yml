@@ -16,6 +16,8 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - yo
+    - howdy
 
 - intent: goodbye
   examples: |
@@ -30,6 +32,7 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - cya
 
 - intent: affirm
   examples: |
@@ -66,6 +69,10 @@ nlu:
     - so so perfect
     - so good
     - so perfect
+    - good
+    - im good
+    - im fine
+    - fine
 
 - intent: mood_unhappy
   examples: |
@@ -90,6 +97,18 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - who are you
+    - what are you
+    - are you a robot
+    - are you a human
+    -  what’s your name
+    - what is your name
+    - do you have a name
+    - what do i call you
+    - what should i call you
+    - are you an AI
+    - are you Artificial Intelligence
+
 
 - intent: math_department_info
   examples: |
@@ -3845,6 +3864,258 @@ nlu:
     - I want to know the size of Gonzaga’s campus
     - Is Gonzaga’s campus small
     - Is Gonzaga’s campus big
+
+- intent: gonzaga_mascot
+  examples: |
+    - Gonzaga’s mascot
+    - mascot
+    - GU mascot
+    - is spike the name of the mascot
+    - what is the bulldog’s name
+    - what is the name of gonzaga’s mascot
+    - mascot name
+    - bulldog’s name
+    - gonzaga bulldog name
+    - name of mascot
+    - Name of the gonzaga mascot
+    - Who is spike
+    - What is spike
+    - What is the mascot of Gonzaga
+    - Is the mascot of gonzaga an animal
+    - Mascot of gonzaga
+
+- intent: gonzaga_academic_buildings
+  examples: |
+    - names of buildings at gonzaga
+    - building names on campus
+    - buildings on campus
+    - gonzaga buildings
+    - what is the name of the engineering building
+    - what are some building names on campus
+    - gonzaga campus buildings
+    - what buildings are on campus
+    - name of school building
+    - building names
+    - a list of the academic buldings on campus
+    - what are some of the buildings on campus
+    - academic buildings on campus
+    - can i get a list of the academic buildings on campus
+    - what are the academic buildings
+    - list of academic buildings
+
+
+- intent: gonzaga_campus_dorms
+  examples: |
+    - gonzaga dorms
+    - dorms
+    - dormitories
+    - resident hall
+    - resident halls
+    - name of resident halls
+    - name of dorms
+    - dorms at gonzaga
+    - dorm building
+    - names of dorms at gonzaga
+    - what are some of the dorms at gonzaga
+    - what are some of the resident halls at gonzaga
+    - list of resident halls
+    - list of dorms at gonzaga
+    - what are some of the first year dorms
+    - what are some of the second year dorms
+    - what are the first year resident halls
+    - what are the second year resident halls
+    - list of rez halls on campus
+    - what are some of the rez halls on campus
+
+- intent: gonzaga_schools_info
+  examples: |
+    - what different schools are at gonzaga university?
+    - What schools are offered at gonzaga?
+    - what are the academic schools at gonzaga
+    - the different schools at gonzaga
+    - schools at gonzaga
+    - academic schools at gonzaga
+    - major schools at gonzaga
+    - what are the major schools at gonzaga
+
+- intent: gonzaga_eateries_info
+  examples: |
+    - Where are the restaurants on campus?
+    - Where are the places to eat on campus?
+    - What are the places to eat on campus? 
+    - Where is there to eat on campus?
+    - Where can I go to eat on campus?
+    - What are the restaurants on campus?
+    - What is there to eat on campus?
+    - What is the food on campus?
+    - What food can I get to eat on campus?
+    - Where can I get food on campus?
+    - Places to eat
+    - Restaurants on campus
+    - Which restaurants are on campus
+    - What restaurants are on campus
+    - Where can I go to eat
+    - Places to eat on campus
+    - Places to eat
+    - Eating on campus
+    - Where to eat on campus
+    - Where can I get food on campus
+    - Where can I get a bite to eat on campus?
+    - Are there locations on campus where i can get something to eat
+    - places to eat on campus
+    - Where are the dining halls on campus
+    - What are the dining hall on campus
+    - Dining halls at Gonzaga
+    - Dining halls at GU
+    - What are the cafeterias on campus
+    - cafeterias on campus
+    - student cafeterias
+
+- intent: bulldog_bucks_resturants
+  examples: |
+    - Which restaurants take bulldog bucks?
+    - Where can I use my bulldog bucks?
+    - Where can I pay with bulldog bucks?
+    - What are nearby restaurants that take bulldog bucks?
+    - What are nearby restaurants where I can pay with bulldog bucks?
+    - Which restaurants take zag bucks?
+    - Where can I use my zag bucks?
+    - Where can I pay with zag bucks?
+    - What are nearby restaurants that take zag bucks?
+    - What are nearby restaurants where I can pay with zag bucks?
+    - Restaurants that accept bulldog bucks
+    - Who accepts bulldog bucks
+    - bulldog bucks
+    - Spending bulldog bucks on food
+    - Places to spend my bulldog bucks on
+    - Restaurants that accept bulldog bucks
+    - Where can I use my bulldog bucks on food
+    - Can I use bulldog bucks for food
+    - Places to eat with bulldog bucks
+    - Are there any restaurants outside of campus i can use my bulldog bucks at
+    - What are the restaurants that accept bulldog bucks 
+
+- intent: cog_info
+  examples: |
+    - What is the COG?
+    - What is the cog cafeteria?
+    - What is the cafeteria called?
+    - Where is the COG?
+    - What does COG stand for?
+    - What is the name of the cafeteria on campus?
+    - What is the Circles Omnium Gonzagaorum?
+    - What does Circles Omnium Gonzagaorum mean?
+    - What does COG mean?
+    - Can I eat at the COG?
+    - food at cog
+    - gonzaga cog cafeteria
+    - gonzaga food court
+    - food court
+    - COG
+    - student cafeteria
+    - what is the cog at gonzaga
+    - is the cog a buffet
+    - gonzaga cog
+    - cog gonzaga
+    - What are the hours of the COG
+    - hours of the cog
+    - cog dining hall 
+
+- intent: gonzaga_clubs_info
+  examples: |
+    - what are some of the clubs on campus
+    - how many clubs are there at gonzaga
+    - are there any sports clubs at gonzaga
+    - can i get some information about clubs on campus
+    - Gonzaga clubs
+    - clubs at gonzaga
+    - academic clubs
+    - sports clubs
+    - informaiton about clubs at gonzaga
+    - culture clubs
+    - clubs at GU
+    - what are some of the clubs at GU
+    - student clubs at gonzaga
+    - list of student clubs at gonzaga
+    - what are some of the student clubs at gonzaga
+    - can i get a list of student clubs at gonzaga
+    - what are the different types of clubs at gonzaga
+
+- intent: gonzaga_graduation_info
+  examples: |
+    - When is this years graduation date?
+    - when is the date of graduation
+    - graduation date
+    - when will graduation occur
+    - graduation date info
+    - graduation information
+    - can you tell me when graduation will happen
+    - when will graduation be
+    - Can i get some info about graduation
+    - What is graduation happening
+    - date for graduation
+    - when is the graduation commencement
+    - undergrad graduation date
+    - What is the date for the undergrad graduation
+    - what day will graduation occur
+    - gonzaga grduation 2022
+    - graduation for the class of 2022
+    - when will the graduation be for the class of 2022
+    - 2022 commencement
+    - gonzaga commencement 2022
+    - when is the undergraduate ceremony
+
+- intent: senior_design_info
+  examples: |
+    - senior design project
+    - senior design
+    - gonzaga senior design project
+    - senior design at gonzaga
+    - gonzaga senior design
+    - projects for senior design
+    - engineering and computer science senior design
+    - gonzaga senior design projects
+    - what is the best senior design project
+    - What is senior design
+    - what are some of the senior design projects
+    - senior design projects this year
+    - can i get a list of the senior design projects
+    - computer science senior design projects
+    - electrical engineering senior designs projects
+    - computer engineering senior design projects
+
+- intent: chatbot_insults
+  examples: |
+    - you suck
+    - why are you bad
+    - youre bad
+    - heck you
+    - you're a bad bot
+    - why cant you be better
+    - loser
+    - take this L
+    - L
+    - bad chat bot
+    - chatbot bad
+    - f you
+    - bad bot
+  
+- intent: gonzaga_campus_map
+  examples: |
+    - can i get a map for directions
+    - campus map
+    - can you show me a campus map
+    - can i get directions to a certain building on campus
+    - map of campus
+    - can i get directions 
+    - directions 
+    - map of gonzaga campus
+    - can i get a map of the gonzaga campus
+    - gonzaga campus map
+    - campus map for directions
+    - can i get a map 
+    - can i get a map of campus
+    - show me a campus map
 
 - intent: out_of_scope
   examples: |

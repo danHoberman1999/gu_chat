@@ -1,0 +1,2407 @@
+This is a file that keeps track and records a whole conversation.
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: bot_challenge 
+UserText: are you alive
+
+Intent: reli_department_info 
+UserText: are you conscious
+
+Intent: reli_courses_info 
+UserText: religion classes at  gonzaga
+
+Intent: math_courses_info 
+UserText: math classes
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: nlu_fallback 
+UserText: ehjgfasdjkl
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: bot_challenge 
+UserText: are you alive
+
+Intent: reli_department_info 
+UserText: are you conscious
+
+Intent: reli_courses_info 
+UserText: religion classes at  gonzaga
+
+Intent: math_courses_info 
+UserText: math classes
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: nlu_fallback 
+UserText: ehjgfasdjkl
+
+Intent: nlu_fallback 
+UserText: How much wood could a woodchuck chuck if a woodchuck could chuck wood
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: bot_challenge 
+UserText: are you alive
+
+Intent: reli_department_info 
+UserText: are you conscious
+
+Intent: reli_courses_info 
+UserText: religion classes at  gonzaga
+
+Intent: math_courses_info 
+UserText: math classes
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: nlu_fallback 
+UserText: ehjgfasdjkl
+
+Intent: nlu_fallback 
+UserText: How much wood could a woodchuck chuck if a woodchuck could chuck wood
+
+Intent: nlu_fallback 
+UserText: Pencils pencils by the things she'll
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: bot_challenge 
+UserText: are you alive
+
+Intent: reli_department_info 
+UserText: are you conscious
+
+Intent: reli_courses_info 
+UserText: religion classes at  gonzaga
+
+Intent: math_courses_info 
+UserText: math classes
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: nlu_fallback 
+UserText: ehjgfasdjkl
+
+Intent: nlu_fallback 
+UserText: How much wood could a woodchuck chuck if a woodchuck could chuck wood
+
+Intent: nlu_fallback 
+UserText: Pencils pencils by the things she'll
+
+Intent: compsci_courses_info 
+UserText: what science class should i take
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: compsci_courses_info 
+UserText: how many computer science classes are offered
+
+Intent: nlu_fallback 
+UserText: you ruined my life
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: bot_challenge 
+UserText: are you alive
+
+Intent: reli_department_info 
+UserText: are you conscious
+
+Intent: reli_courses_info 
+UserText: religion classes at  gonzaga
+
+Intent: math_courses_info 
+UserText: math classes
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: nlu_fallback 
+UserText: ehjgfasdjkl
+
+Intent: nlu_fallback 
+UserText: How much wood could a woodchuck chuck if a woodchuck could chuck wood
+
+Intent: nlu_fallback 
+UserText: Pencils pencils by the things she'll
+
+Intent: compsci_courses_info 
+UserText: what science class should i take
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: compsci_courses_info 
+UserText: how many computer science classes are offered
+
+Intent: nlu_fallback 
+UserText: you ruined my life
+
+Intent: chatbot_insults 
+UserText: you suck
+
+Intent: gonzaga_eateries_info 
+UserText: Where can I go to eat on campus
+
+Intent: nlu_fallback 
+UserText: It doesn't
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: bot_challenge 
+UserText: are you alive
+
+Intent: reli_department_info 
+UserText: are you conscious
+
+Intent: reli_courses_info 
+UserText: religion classes at  gonzaga
+
+Intent: math_courses_info 
+UserText: math classes
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: nlu_fallback 
+UserText: ehjgfasdjkl
+
+Intent: nlu_fallback 
+UserText: How much wood could a woodchuck chuck if a woodchuck could chuck wood
+
+Intent: nlu_fallback 
+UserText: Pencils pencils by the things she'll
+
+Intent: compsci_courses_info 
+UserText: what science class should i take
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: compsci_courses_info 
+UserText: how many computer science classes are offered
+
+Intent: nlu_fallback 
+UserText: you ruined my life
+
+Intent: chatbot_insults 
+UserText: you suck
+
+Intent: gonzaga_eateries_info 
+UserText: Where can I go to eat on campus
+
+Intent: nlu_fallback 
+UserText: It doesn't
+
+Intent: nlu_fallback 
+UserText: Who is on the starting roster of the Gonzaga basketball team
+
+Intent: gonzaga_established_info 
+UserText: How old are
+
+Intent: gonzaga_president_info 
+UserText: what is thayne?
+
+Intent: gonzaga_president_info 
+UserText: who was thayne
+
+Intent: gonzaga_president_info 
+UserText: is thayne ded
+
+Intent: nlu_fallback 
+UserText: how much does thayne weigh
+
+Intent: gonzaga_president_responsibilities 
+UserText: does thayne get down with the boyz
+
+Intent: gonzaga_established_info 
+UserText: does gonzaga exist
+
+Intent: chatbot_insults 
+UserText: fuck you
+
+Intent: nlu_fallback 
+UserText: sdthsgssdgr
+
+Intent: gonzaga_student_info 
+UserText: How many people go to Gonzaga
+
+Intent: bot_challenge 
+UserText: whats your favorite color?
+
+Intent: bot_challenge 
+UserText: are you real
+
+Intent: nlu_fallback 
+UserText: are there any parties this weekend
+
+Intent: greet 
+UserText: help
+
+Intent: nlu_fallback 
+UserText: recording
+
+Intent: gonzaga_cce_info 
+UserText: what is cce
+
+Intent: gonzaga_president_info 
+UserText: is thayne the hottest man at gonzaga?
+
+Intent: gonzaga_graduation_info 
+UserText: What is the graduating class of 2022
+
+Intent: gonzaga_president_info 
+UserText: who is the president of gonzaga?
+
+Intent: nlu_fallback 
+UserText: what is a provost
+
+Intent: nlu_fallback 
+UserText: who is the interim provost of ise
+
+Intent: gonzaga_campus_dorms 
+UserText: what dorms are available to freshman
+
+Intent: compsci_faculty_info 
+UserText: Who is your favorite computer science professor?
+
+Intent: nlu_fallback 
+UserText: Which names start with B?
+
+Intent: jundt_museum_location 
+UserText: where is jundt
+
+Intent: jundt_museum_hours 
+UserText: What time is Cataldo open today?
+
+Intent: greet 
+UserText: hi
+
+Intent: gonzaga_student_info 
+UserText: How many students does go to gonzaga
+
+Intent: gonzaga_student_info 
+UserText: How many students on campus housing
+
+Intent: gonzaga_admissions_applying 
+UserText: How do i apply to gonzaga
+
+Intent: gonzaga_admissions_transfer 
+UserText: How do i transfer to gonzaga
+
+Intent: nlu_fallback 
+UserText: What should i study?
+
+Intent: study_abroad_eligibility 
+UserText: What country should I study abroad in?
+
+Intent: nlu_fallback 
+UserText: Which countries are represented at GU?
+
+Intent: nlu_fallback 
+UserText: would you kill one person to save the rest of humanity
+
+Intent: gonzaga_covid_mask 
+UserText: do I have to wear a mask
+
+Intent: nlu_fallback 
+UserText: how do I register for classes
+
+Intent: gonzaga_location_info 
+UserText: Where is hemingson
+
+Intent: foley_library_location 
+UserText: Where is the Foley Library
+
+Intent: jundt_museum_location 
+UserText: Where is the junk Museum
+
+Intent: jundt_museum_art_info 
+UserText: Jun#t Mu$eUMM
+
+Intent: gonzaga_student_info 
+UserText: How many students go to Gonzaga
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: What is the Gonzaga basketball team
+
+Intent: gonzaga_mascot 
+UserText: What is the Gonzaga mascot
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: Basketball
+
+Intent: gonzaga_athletics_womens_basketball 
+UserText: Women's basketball
+
+Intent: nlu_fallback 
+UserText: Who is Babe Ruth
+
+Intent: gonzaga_established_info 
+UserText: How old is Zayn
+
+Intent: gonzaga_president_info 
+UserText: how old is thayne
+
+Intent: gonzaga_president_info 
+UserText: what is thayne
+
+Intent: gonzaga_president_info 
+UserText: thayne?
+
+Intent: gonzaga_cce_info 
+UserText: cce
+
+Intent: nlu_fallback 
+UserText: ple
+
+Intent: bot_challenge 
+UserText: are you alive
+
+Intent: reli_department_info 
+UserText: are you conscious
+
+Intent: reli_courses_info 
+UserText: religion classes at  gonzaga
+
+Intent: math_courses_info 
+UserText: math classes
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: nlu_fallback 
+UserText: ehjgfasdjkl
+
+Intent: nlu_fallback 
+UserText: How much wood could a woodchuck chuck if a woodchuck could chuck wood
+
+Intent: nlu_fallback 
+UserText: Pencils pencils by the things she'll
+
+Intent: compsci_courses_info 
+UserText: what science class should i take
+
+Intent: math_credits_info 
+UserText: math requirements
+
+Intent: compsci_courses_info 
+UserText: how many computer science classes are offered
+
+Intent: nlu_fallback 
+UserText: you ruined my life
+
+Intent: chatbot_insults 
+UserText: you suck
+
+Intent: gonzaga_eateries_info 
+UserText: Where can I go to eat on campus
+
+Intent: nlu_fallback 
+UserText: It doesn't
+
+Intent: nlu_fallback 
+UserText: Who is on the starting roster of the Gonzaga basketball team
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: is gonzaga good at basketball
+
+Intent: gonzaga_athletics_mens_basketball 
+UserText: go zags
+
+Intent: gonzaga_student_info 
+UserText: how many students attend gonzaga
+
+Intent: gonzaga_cost_of_attendance 
+UserText: what does tuition cost
+
+Intent: gonzaga_admissions_applying 
+UserText: how do i apply to gonzaga
+
+Intent: nlu_fallback 
+UserText: how many different disciplines are there

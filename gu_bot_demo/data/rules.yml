@@ -492,7 +492,68 @@ rules:
   - intent: gonzaga_metrics_info
   - action: utter_gonzaga_metrics_info
 
+- rule: Give info about Gonzaga mascot
+  steps:
+  - intent: gonzaga_mascot
+  - action: utter_gonzaga_mascot
+
+- rule: Give info about academic buildings
+  steps:
+  - intent: gonzaga_academic_buildings
+  - action: utter_gonzaga_academic_buildings
+
+- rule: Give info about campus dorms
+  steps:
+  - intent: gonzaga_campus_dorms
+  - action: utter_gonzaga_campus_dorms
+
+- rule: Give info about gonzaga schools
+  steps:
+  - intent: gonzaga_schools_info
+  - action: utter_gonzaga_schools_info
+
+- rule: Give info about gonzaga eateries
+  steps:
+  - intent: gonzaga_eateries_info
+  - action: utter_gonzaga_eateries_info
+
+- rule: Give info about resturants that accept bulldog bucks
+  steps: 
+  - intent: bulldog_bucks_resturants
+  - action: utter_bulldog_bucks_resturants
+
+- rule: Give info about the COG
+  steps:
+  - intent: cog_info
+  - action: utter_cog_info
+
+- rule: Give info about student clubs
+  steps:
+  - intent: gonzaga_clubs_info
+  - action: utter_gonzaga_clubs_info
+
+- rule: Give info about graduation
+  steps:
+  - intent: gonzaga_graduation_info
+  - action: utter_gonzaga_graduation_info
+
+- rule: give info abou senior design
+  steps:
+  - intent: senior_design_info
+  - action: utter_senior_design_info
+
+- rule: chatbot insults response
+  steps:
+  - intent: chatbot_insults
+  - action: utter_chatbot_insults
+
+- rule: give campus map
+  steps:
+  - intent: gonzaga_campus_map
+  - action: utter_gonzaga_campus_map
+
 - rule: out of scope
   steps: 
     - intent: nlu_fallback
     - action: utter_out_of_scope
+    - action: action_save_conversation
